@@ -1,0 +1,45 @@
+[
+    {
+        "stageId": 1,
+        "openDay": 1,
+        "challengeIdList": [
+            1001,
+            1002
+        ],
+        "tabNameTextMapHash": 3160273230,
+        "PODKEBDBGFJ": 3748531491,
+        "PMPFNBJCBBB": [
+            4003503
+        ],
+        "MKIKIJPHHHM": 33311
+    },
+    {
+        "stageId": 2,
+        "openDay": 3,
+        "challengeIdList": [
+            1003,
+            1004
+        ],
+        "tabNameTextMapHash": 511501694,
+        "PODKEBDBGFJ": 1839439307,
+        "PMPFNBJCBBB": [
+            4003507,
+            4003614
+        ],
+        "MKIKIJPHHHM": 33312
+    },
+    {
+        "stageId": 3,
+        "openDay": 7,
+        "challengeIdList": [
+            1005,
+            1006
+        ],
+        "tabNameTextMapHash": 4172381926,
+        "PODKEBDBGFJ": 1618618843,
+        "PMPFNBJCBBB": [
+            4003712
+        ],
+        "MKIKIJPHHHM": 33313
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "FEKMJGLJOFF": [
+            0,
+            15
+        ],
+        "AEMDNBONONC": 1352001231,
+        "MANPDHDOEII": 2829445854
+    },
+    {
+        "id": 2,
+        "FEKMJGLJOFF": [
+            15,
+            30
+        ],
+        "AEMDNBONONC": 1485645855,
+        "MANPDHDOEII": 1644151894
+    },
+    {
+        "id": 3,
+        "FEKMJGLJOFF": [
+            30,
+            100
+        ],
+        "AEMDNBONONC": 3354022439,
+        "MANPDHDOEII": 2753250646
+    }
+]

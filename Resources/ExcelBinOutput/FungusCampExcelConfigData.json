@@ -1,0 +1,60 @@
+[
+    {
+        "AAMAGGPFIHM": 1,
+        "campNameTextMapHash": 1935736076,
+        "EGKHABGENGP": 1,
+        "IJMPOKMLHNF": 20170101,
+        "questId": 4008109,
+        "OBNOKOHCKOM": 4008106,
+        "LDFLPBNDCFH": [
+            1201701,
+            1201702
+        ]
+    },
+    {
+        "AAMAGGPFIHM": 2,
+        "campNameTextMapHash": 380485788,
+        "EGKHABGENGP": 1,
+        "IJMPOKMLHNF": 20170102,
+        "questId": 4008114,
+        "OBNOKOHCKOM": 4008108,
+        "LDFLPBNDCFH": [
+            1201703,
+            1201704
+        ],
+        "ALPKPEEJGPH": 1
+    },
+    {
+        "AAMAGGPFIHM": 3,
+        "campNameTextMapHash": 3201021900,
+        "EGKHABGENGP": 2,
+        "IJMPOKMLHNF": 20170103,
+        "LDFLPBNDCFH": [
+            1201705,
+            1201706
+        ],
+        "ALPKPEEJGPH": 2
+    },
+    {
+        "AAMAGGPFIHM": 4,
+        "campNameTextMapHash": 3559699356,
+        "EGKHABGENGP": 3,
+        "IJMPOKMLHNF": 20170104,
+        "LDFLPBNDCFH": [
+            1201707,
+            1201708
+        ],
+        "ALPKPEEJGPH": 3
+    },
+    {
+        "AAMAGGPFIHM": 5,
+        "campNameTextMapHash": 877087676,
+        "EGKHABGENGP": 4,
+        "IJMPOKMLHNF": 20170105,
+        "LDFLPBNDCFH": [
+            1201709,
+            1201710
+        ],
+        "ALPKPEEJGPH": 4
+    }
+]

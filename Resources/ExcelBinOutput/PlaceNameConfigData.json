@@ -1,0 +1,297 @@
+[
+    {
+        "ID": 4,
+        "EOGPHNIECEI": "MichiaeMatsuri",
+        "NILDPFBNDHM": "210_1",
+        "conditionType": "ErosionArea",
+        "ANEPCHGOPNK": "10",
+        "ILBMMPNAFEK": "",
+        "actionType": "Close",
+        "HGLBHEECNFB": 871831160
+    },
+    {
+        "ID": 5,
+        "EOGPHNIECEI": "MichiaeMatsuri",
+        "NILDPFBNDHM": "210_2",
+        "conditionType": "ErosionArea",
+        "ANEPCHGOPNK": "11",
+        "ILBMMPNAFEK": "",
+        "actionType": "Close",
+        "HGLBHEECNFB": 4103930824
+    },
+    {
+        "ID": 6,
+        "EOGPHNIECEI": "MichiaeMatsuri",
+        "NILDPFBNDHM": "210_3",
+        "conditionType": "ErosionArea",
+        "ANEPCHGOPNK": "12",
+        "ILBMMPNAFEK": "",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3023495768
+    },
+    {
+        "ID": 7,
+        "EOGPHNIECEI": "MichiaeMatsuri",
+        "NILDPFBNDHM": "210_4",
+        "conditionType": "ErosionArea",
+        "ANEPCHGOPNK": "13",
+        "ILBMMPNAFEK": "",
+        "actionType": "Close",
+        "HGLBHEECNFB": 2340153712
+    },
+    {
+        "ID": 8,
+        "EOGPHNIECEI": "MichiaeMatsuri",
+        "NILDPFBNDHM": "210_5",
+        "conditionType": "ErosionArea",
+        "ANEPCHGOPNK": "14",
+        "ILBMMPNAFEK": "",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3855303680
+    },
+    {
+        "ID": 9,
+        "EOGPHNIECEI": "MichiaeMatsuri",
+        "NILDPFBNDHM": "210_6",
+        "conditionType": "ErosionArea",
+        "ANEPCHGOPNK": "15",
+        "ILBMMPNAFEK": "",
+        "actionType": "Close",
+        "HGLBHEECNFB": 774130784
+    },
+    {
+        "ID": 17,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2307,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7301415",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 877632104
+    },
+    {
+        "ID": 18,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2306,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7301808",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 3743427520
+    },
+    {
+        "ID": 20,
+        "NILDPFBNDHM": "22_1",
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7303510",
+        "ILBMMPNAFEK": "2",
+        "actionType": "Open",
+        "HGLBHEECNFB": 3372395472
+    },
+    {
+        "ID": 21,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2901,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7302518",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 1817750680
+    },
+    {
+        "ID": 22,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2201,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7303510",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 2479691152
+    },
+    {
+        "ID": 23,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2502,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7303510",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 375354920
+    },
+    {
+        "ID": 26,
+        "EOGPHNIECEI": "Abyssalisle",
+        "NILDPFBNDHM": "200_6",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "16",
+        "ILBMMPNAFEK": "0",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3181215496
+    },
+    {
+        "ID": 27,
+        "EOGPHNIECEI": "Abyssalisle",
+        "NILDPFBNDHM": "200_7",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "16",
+        "ILBMMPNAFEK": "0",
+        "actionType": "Close",
+        "HGLBHEECNFB": 1782111304
+    },
+    {
+        "ID": 28,
+        "EOGPHNIECEI": "Abyssalisle",
+        "NILDPFBNDHM": "200_8",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "16",
+        "ILBMMPNAFEK": "0",
+        "actionType": "Close",
+        "HGLBHEECNFB": 2169820672
+    },
+    {
+        "ID": 29,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_1",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "18",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 2509172112
+    },
+    {
+        "ID": 30,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_2",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "18",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3116572528
+    },
+    {
+        "ID": 31,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_3",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "22",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3076560392
+    },
+    {
+        "ID": 32,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_4",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "20",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 1799092168
+    },
+    {
+        "ID": 33,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_5",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "21",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3618475032
+    },
+    {
+        "ID": 34,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_6",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "23",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 2294488248
+    },
+    {
+        "ID": 35,
+        "EOGPHNIECEI": "TheChasm",
+        "NILDPFBNDHM": "300_7",
+        "conditionType": "MapArea",
+        "ANEPCHGOPNK": "22",
+        "ILBMMPNAFEK": "1",
+        "actionType": "Close",
+        "HGLBHEECNFB": 3774198240
+    },
+    {
+        "ID": 36,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2602,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7305437",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 2215081832
+    },
+    {
+        "ID": 37,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2604,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7305208",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 2439891408
+    },
+    {
+        "ID": 38,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2702,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7305327",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 1408406640
+    },
+    {
+        "ID": 39,
+        "type": "SubArea",
+        "NILDPFBNDHM": "",
+        "NKKBHMALPFG": 2707,
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7308316",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 1562062200
+    },
+    {
+        "ID": 40,
+        "NILDPFBNDHM": "26_2",
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7305437",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 2557505760
+    },
+    {
+        "ID": 41,
+        "NILDPFBNDHM": "26_4",
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7305208",
+        "ILBMMPNAFEK": "2",
+        "actionType": "SwitchName",
+        "HGLBHEECNFB": 1729767272
+    },
+    {
+        "ID": 42,
+        "NILDPFBNDHM": "27_2",
+        "conditionType": "Quest",
+        "ANEPCHGOPNK": "7305327",
+        "ILBMMPNAFEK": "2",
+        "actionType": "Open",
+        "HGLBHEECNFB": 2091511880
+    }
+]

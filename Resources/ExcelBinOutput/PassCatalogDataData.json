@@ -1,0 +1,4350 @@
+[
+    {
+        "id": 1001,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_hengzhundating",
+        "GBECKABMACL": "SUBAREA",
+        "NNMJMBLGJAE": "2706",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1002,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1050,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_dueting",
+        "GBECKABMACL": "SUBAREA",
+        "NNMJMBLGJAE": "2705",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1003,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1050,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1001,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_duetingchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_duetingchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1004,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1002,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9016
+    },
+    {
+        "id": 1004,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_duetingrukou03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_duetingrukou03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1005,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1003,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1005,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_duetingrukou02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_duetingrukou02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1006,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1004,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_duetingrukou01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_duetingrukou01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1005,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukouchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukouchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1011,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1018,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1006,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1024,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1025,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1010,
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9017
+    },
+    {
+        "id": 1008,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_mushroomentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_mushroomentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1009,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1010,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_mushroom",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_mushroom",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1008,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1010,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_mushroomexit",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_mushroomexit",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1009,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1025,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1011,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutopyramid",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutopyramid",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1012,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1008,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1010,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1012,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukouroute01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukouroute01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1013,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1011,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1013,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukouroute02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukouroute02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1014,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1012,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1014,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukouroute03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukouroute03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1015,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1013,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1015,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_pyramid01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_pyramid01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1016,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1014,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1016,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_pyramid02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_pyramid02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1017,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1015,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1017,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_pyramidchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_pyramidchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1016,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9020
+    },
+    {
+        "id": 1018,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutojinrudown01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutojinrudown01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1019,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1010,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1019,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutojinrudown02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutojinrudown02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1018,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1020,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1020,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutojinrudown03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutojinrudown03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1019,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1021,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1032,
+                "IAGBCKEAALD": 9052,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1021,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_underwaterentrydown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_underwaterentrydown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1020,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1028,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1022,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_underwaterentryup01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_underwaterentryup01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1023,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1028,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1023,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_underwaterentryup02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_underwaterentryup02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1024,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1022,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1024,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_underwaterentryup03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_underwaterentryup03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1006,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1023,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1025,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1025,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutojinruup01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutojinruup01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1007,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1026,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1024,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1006,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1026,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutojinruup02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutojinruup02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1025,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1027,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1027,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_rukoutojinruup03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_rukoutojinruup03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1026,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1034,
+                "IAGBCKEAALD": 9053,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1028,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_shuimozhijian",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_shuimozhijian",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1021,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1022,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1029,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "",
+        "GBECKABMACL": "BIGWORLD",
+        "NNMJMBLGJAE": "",
+        "GDHLCPHFJBD": [
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1030,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinruchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinruchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9013
+    },
+    {
+        "id": 1031,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrudongku",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrudongku",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1030,
+                "CMMHNAEMCGO": "DeshretPoint_jinruzhiyin01"
+            },
+            {
+                "id": 1032,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1033,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1035,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1036,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1037,
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1032,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutorukoudown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutorukoudown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1031,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1020,
+                "IAGBCKEAALD": 9052,
+                "CMMHNAEMCGO": "DeshretPoint_jinruzhiyin02"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1033,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutorukouup01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutorukouup01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1031,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1034,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1035,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1036,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1034,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutorukouup02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutorukouup02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1033,
+                "CMMHNAEMCGO": "DeshretPoint_jinruzhiyin03"
+            },
+            {
+                "id": 1027,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1035,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinruuproom",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinruuproom",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1031,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1033,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1036,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1036,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutosiyu",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutosiyu",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1031,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1033,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1035,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1053,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1037,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutomishi01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutomishi01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1031,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1033,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1035,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1036,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1038,
+                "IAGBCKEAALD": 9054,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1038,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutomishi02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutomishi02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1037,
+                "IAGBCKEAALD": 9054,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1039,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1039,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutomishi03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutomishi03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1038,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1040,
+                "IAGBCKEAALD": 9055,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1040,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutomishi04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutomishi04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1039,
+                "IAGBCKEAALD": 9055,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1041,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyuren01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyuren01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1031,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1035,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1036,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1037,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1042,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1042,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyuren02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyuren02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1041,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1043,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1043,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyuren03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyuren03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1042,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1044,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1044,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyuren04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyuren04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1043,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1045,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1049,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1045,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyuren05",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyuren05",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1044,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1046,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1046,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyurenroom",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyurenroom",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1045,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1047,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1047,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutoyuren06",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutoyuren06",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1046,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1048,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1048,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurentojinru",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurentojinru",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1047,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1049,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutojisi",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutojisi",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1044,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1074,
+                "IAGBCKEAALD": 9043,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1050,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_xukongzhijianentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_xukongzhijianentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1001,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1002,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1051,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1051,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_xukongzhijianmid",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_xukongzhijianmid",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1050,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1052,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1052,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_xukongzhijian",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_xukongzhijian",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1051,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1053,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jinrutosiyuentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jinrutosiyuentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1036,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1054,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1054,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_siyu",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_siyu",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1053,
+                "CMMHNAEMCGO": "DeshretPoint_siyuzhiyin03"
+            },
+            {
+                "id": 1055,
+                "CMMHNAEMCGO": "DeshretPoint_siyuzhiyin02"
+            },
+            {
+                "id": 1058,
+                "CMMHNAEMCGO": "DeshretPoint_siyuzhiyin01"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1055,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_siyutoyuren",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_siyutoyuren",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1054,
+                "CMMHNAEMCGO": "DeshretPoint_yurenzhiyin01"
+            },
+            {
+                "id": 1056,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1056,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_siyutoyurendown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_siyutoyurendown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1055,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1057,
+                "CMMHNAEMCGO": "DeshretPoint_yurendownzhiyin01"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1057,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurenup",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurenup",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1056,
+                "CMMHNAEMCGO": "DeshretPoint_yurenupzhiyin01"
+            },
+            {
+                "id": 1065,
+                "CMMHNAEMCGO": "DeshretPoint_yurenzhiyin"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1058,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_siyutotouming",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_siyutotouming",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1054,
+                "CMMHNAEMCGO": "DeshretPoint_toumingzhiyin01"
+            },
+            {
+                "id": 1059,
+                "CMMHNAEMCGO": "DeshretPoint_toumingzhiyin02"
+            },
+            {
+                "id": 1060,
+                "CMMHNAEMCGO": "DeshretPoint_toumingzhiyin02"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_toumingdown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_toumingdown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1058,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1060,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1060,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_toumingup",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_toumingup",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1058,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1059,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1061,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1057,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1061,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurendown01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurendown01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1057,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1060,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1062,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1048,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1062,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurendown02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurendown02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1057,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1061,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1048,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1063,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1063,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurentojisiup",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurentojisiup",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1062,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1064,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1068,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1064,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurentojisidown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurentojisidown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1063,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1068,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1071,
+                "IAGBCKEAALD": 9042,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1065,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurendamen",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurendamen",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1057,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1066,
+                "IAGBCKEAALD": 9051,
+                "CMMHNAEMCGO": "DeshretPoint_yurendamenzhiyin"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1066,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurenchuansongdown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurenchuansongdown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1065,
+                "IAGBCKEAALD": 9051,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1067,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1067,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurenchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurenchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1066,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9019
+    },
+    {
+        "id": 1068,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_yurentojisiuproute",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_yurentojisiuproute",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1063,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1064,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1070,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1069,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisichuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisichuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1070,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9014
+    },
+    {
+        "id": 1070,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisichuansongentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisichuansongentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1068,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1069,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1078,
+                "IAGBCKEAALD": 9057,
+                "CMMHNAEMCGO": "DeshretPoint_jisichuansongzhiyin"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1071,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisidongkudown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisidongkudown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1069,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1072,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1064,
+                "IAGBCKEAALD": 9042,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1074,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1072,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisidongkuup",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisidongkuup",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1069,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1071,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1073,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1077,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1073,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_chiwangzhixin",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_chiwangzhixin",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1072,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1074,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisidatingentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisidatingentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1071,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1075,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1049,
+                "IAGBCKEAALD": 9043,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1075,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisidating01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisidating01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1074,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1076,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1076,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisidating02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisidating02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1075,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1077,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1077,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisidating03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisidating03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1076,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1072,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1078,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_jisitoliantong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_jisitoliantong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1069,
+                "IAGBCKEAALD": 9058,
+                "CMMHNAEMCGO": "DeshretPoint_jisitoliantongzhiyin01"
+            },
+            {
+                "id": 1070,
+                "IAGBCKEAALD": 9057,
+                "CMMHNAEMCGO": "DeshretPoint_jisitoliantongzhiyin01"
+            },
+            {
+                "id": 1079,
+                "CMMHNAEMCGO": "DeshretPoint_jisitoliantongzhiyin02"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1079,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liantong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liantong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1078,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1080,
+                "IAGBCKEAALD": 9044,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1096,
+                "IAGBCKEAALD": 9045,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1080,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liantongtodicheng",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liantongtodicheng",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1079,
+                "IAGBCKEAALD": 9044,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1081,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1081,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_dicheng",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_dicheng",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1080,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1082,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9018
+    },
+    {
+        "id": 1082,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyitodicheng",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyitodicheng",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1083,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1083,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyiright01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyiright01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1082,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1084,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1093,
+                "IAGBCKEAALD": 9041,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1084,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyiright02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyiright02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1083,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1087,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1088,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1085,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyiright03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyiright03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1084,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1088,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1086,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyiright04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyiright04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1085,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1087,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1087,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyiright05",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyiright05",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1086,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1084,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1088,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyichuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyichuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1084,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1089,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1093,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1128,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9021
+    },
+    {
+        "id": 1089,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyileft01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyileft01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1088,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1090,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1090,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyileft02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyileft02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1089,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1091,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1091,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyileft03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyileft03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1090,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1092,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1092,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyileft04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyileft04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1091,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1093,
+                "IAGBCKEAALD": 9040,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1095,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1093,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyimid",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyimid",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1088,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1083,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1092,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1094,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1094,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyidown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyidown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1093,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1095,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyitokuangdongentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyitokuangdongentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1092,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1124,
+                "IAGBCKEAALD": 9049,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1096,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liantongtoquanzhang",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liantongtoquanzhang",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1079,
+                "IAGBCKEAALD": 9045,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1097,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1097,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liantongtoquanzhangdown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liantongtoquanzhangdown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1096,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1098,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhang",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhang",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1096,
+                "CMMHNAEMCGO": "DeshretPoint_quanzhangzhiyin01"
+            },
+            {
+                "id": 1099,
+                "CMMHNAEMCGO": "DeshretPoint_quanzhangzhiyin04"
+            },
+            {
+                "id": 1122,
+                "IAGBCKEAALD": 9048,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1106,
+                "CMMHNAEMCGO": "DeshretPoint_quanzhangzhiyin06"
+            },
+            {
+                "id": 1102,
+                "IAGBCKEAALD": 9046,
+                "CMMHNAEMCGO": "DeshretPoint_quanzhangzhiyin02"
+            },
+            {
+                "id": 1107,
+                "CMMHNAEMCGO": "DeshretPoint_quanzhangzhiyin07"
+            }
+        ]
+    },
+    {
+        "id": 1099,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1100,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1103,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1109,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9015
+    },
+    {
+        "id": 1100,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangzhijianentry01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangzhijianentry01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1101,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1101,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangzhijian",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangzhijian",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1100,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1102,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1102,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangzhijianentry02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangzhijianentry02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1101,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1098,
+                "IAGBCKEAALD": 9046,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1103,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangstair01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangstair01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1104,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1104,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangstair02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangstair02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1103,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1105,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1105,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangstair03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangstair03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1104,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1106,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1106,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangstair04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangstair04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1105,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1107,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1107,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangstair05",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangstair05",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1106,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1108,
+                "IAGBCKEAALD": 9047,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1108,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangstair06",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangstair06",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1107,
+                "IAGBCKEAALD": 9047,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1098,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1109,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangtokuangdong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangtokuangdong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1099,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin01"
+            },
+            {
+                "id": 1110,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin02"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1110,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangtokuangdongentryup",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangtokuangdongentryup",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1109,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin03"
+            },
+            {
+                "id": 1111,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1125,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1111,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1110,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1112,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1114,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1115,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1112,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1111,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1113,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1114,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1116,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1117,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1113,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup03",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup03",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1112,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1114,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1116,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1114,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1111,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1112,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1113,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1115,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1115,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup05",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup05",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1111,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1112,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1114,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1124,
+                "IAGBCKEAALD": 9050,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1116,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup06",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup06",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1113,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1117,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1125,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1117,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongdown01",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongdown01",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1112,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1113,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1116,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1118,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1125,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1118,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongdown02",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongdown02",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1117,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1125,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1119,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1116,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1120,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1119,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1110,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1111,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1112,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1116,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1117,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1120,
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1120,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongdown04",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongdown04",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1118,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1119,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1125,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1121,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1110,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1121,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongdown05",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongdown05",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1120,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin04"
+            },
+            {
+                "id": 1122,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1123,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1122,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_quanzhangtokuangdongentrydown",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_quanzhangtokuangdongentrydown",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1098,
+                "IAGBCKEAALD": 9048,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1121,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin05"
+            },
+            {
+                "id": 1123,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin05"
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1123,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongdown06",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongdown06",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1121,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin06"
+            },
+            {
+                "id": 1122,
+                "CMMHNAEMCGO": "DeshretPoint_kuangdongzhiyin06"
+            },
+            {
+                "id": 1124,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1124,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyitokuangdong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyitokuangdong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1095,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1115,
+                "IAGBCKEAALD": 9050,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1123,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1125,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_kuangdongup07",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_kuangdongup07",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1110,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1116,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1126,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_bigpyramidchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_bigpyramidchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9025
+    },
+    {
+        "id": 1127,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_bigpyramid",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_bigpyramid",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1126,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1128,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyidimian",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyidimian",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1129,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1088,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1129,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_miyientry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_miyientry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1128,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1130,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liushaexit",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liushaexit",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1133,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1131,
+                "IAGBCKEAALD": 9039,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1131,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liushaexitroute",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liushaexitroute",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1130,
+                "IAGBCKEAALD": 9039,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1132,
+                "IAGBCKEAALD": 9039,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1132,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liushaexitchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liushaexitchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1131,
+                "IAGBCKEAALD": 9039,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9024
+    },
+    {
+        "id": 1133,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liusha",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liusha",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1130,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1134,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1134,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liushaentry",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liushaentry",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1135,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1133,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1135,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liushaentrychuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liushaentrychuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1134,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1136,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9023
+    },
+    {
+        "id": 1136,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_liushadicheng",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_liushadicheng",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1135,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9022
+    },
+    {
+        "id": 1137,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_shengxian",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_shengxian",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "id": 1138,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1138,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_shengxianchuansong",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_shengxianchuansong",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1029,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ],
+        "AFLKNBDECFB": true,
+        "IAGBCKEAALD": 9026
+    },
+    {
+        "id": 1139,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_warpgate",
+        "GBECKABMACL": "POLYGON",
+        "NNMJMBLGJAE": "BigWorld_DeshretGuide_warpgate",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1001,
+                "weight": 10,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    },
+    {
+        "id": 1140,
+        "JHMGLDHKKMI": 3,
+        "MBGKPCKJCBH": 1,
+        "OGLLMCOBLJO": "DeshretPoint_arudaoying",
+        "GBECKABMACL": "SUBAREA",
+        "NNMJMBLGJAE": "2707",
+        "GDHLCPHFJBD": [
+            {
+                "id": 1139,
+                "weight": 10,
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            },
+            {
+                "CMMHNAEMCGO": ""
+            }
+        ]
+    }
+]

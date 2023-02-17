@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "EOEJKAICGNN": 1,
+        "weight": 40,
+        "CFACFFBFBMC": 30
+    },
+    {
+        "id": 2,
+        "EOEJKAICGNN": 2,
+        "weight": 50,
+        "CFACFFBFBMC": 35
+    },
+    {
+        "id": 3,
+        "EOEJKAICGNN": 3,
+        "weight": 10,
+        "CFACFFBFBMC": 25
+    },
+    {
+        "id": 4,
+        "EOEJKAICGNN": 4,
+        "CFACFFBFBMC": 10
+    }
+]

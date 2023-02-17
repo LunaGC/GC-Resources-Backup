@@ -1,0 +1,121 @@
+[
+    {
+        "id": 111023,
+        "INILFKMGHBB": [
+            {
+                "OPPIANHGABA": 9201,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9200,
+                "DADKGALECKK": 1.0
+            },
+            {},
+            {}
+        ],
+        "IKBNPLPAFGL": 2,
+        "FLKBCHDBOAC": []
+    },
+    {
+        "id": 111024,
+        "INILFKMGHBB": [
+            {
+                "OPPIANHGABA": 9202,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9200,
+                "DADKGALECKK": 1.0
+            },
+            {},
+            {}
+        ],
+        "IKBNPLPAFGL": 3,
+        "FLKBCHDBOAC": []
+    },
+    {
+        "id": 111025,
+        "INILFKMGHBB": [
+            {
+                "OPPIANHGABA": 9203,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9200,
+                "DADKGALECKK": 1.0
+            },
+            {},
+            {}
+        ],
+        "IKBNPLPAFGL": 4,
+        "FLKBCHDBOAC": []
+    },
+    {
+        "id": 111026,
+        "INILFKMGHBB": [
+            {
+                "OPPIANHGABA": 9204,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9205,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9200,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9206,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            }
+        ],
+        "IKBNPLPAFGL": 5,
+        "FLKBCHDBOAC": []
+    },
+    {
+        "id": 111027,
+        "INILFKMGHBB": [
+            {
+                "OPPIANHGABA": 9200,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {},
+            {},
+            {}
+        ],
+        "IKBNPLPAFGL": 1,
+        "FLKBCHDBOAC": [
+            10007
+        ]
+    },
+    {
+        "id": 111028,
+        "INILFKMGHBB": [
+            {
+                "OPPIANHGABA": 9207,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9200,
+                "DADKGALECKK": 1.0
+            },
+            {
+                "OPPIANHGABA": 9208,
+                "weight": 1.0,
+                "DADKGALECKK": 1.0
+            },
+            {}
+        ],
+        "IKBNPLPAFGL": 6,
+        "FLKBCHDBOAC": []
+    }
+]
