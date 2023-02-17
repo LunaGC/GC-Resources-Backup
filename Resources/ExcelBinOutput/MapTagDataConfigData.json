@@ -1,0 +1,147 @@
+[
+    {
+        "id": 2,
+        "type": "HomeWorld",
+        "nameTextMapHash": 3071628724,
+        "AEMBECOKILJ": 2904399338,
+        "LKBLLLMCBJD": 10,
+        "icon": "UI_MarkSwitch_Homeworld",
+        "hideBeforeUnlock": true,
+        "sceneIdList": [
+            2001,
+            2002,
+            2003
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Islands",
+        "nameTextMapHash": 2157852924,
+        "AEMBECOKILJ": 4231616786,
+        "LKBLLLMCBJD": 20,
+        "icon": "UI_MarkSwitch_GoldenAppleIsles",
+        "hideBeforeUnlock": true,
+        "sceneIdList": [
+            4
+        ],
+        "NMABACHHBII": -335.3139953613281,
+        "EPJCJMMDPCA": -655.7260131835938
+    },
+    {
+        "id": 4,
+        "nameTextMapHash": 706446876,
+        "AEMBECOKILJ": 49482922,
+        "LKBLLLMCBJD": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "unlockByDefault": true,
+        "cityID": 1,
+        "IJMHAMELMEO": 10,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 5,
+        "nameTextMapHash": 1982412604,
+        "AEMBECOKILJ": 1428887970,
+        "LKBLLLMCBJD": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 2,
+        "IJMHAMELMEO": 128,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 6,
+        "nameTextMapHash": 869248244,
+        "AEMBECOKILJ": 853904250,
+        "LKBLLLMCBJD": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 3,
+        "IJMHAMELMEO": 242,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 7,
+        "type": "Abyssalisle",
+        "nameTextMapHash": 1862653596,
+        "AEMBECOKILJ": 1002315562,
+        "LKBLLLMCBJD": 70,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "IJMHAMELMEO": 31,
+        "sceneIdList": [
+            5
+        ]
+    },
+    {
+        "id": 8,
+        "type": "MichiaeMatsuri",
+        "nameTextMapHash": 2887066388,
+        "AEMBECOKILJ": 2106142714,
+        "LKBLLLMCBJD": 20,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "IJMHAMELMEO": 2,
+        "sceneIdList": [
+            7
+        ]
+    },
+    {
+        "id": 9,
+        "type": "TheChasm",
+        "nameTextMapHash": 297471884,
+        "AEMBECOKILJ": 3468523274,
+        "LKBLLLMCBJD": 70,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "IJMHAMELMEO": 1,
+        "sceneIdList": [
+            6
+        ]
+    },
+    {
+        "id": 10,
+        "type": "DreamIsland",
+        "nameTextMapHash": 3682200372,
+        "AEMBECOKILJ": 1255928274,
+        "LKBLLLMCBJD": 5,
+        "icon": "UI_MarkSwitch_GoldenAppleIsles",
+        "hideBeforeUnlock": true,
+        "IJMHAMELMEO": 33,
+        "sceneIdList": [
+            9
+        ]
+    },
+    {
+        "id": 11,
+        "nameTextMapHash": 1074864084,
+        "AEMBECOKILJ": 2308207546,
+        "LKBLLLMCBJD": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 4,
+        "IJMHAMELMEO": 482,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 12,
+        "type": "CattailTavern",
+        "nameTextMapHash": 4293069292,
+        "AEMBECOKILJ": 88855090,
+        "LKBLLLMCBJD": 5,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "IJMHAMELMEO": 1,
+        "sceneIdList": [
+            1076
+        ]
+    }
+]

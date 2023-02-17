@@ -1,0 +1,340 @@
+[
+    {
+        "id": 1,
+        "JHKOJAIKGIM": 1,
+        "PKCEHHGLKHH": "QTE_TYPE_NEVER_FAIL",
+        "KLNNFLPDNFD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "EGPOPHDJJOI": [
+            {
+                "type": "QTE_ACTION_FINISH_QUEST",
+                "param": [
+                    202007
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "CDHNIHBLMEN": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "JHKOJAIKGIM": 2,
+        "PKCEHHGLKHH": "QTE_TYPE_NEVER_FAIL",
+        "KLNNFLPDNFD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "EGPOPHDJJOI": [
+            {
+                "type": "QTE_ACTION_FINISH_QUEST",
+                "param": [
+                    202008
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "CDHNIHBLMEN": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "JHKOJAIKGIM": 3,
+        "PKCEHHGLKHH": "QTE_TYPE_NEVER_FAIL",
+        "KLNNFLPDNFD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "EGPOPHDJJOI": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "CDHNIHBLMEN": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "JHKOJAIKGIM": 4,
+        "PKCEHHGLKHH": "QTE_TYPE_NEVER_FAIL",
+        "KLNNFLPDNFD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "EGPOPHDJJOI": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "CDHNIHBLMEN": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "JHKOJAIKGIM": 5,
+        "PKCEHHGLKHH": "QTE_TYPE_NEVER_FAIL",
+        "KLNNFLPDNFD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "EGPOPHDJJOI": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "CDHNIHBLMEN": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "JHKOJAIKGIM": 6,
+        "PKCEHHGLKHH": "QTE_TYPE_NEVER_FAIL",
+        "KLNNFLPDNFD": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "EGPOPHDJJOI": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "CDHNIHBLMEN": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    }
+]

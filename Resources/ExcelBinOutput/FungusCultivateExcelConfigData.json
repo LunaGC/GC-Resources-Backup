@@ -1,0 +1,507 @@
+[
+    {
+        "DGKDBDDLJEO": 1,
+        "PJNHBLKECAC": 1,
+        "EAJIAOHFDJE": 4008120,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 1,
+        "GCKNKGGMDHA": [
+            1,
+            2,
+            1,
+            3,
+            3,
+            2,
+            1,
+            2,
+            3
+        ],
+        "OBGPNHBFCHL": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            1,
+            2
+        ],
+        "KBICPPGHHAB": [
+            [],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201711,
+            1201721
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 2,
+        "PJNHBLKECAC": 10,
+        "EAJIAOHFDJE": 4008121,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 1,
+        "GCKNKGGMDHA": [
+            3,
+            3,
+            4,
+            4,
+            4,
+            5,
+            4,
+            5,
+            5
+        ],
+        "OBGPNHBFCHL": [
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5
+        ],
+        "POAAFCNKPAE": [
+            1,
+            3
+        ],
+        "FMEHOOABADE": 1,
+        "KBICPPGHHAB": [
+            [],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201712,
+            1201722
+        ],
+        "tutorialId": 12043
+    },
+    {
+        "DGKDBDDLJEO": 3,
+        "PJNHBLKECAC": 9,
+        "EAJIAOHFDJE": 4008102,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 1,
+        "GCKNKGGMDHA": [
+            5,
+            1,
+            1,
+            4,
+            5,
+            5,
+            1,
+            5,
+            1
+        ],
+        "OBGPNHBFCHL": [
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            1,
+            1,
+            1
+        ],
+        "POAAFCNKPAE": [
+            1,
+            2,
+            3
+        ],
+        "FMEHOOABADE": 2,
+        "KBICPPGHHAB": [
+            [],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201713,
+            1201723
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 4,
+        "PJNHBLKECAC": 5,
+        "EAJIAOHFDJE": 4008104,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 1,
+        "GCKNKGGMDHA": [
+            3,
+            3,
+            6,
+            2,
+            6,
+            2,
+            2,
+            3,
+            3
+        ],
+        "OBGPNHBFCHL": [
+            6,
+            6,
+            6,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            2,
+            4
+        ],
+        "KBICPPGHHAB": [
+            [
+                6,
+                2,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                0
+            ],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201714,
+            1201724
+        ],
+        "tutorialId": 12044
+    },
+    {
+        "DGKDBDDLJEO": 5,
+        "PJNHBLKECAC": 2,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 2,
+        "GCKNKGGMDHA": [
+            1,
+            1,
+            1,
+            4,
+            1,
+            4,
+            5,
+            4,
+            5
+        ],
+        "OBGPNHBFCHL": [
+            1,
+            1,
+            1,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5
+        ],
+        "POAAFCNKPAE": [
+            1,
+            2,
+            4
+        ],
+        "KBICPPGHHAB": [
+            [
+                0,
+                5,
+                0,
+                0,
+                4,
+                0,
+                0,
+                5,
+                0
+            ],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201715,
+            1201725
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 6,
+        "PJNHBLKECAC": 7,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 2,
+        "GCKNKGGMDHA": [
+            2,
+            1,
+            1,
+            2,
+            3,
+            3,
+            3,
+            2,
+            3
+        ],
+        "OBGPNHBFCHL": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            2,
+            4
+        ],
+        "KBICPPGHHAB": [
+            [
+                0,
+                0,
+                0,
+                1,
+                3,
+                2,
+                0,
+                0,
+                0
+            ],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201716,
+            1201726
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 7,
+        "PJNHBLKECAC": 3,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 3,
+        "GCKNKGGMDHA": [
+            3,
+            3,
+            4,
+            5,
+            4,
+            5,
+            5,
+            3,
+            3
+        ],
+        "OBGPNHBFCHL": [
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            2,
+            3,
+            4
+        ],
+        "FMEHOOABADE": 1,
+        "KBICPPGHHAB": [
+            [
+                0,
+                0,
+                0,
+                3,
+                5,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                4,
+                0,
+                0,
+                5,
+                0,
+                0,
+                3,
+                0
+            ]
+        ],
+        "JMDCMDKPCMA": [
+            1201717,
+            1201727
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 8,
+        "PJNHBLKECAC": 6,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 3,
+        "GCKNKGGMDHA": [
+            6,
+            2,
+            6,
+            2,
+            6,
+            2,
+            3,
+            2,
+            6
+        ],
+        "OBGPNHBFCHL": [
+            6,
+            6,
+            6,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            1,
+            2,
+            4
+        ],
+        "KBICPPGHHAB": [
+            [
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0
+            ]
+        ],
+        "JMDCMDKPCMA": [
+            1201718,
+            1201728
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 9,
+        "PJNHBLKECAC": 4,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 4,
+        "GCKNKGGMDHA": [
+            1,
+            1,
+            3,
+            2,
+            2,
+            2,
+            3,
+            1,
+            2
+        ],
+        "OBGPNHBFCHL": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            1,
+            2,
+            4
+        ],
+        "KBICPPGHHAB": [
+            [
+                0,
+                1,
+                0,
+                0,
+                2,
+                0,
+                0,
+                3,
+                0
+            ],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201719,
+            1201729
+        ]
+    },
+    {
+        "DGKDBDDLJEO": 10,
+        "PJNHBLKECAC": 8,
+        "GDBENBLMIHG": 1,
+        "BDHGNMNHEFG": 4,
+        "GCKNKGGMDHA": [
+            4,
+            4,
+            5,
+            4,
+            4,
+            3,
+            3,
+            5,
+            5
+        ],
+        "OBGPNHBFCHL": [
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            3,
+            3,
+            3
+        ],
+        "POAAFCNKPAE": [
+            1,
+            2,
+            4
+        ],
+        "KBICPPGHHAB": [
+            [
+                0,
+                5,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            []
+        ],
+        "JMDCMDKPCMA": [
+            1201720,
+            1201730
+        ]
+    }
+]

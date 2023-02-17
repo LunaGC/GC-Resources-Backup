@@ -1,0 +1,23 @@
+[
+    {
+        "CJFDPNAFDJH": "DUNGEON_SUB_BOSS",
+        "OPLDALGNEMP": true,
+        "minLevel": 50,
+        "GFBGCPJIIEH": 55,
+        "NFIBKHICJCI": 5
+    },
+    {
+        "CJFDPNAFDJH": "DUNGEON_SUB_TALENT",
+        "OPLDALGNEMP": true,
+        "minLevel": 45,
+        "GFBGCPJIIEH": 50,
+        "NFIBKHICJCI": 5
+    },
+    {
+        "CJFDPNAFDJH": "DUNGEON_SUB_RELIQUARY",
+        "OPLDALGNEMP": true,
+        "minLevel": 45,
+        "GFBGCPJIIEH": 50,
+        "NFIBKHICJCI": 5
+    }
+]
