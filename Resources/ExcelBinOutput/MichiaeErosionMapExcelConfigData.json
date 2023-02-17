@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "EHFHBCKOMJO": [
+            0,
+            15
+        ],
+        "JPGHHFNPJBD": 1352001231,
+        "ELBGJLKPGAF": 2829445854
+    },
+    {
+        "id": 2,
+        "EHFHBCKOMJO": [
+            15,
+            30
+        ],
+        "JPGHHFNPJBD": 1485645855,
+        "ELBGJLKPGAF": 1644151894
+    },
+    {
+        "id": 3,
+        "EHFHBCKOMJO": [
+            30,
+            100
+        ],
+        "JPGHHFNPJBD": 3354022439,
+        "ELBGJLKPGAF": 2753250646
+    }
+]

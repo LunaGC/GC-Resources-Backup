@@ -1,0 +1,829 @@
+[
+    {
+        "ID": 1,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            1
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 2,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            4
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 3,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            14
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 4,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    15,
+                    16,
+                    17
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            15
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 5,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    18,
+                    19,
+                    20,
+                    33
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            18
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 6,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            21
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 7,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            23
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 8,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    100000,
+                    100001,
+                    100002,
+                    100003,
+                    100010,
+                    100011,
+                    100012,
+                    100013,
+                    100020,
+                    100021,
+                    100022,
+                    100023,
+                    100030,
+                    100031,
+                    100032,
+                    100033,
+                    100100,
+                    100101,
+                    100102,
+                    100103,
+                    100110,
+                    100111,
+                    100112,
+                    100113,
+                    100120,
+                    100121,
+                    100122,
+                    100123,
+                    100130,
+                    100131,
+                    100132,
+                    100133,
+                    100200,
+                    100201,
+                    100202,
+                    100203,
+                    100210,
+                    100211,
+                    100212,
+                    100213,
+                    100220,
+                    100221,
+                    100222,
+                    100223,
+                    100230,
+                    100231,
+                    100232,
+                    100233,
+                    100300,
+                    100301,
+                    100302,
+                    100303,
+                    100310,
+                    100311,
+                    100312,
+                    100313,
+                    100320,
+                    100321,
+                    100322,
+                    100323,
+                    100330,
+                    100331,
+                    100332,
+                    100333
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            100000
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 9,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    200000,
+                    200001,
+                    200002,
+                    200003,
+                    200010,
+                    200011,
+                    200012,
+                    200013,
+                    200020,
+                    200021,
+                    200022,
+                    200023,
+                    200030,
+                    200031,
+                    200032,
+                    200033,
+                    200100,
+                    200101,
+                    200102,
+                    200103,
+                    200110,
+                    200111,
+                    200112,
+                    200113,
+                    200120,
+                    200121,
+                    200122,
+                    200123,
+                    200130,
+                    200131,
+                    200132,
+                    200133,
+                    200200,
+                    200201,
+                    200202,
+                    200203,
+                    200210,
+                    200211,
+                    200212,
+                    200213,
+                    200220,
+                    200221,
+                    200222,
+                    200223,
+                    200230,
+                    200231,
+                    200232,
+                    200233,
+                    200300,
+                    200301,
+                    200302,
+                    200303,
+                    200310,
+                    200311,
+                    200312,
+                    200313,
+                    200320,
+                    200321,
+                    200322,
+                    200323,
+                    200330,
+                    200331,
+                    200332,
+                    200333
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            200000
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 10,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    30,
+                    31,
+                    32,
+                    40
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            30
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 11,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    34,
+                    35,
+                    36,
+                    37
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            34
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 12,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    38,
+                    39
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            38
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 13,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    204000,
+                    204001,
+                    204002,
+                    204003,
+                    204010,
+                    204011,
+                    204012,
+                    204013
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            204000
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 14,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    204100,
+                    204101,
+                    204102,
+                    204103,
+                    204110,
+                    204111,
+                    204112,
+                    204113
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            204100
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 15,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    204200,
+                    204201,
+                    204202,
+                    204203,
+                    204210,
+                    204211,
+                    204212,
+                    204213
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            204200
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 16,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    204300,
+                    204301,
+                    204302,
+                    204303,
+                    204310,
+                    204311,
+                    204312,
+                    204313
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            204300
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 17,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    41,
+                    47
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            47
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 18,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            42
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 19,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    55,
+                    56
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            56
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 20,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    57,
+                    58
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            57
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 21,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    59,
+                    60
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            60
+        ],
+        "CNFJCLLBMIL": 2
+    },
+    {
+        "ID": 22,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    62,
+                    65
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            65
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 23,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    63,
+                    66
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            66
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 24,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    64,
+                    67
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            67
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 25,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    68,
+                    69
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            68
+        ],
+        "CNFJCLLBMIL": 5
+    },
+    {
+        "ID": 26,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    48,
+                    49
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            48
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 27,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    50,
+                    51
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            50
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 28,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    52,
+                    53,
+                    54
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            52
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 29,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            70
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 30,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    76,
+                    77
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            76
+        ],
+        "CNFJCLLBMIL": 3
+    },
+    {
+        "ID": 31,
+        "GOBHNNHMBOK": [
+            {
+                "JPBHFOKBDBJ": [
+                    78,
+                    79
+                ]
+            },
+            {
+                "JPBHFOKBDBJ": []
+            },
+            {
+                "JPBHFOKBDBJ": []
+            }
+        ],
+        "KEJBBJFBDKN": [
+            78
+        ],
+        "CNFJCLLBMIL": 3
+    }
+]

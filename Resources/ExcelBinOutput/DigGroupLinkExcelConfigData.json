@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "FFBKDABNKFG": 1,
+        "HMHFLPKKNNI": 50490101,
+        "MOCBFCNHJKM": 999557799,
+        "IHHONBFLPJM": [
+            15049001
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position01"
+    },
+    {
+        "id": 2,
+        "FFBKDABNKFG": 1,
+        "HMHFLPKKNNI": 50490102,
+        "MOCBFCNHJKM": 797124095,
+        "IHHONBFLPJM": [
+            15049002
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position02"
+    },
+    {
+        "id": 3,
+        "FFBKDABNKFG": 1,
+        "HMHFLPKKNNI": 50490103,
+        "MOCBFCNHJKM": 37198495,
+        "IHHONBFLPJM": [
+            15049003
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position03"
+    },
+    {
+        "id": 4,
+        "FFBKDABNKFG": 1,
+        "HMHFLPKKNNI": 50490104,
+        "MOCBFCNHJKM": 987499431,
+        "IHHONBFLPJM": [
+            15049004
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position04"
+    },
+    {
+        "id": 5,
+        "FFBKDABNKFG": 2,
+        "HMHFLPKKNNI": 50490201,
+        "MOCBFCNHJKM": 919667415,
+        "IHHONBFLPJM": [
+            15049005
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position01"
+    },
+    {
+        "id": 6,
+        "FFBKDABNKFG": 2,
+        "HMHFLPKKNNI": 50490202,
+        "MOCBFCNHJKM": 3595258751,
+        "IHHONBFLPJM": [
+            15049006
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position02"
+    },
+    {
+        "id": 7,
+        "FFBKDABNKFG": 2,
+        "HMHFLPKKNNI": 50490203,
+        "MOCBFCNHJKM": 3823007735,
+        "IHHONBFLPJM": [
+            15049007
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position03"
+    },
+    {
+        "id": 8,
+        "FFBKDABNKFG": 2,
+        "HMHFLPKKNNI": 50490204,
+        "MOCBFCNHJKM": 3808573207,
+        "IHHONBFLPJM": [
+            15049008
+        ],
+        "HBCBCHIOOPF": "UI_Img_Dig_Position04"
+    },
+    {
+        "id": 9,
+        "FFBKDABNKFG": 3,
+        "HMHFLPKKNNI": 50490301,
+        "MOCBFCNHJKM": 3520989047,
+        "IHHONBFLPJM": [
+            15049009,
+            15049010,
+            15049011,
+            15049012,
+            15049013,
+            15049014
+        ],
+        "HBCBCHIOOPF": ""
+    },
+    {
+        "id": 10,
+        "FFBKDABNKFG": 4,
+        "HMHFLPKKNNI": 50490401,
+        "LECBCGCKGJB": 50490402,
+        "NAHKMPPLEID": 50490402,
+        "MOCBFCNHJKM": 229630815,
+        "IHHONBFLPJM": [
+            15049015
+        ],
+        "HBCBCHIOOPF": ""
+    },
+    {
+        "id": 11,
+        "FFBKDABNKFG": 4,
+        "HMHFLPKKNNI": 50490403,
+        "LECBCGCKGJB": 50490404,
+        "NAHKMPPLEID": 50490403,
+        "MOCBFCNHJKM": 1428288487,
+        "IHHONBFLPJM": [
+            15049016
+        ],
+        "HBCBCHIOOPF": ""
+    }
+]

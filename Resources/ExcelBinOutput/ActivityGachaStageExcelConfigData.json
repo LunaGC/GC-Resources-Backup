@@ -1,0 +1,124 @@
+[
+    {
+        "stageId": 1,
+        "JCPEONEJHHC": 2,
+        "BJDDJNJOPAK": true,
+        "type": "TARGET_TYPE_GATHER",
+        "groupIdList": [
+            101,
+            102,
+            103
+        ],
+        "MPCEMHPPHNG": [
+            3,
+            3,
+            6
+        ],
+        "PGAFENHIIBJ": [],
+        "JBBLLFOADHP": [
+            101,
+            102,
+            103
+        ],
+        "condID": 5080001,
+        "watcherID": 1508001,
+        "EDCKBJHPJKJ": 7269401
+    },
+    {
+        "stageId": 2,
+        "JCPEONEJHHC": 3,
+        "BJDDJNJOPAK": true,
+        "type": "TARGET_TYPE_ELEM",
+        "groupIdList": [
+            201,
+            202,
+            203
+        ],
+        "MPCEMHPPHNG": [
+            15,
+            15,
+            15
+        ],
+        "PGAFENHIIBJ": [
+            133001079,
+            133105077,
+            133213557
+        ],
+        "JBBLLFOADHP": [
+            201,
+            202,
+            203
+        ],
+        "condID": 5080002,
+        "watcherID": 1508002,
+        "EDCKBJHPJKJ": 7269501
+    },
+    {
+        "stageId": 3,
+        "JCPEONEJHHC": 4,
+        "BJDDJNJOPAK": true,
+        "type": "TARGET_TYPE_MONSTER",
+        "groupIdList": [
+            301,
+            302,
+            303
+        ],
+        "MPCEMHPPHNG": [
+            3,
+            4,
+            4
+        ],
+        "PGAFENHIIBJ": [],
+        "JBBLLFOADHP": [
+            301,
+            302,
+            303
+        ],
+        "condID": 5080003,
+        "NNFDAAFOIAE": true,
+        "watcherID": 1508003,
+        "EDCKBJHPJKJ": 7269601
+    },
+    {
+        "stageId": 4,
+        "JCPEONEJHHC": 5,
+        "type": "TARGET_TYPE_GATHER",
+        "groupIdList": [
+            110
+        ],
+        "MPCEMHPPHNG": [
+            5
+        ],
+        "PGAFENHIIBJ": [],
+        "JBBLLFOADHP": [],
+        "condID": 5080004,
+        "EDCKBJHPJKJ": 7269701
+    },
+    {
+        "stageId": 5,
+        "JCPEONEJHHC": 6,
+        "type": "TARGET_TYPE_ELEM",
+        "groupIdList": [
+            210
+        ],
+        "MPCEMHPPHNG": [
+            15
+        ],
+        "PGAFENHIIBJ": [],
+        "JBBLLFOADHP": []
+    },
+    {
+        "stageId": 6,
+        "JCPEONEJHHC": 4,
+        "type": "TARGET_TYPE_MONSTER",
+        "groupIdList": [
+            310
+        ],
+        "MPCEMHPPHNG": [
+            4
+        ],
+        "PGAFENHIIBJ": [],
+        "JBBLLFOADHP": [],
+        "NNFDAAFOIAE": true
+    }
+]

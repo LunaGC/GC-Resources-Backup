@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_GrassDamageUp",
+        "HLFNCLKDDPM": "SGV_GRASS_BUFF",
+        "ONGLICJMKEB": 6853007950492863011,
+        "elementType": 6,
+        "buffNameTextMapHash": 3084594152,
+        "DNMPGBBMMPI": 2011756694,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_ElecDamageUp",
+        "HLFNCLKDDPM": "SGV_ELEC_BUFF",
+        "ONGLICJMKEB": 13300747772815758154,
+        "elementType": 2,
+        "buffNameTextMapHash": 3423657896,
+        "DNMPGBBMMPI": 2785037622,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 3,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_WaterDamageUp",
+        "HLFNCLKDDPM": "SGV_WATER_BUFF",
+        "ONGLICJMKEB": 802293797372035603,
+        "elementType": 4,
+        "buffNameTextMapHash": 888555304,
+        "DNMPGBBMMPI": 2116163470,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 4,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_FireDamageUp",
+        "HLFNCLKDDPM": "SGV_FIRE_BUFF",
+        "ONGLICJMKEB": 17454481252396265124,
+        "elementType": 3,
+        "buffNameTextMapHash": 1300895952,
+        "DNMPGBBMMPI": 2174431078,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 5,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_IceDamageUp",
+        "HLFNCLKDDPM": "SGV_ICE_BUFF",
+        "ONGLICJMKEB": 14900300496819228905,
+        "elementType": 5,
+        "buffNameTextMapHash": 569634376,
+        "DNMPGBBMMPI": 260135878,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 6,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_ElemMasteryUp",
+        "HLFNCLKDDPM": "SGV_ElEMMASTERY_UP",
+        "ONGLICJMKEB": 9182921390622573774,
+        "elementType": 7,
+        "buffNameTextMapHash": 4271974280,
+        "DNMPGBBMMPI": 233521054,
+        "LPIFKEDCMND": [
+            "15",
+            "200",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 7,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_AttackUp",
+        "HLFNCLKDDPM": "SGV_ATK_UP",
+        "ONGLICJMKEB": 8762246620886568120,
+        "elementType": 7,
+        "buffNameTextMapHash": 2230708992,
+        "DNMPGBBMMPI": 3147851622,
+        "LPIFKEDCMND": [
+            "15",
+            "50",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 8,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_NormalAttack",
+        "HLFNCLKDDPM": "SGV_NORMAL_ATTACK",
+        "ONGLICJMKEB": 3480637014274355441,
+        "elementType": 7,
+        "buffNameTextMapHash": 1059258432,
+        "DNMPGBBMMPI": 3146360998,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 9,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_ExtraAttack",
+        "HLFNCLKDDPM": "SGV_EXTRA_ATTACK",
+        "ONGLICJMKEB": 5710235156425024032,
+        "elementType": 7,
+        "buffNameTextMapHash": 1422342888,
+        "DNMPGBBMMPI": 3636082598,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 10,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_SpeedUp",
+        "HLFNCLKDDPM": "SGV_SPEED_UP",
+        "ONGLICJMKEB": 2432013861766722777,
+        "elementType": 7,
+        "buffNameTextMapHash": 1958653736,
+        "DNMPGBBMMPI": 140803102,
+        "LPIFKEDCMND": [
+            "15",
+            "25",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 11,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_CriticalHurtUp",
+        "HLFNCLKDDPM": "SGV_CRITICAL_HURT_UP",
+        "ONGLICJMKEB": 11482340188325145227,
+        "elementType": 7,
+        "buffNameTextMapHash": 1660958928,
+        "DNMPGBBMMPI": 2868049934,
+        "LPIFKEDCMND": [
+            "15",
+            "70",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 12,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_FallingAttack_Impact",
+        "HLFNCLKDDPM": "SGV_FALL_IMPACT",
+        "ONGLICJMKEB": 3569573094322963771,
+        "elementType": 7,
+        "buffNameTextMapHash": 1465164080,
+        "DNMPGBBMMPI": 102643870,
+        "LPIFKEDCMND": [
+            "15",
+            "5",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 13,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_ElecReaction_ReviveEnergy",
+        "HLFNCLKDDPM": "SGV_REVIVE_ENERGY",
+        "ONGLICJMKEB": 9214121023631433990,
+        "elementType": 7,
+        "buffNameTextMapHash": 1438780144,
+        "DNMPGBBMMPI": 695588190,
+        "LPIFKEDCMND": [
+            "15",
+            "10",
+            "7",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 14,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_GrassReaction_ElemResistance_Down",
+        "HLFNCLKDDPM": "SGV_ELEM_DOWN",
+        "ONGLICJMKEB": 12257002186934903659,
+        "elementType": 7,
+        "buffNameTextMapHash": 1534850424,
+        "DNMPGBBMMPI": 1037723750,
+        "LPIFKEDCMND": [
+            "15",
+            "40",
+            "4",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 15,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_Frozen_DefenceDown",
+        "HLFNCLKDDPM": "SGV_FROZEN_DEFDOWN",
+        "ONGLICJMKEB": 16203007119714052842,
+        "elementType": 7,
+        "buffNameTextMapHash": 1351370232,
+        "DNMPGBBMMPI": 2159277990,
+        "LPIFKEDCMND": [
+            "15",
+            "25",
+            "10",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 16,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_Frozen_DamageUp",
+        "HLFNCLKDDPM": "SGV_FROZEN_DAMAGEUP",
+        "ONGLICJMKEB": 4201712164853970232,
+        "elementType": 7,
+        "buffNameTextMapHash": 1716891176,
+        "DNMPGBBMMPI": 2360228006,
+        "LPIFKEDCMND": [
+            "15",
+            "50",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 17,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_Steam_Impact",
+        "HLFNCLKDDPM": "SGV_STEAM_IMPACT",
+        "ONGLICJMKEB": 9572864797850544042,
+        "elementType": 7,
+        "buffNameTextMapHash": 2574799032,
+        "DNMPGBBMMPI": 3634901750,
+        "LPIFKEDCMND": [
+            "15",
+            "5",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 18,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_ElemAddHurt_Up",
+        "HLFNCLKDDPM": "SGV_ElEM_UP",
+        "ONGLICJMKEB": 18043644982337433713,
+        "elementType": 7,
+        "buffNameTextMapHash": 2944829760,
+        "DNMPGBBMMPI": 1089520710,
+        "LPIFKEDCMND": [
+            "15",
+            "50",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 19,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_CriticalUp",
+        "HLFNCLKDDPM": "SGV_CRITICAL_UP",
+        "ONGLICJMKEB": 15420338923440472389,
+        "elementType": 7,
+        "buffNameTextMapHash": 2529195704,
+        "DNMPGBBMMPI": 981758934,
+        "LPIFKEDCMND": [
+            "15",
+            "35",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 20,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_ElementalArt",
+        "HLFNCLKDDPM": "SGV_ELEMENTAL_ART",
+        "ONGLICJMKEB": 3086324516583927885,
+        "elementType": 7,
+        "buffNameTextMapHash": 4088937224,
+        "DNMPGBBMMPI": 1206231286,
+        "LPIFKEDCMND": [
+            "15",
+            "5",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 21,
+        "BHCJKANDNPF": "ActivityAbility_InstableSpray_PhysicalDamageUp",
+        "HLFNCLKDDPM": "SGV_PHYISICAL_BUFF",
+        "ONGLICJMKEB": 4055466082003605912,
+        "elementType": 7,
+        "buffNameTextMapHash": 3891890976,
+        "DNMPGBBMMPI": 2275231502,
+        "LPIFKEDCMND": [
+            "15",
+            "110",
+            "",
+            "",
+            ""
+        ]
+    }
+]

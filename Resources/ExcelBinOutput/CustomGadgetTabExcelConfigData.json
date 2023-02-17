@@ -1,0 +1,460 @@
+[
+    {
+        "JDIKEENBMCD": 1001,
+        "tabNameTextMapHash": 2710518899,
+        "GMADAOIOIEK": [
+            "FlowerShelf"
+        ],
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerShlef_Switch",
+        "PBDCHOGKANI": "Eff_SceneObj_FlowerShlef_Switch",
+        "DOOCIBFFKIK": 2734436925,
+        "CBKBAEANHGL": 211211571
+    },
+    {
+        "JDIKEENBMCD": 1002,
+        "tabNameTextMapHash": 3705330299,
+        "GMADAOIOIEK": [
+            "FlowerShelf",
+            "Flower1"
+        ],
+        "IPIELILAKPH": 1001,
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerPot_Selected",
+        "PBDCHOGKANI": "Eff_SceneObj_Flower_Switch",
+        "DOOCIBFFKIK": 1741001165,
+        "CBKBAEANHGL": 1074787019
+    },
+    {
+        "JDIKEENBMCD": 1003,
+        "tabNameTextMapHash": 592305467,
+        "GMADAOIOIEK": [
+            "FlowerShelf",
+            "Flower2"
+        ],
+        "IPIELILAKPH": 1001,
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerPot_Selected",
+        "PBDCHOGKANI": "Eff_SceneObj_Flower_Switch",
+        "DOOCIBFFKIK": 1076783373,
+        "CBKBAEANHGL": 1693251187
+    },
+    {
+        "JDIKEENBMCD": 1004,
+        "tabNameTextMapHash": 1277736707,
+        "GMADAOIOIEK": [
+            "FlowerShelf",
+            "Flower3"
+        ],
+        "IPIELILAKPH": 1001,
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerPot_Selected",
+        "PBDCHOGKANI": "Eff_SceneObj_Flower_Switch",
+        "DOOCIBFFKIK": 4101174461,
+        "CBKBAEANHGL": 2300085403
+    },
+    {
+        "JDIKEENBMCD": 1005,
+        "tabNameTextMapHash": 4054028299,
+        "GMADAOIOIEK": [
+            "Flower1"
+        ],
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerPot_Selected",
+        "PBDCHOGKANI": "Eff_SceneObj_Flower_Switch",
+        "DOOCIBFFKIK": 3647383885,
+        "CBKBAEANHGL": 4191383659
+    },
+    {
+        "JDIKEENBMCD": 1006,
+        "tabNameTextMapHash": 93117563,
+        "GMADAOIOIEK": [
+            "Flower2"
+        ],
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerPot_Selected",
+        "PBDCHOGKANI": "Eff_SceneObj_Flower_Switch",
+        "DOOCIBFFKIK": 1073089381,
+        "CBKBAEANHGL": 562779299
+    },
+    {
+        "JDIKEENBMCD": 1007,
+        "tabNameTextMapHash": 798223691,
+        "GMADAOIOIEK": [
+            "Flower3"
+        ],
+        "FGFJDBKDAEB": "Eff_SceneObj_FlowerPot_Selected",
+        "PBDCHOGKANI": "Eff_SceneObj_Flower_Switch",
+        "DOOCIBFFKIK": 3567065125,
+        "CBKBAEANHGL": 3493302571
+    },
+    {
+        "JDIKEENBMCD": 2001,
+        "tabNameTextMapHash": 4177260251,
+        "GMADAOIOIEK": [
+            "Head"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 1693751781,
+        "CBKBAEANHGL": 1655486411
+    },
+    {
+        "JDIKEENBMCD": 2002,
+        "tabNameTextMapHash": 1972529011,
+        "GMADAOIOIEK": [
+            "Hand"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 237195237,
+        "CBKBAEANHGL": 3442949251
+    },
+    {
+        "JDIKEENBMCD": 2003,
+        "tabNameTextMapHash": 4210768979,
+        "GMADAOIOIEK": [
+            "Head",
+            "Hat"
+        ],
+        "IPIELILAKPH": 2001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 646079205,
+        "CBKBAEANHGL": 1340284355
+    },
+    {
+        "JDIKEENBMCD": 2004,
+        "tabNameTextMapHash": 4056943835,
+        "GMADAOIOIEK": [
+            "Head",
+            "Scarf"
+        ],
+        "IPIELILAKPH": 2001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3547007709,
+        "CBKBAEANHGL": 749863699
+    },
+    {
+        "JDIKEENBMCD": 2005,
+        "tabNameTextMapHash": 3633818947,
+        "GMADAOIOIEK": [
+            "Head",
+            "Eye"
+        ],
+        "IPIELILAKPH": 2001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3049999909,
+        "CBKBAEANHGL": 3932694547
+    },
+    {
+        "JDIKEENBMCD": 2006,
+        "tabNameTextMapHash": 3131636803,
+        "GMADAOIOIEK": [
+            "Head",
+            "Nose"
+        ],
+        "IPIELILAKPH": 2001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 1012689941,
+        "CBKBAEANHGL": 585857363
+    },
+    {
+        "JDIKEENBMCD": 3001,
+        "tabNameTextMapHash": 3941446811,
+        "GMADAOIOIEK": [
+            "FrontScene"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2021312237,
+        "CBKBAEANHGL": 4010405451
+    },
+    {
+        "JDIKEENBMCD": 3002,
+        "tabNameTextMapHash": 2759979219,
+        "GMADAOIOIEK": [
+            "BehindScene"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 892697741,
+        "CBKBAEANHGL": 3805043395
+    },
+    {
+        "JDIKEENBMCD": 3003,
+        "tabNameTextMapHash": 1960841939,
+        "GMADAOIOIEK": [
+            "FrontScene",
+            "VitalFlower1"
+        ],
+        "IPIELILAKPH": 3001,
+        "FGFJDBKDAEB": "Eff_SceneObj_Irodori_Flower_Selected",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 926879837,
+        "CBKBAEANHGL": 2955367739
+    },
+    {
+        "JDIKEENBMCD": 3004,
+        "tabNameTextMapHash": 2631694803,
+        "GMADAOIOIEK": [
+            "FrontScene",
+            "VitalFlower2"
+        ],
+        "IPIELILAKPH": 3001,
+        "FGFJDBKDAEB": "Eff_SceneObj_Irodori_Flower_Selected",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 4016139189,
+        "CBKBAEANHGL": 1480909067
+    },
+    {
+        "JDIKEENBMCD": 3005,
+        "tabNameTextMapHash": 3796612835,
+        "GMADAOIOIEK": [
+            "FrontScene",
+            "VitalFlower3"
+        ],
+        "IPIELILAKPH": 3001,
+        "FGFJDBKDAEB": "Eff_SceneObj_Irodori_Flower_Selected",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3302761821,
+        "CBKBAEANHGL": 4183802379
+    },
+    {
+        "JDIKEENBMCD": 3006,
+        "tabNameTextMapHash": 3936319635,
+        "GMADAOIOIEK": [
+            "FrontScene",
+            "VitalFlower4"
+        ],
+        "IPIELILAKPH": 3001,
+        "FGFJDBKDAEB": "Eff_SceneObj_Irodori_Flower_Selected",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2489947509,
+        "CBKBAEANHGL": 3599916203
+    },
+    {
+        "JDIKEENBMCD": 3007,
+        "tabNameTextMapHash": 3548648587,
+        "GMADAOIOIEK": [
+            "FrontScene",
+            "VitalFlower5"
+        ],
+        "IPIELILAKPH": 3001,
+        "FGFJDBKDAEB": "Eff_SceneObj_Irodori_Flower_Selected",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 220218853,
+        "CBKBAEANHGL": 297459419
+    },
+    {
+        "JDIKEENBMCD": 3008,
+        "tabNameTextMapHash": 278556483,
+        "GMADAOIOIEK": [
+            "FrontScene",
+            "VitalFlower6"
+        ],
+        "IPIELILAKPH": 3001,
+        "FGFJDBKDAEB": "Eff_SceneObj_Irodori_Flower_Selected",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 1203503621,
+        "CBKBAEANHGL": 3705479875
+    },
+    {
+        "JDIKEENBMCD": 4001,
+        "tabNameTextMapHash": 3258853123,
+        "GMADAOIOIEK": [
+            "Body"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 218368549,
+        "CBKBAEANHGL": 3524425659
+    },
+    {
+        "JDIKEENBMCD": 4002,
+        "tabNameTextMapHash": 3567021371,
+        "GMADAOIOIEK": [
+            "Body",
+            "Head"
+        ],
+        "IPIELILAKPH": 4001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2209394557,
+        "CBKBAEANHGL": 440883323
+    },
+    {
+        "JDIKEENBMCD": 4003,
+        "tabNameTextMapHash": 2749613003,
+        "GMADAOIOIEK": [
+            "Body",
+            "Head",
+            "Hat"
+        ],
+        "IPIELILAKPH": 4002,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2870987189,
+        "CBKBAEANHGL": 1180535835
+    },
+    {
+        "JDIKEENBMCD": 4004,
+        "tabNameTextMapHash": 1198204219,
+        "GMADAOIOIEK": [
+            "Body",
+            "Head",
+            "Cape"
+        ],
+        "IPIELILAKPH": 4002,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3076120429,
+        "CBKBAEANHGL": 2497396051
+    },
+    {
+        "JDIKEENBMCD": 4005,
+        "tabNameTextMapHash": 3102569515,
+        "GMADAOIOIEK": [
+            "Body",
+            "Head",
+            "Eye"
+        ],
+        "IPIELILAKPH": 4002,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3584154557,
+        "CBKBAEANHGL": 1556471123
+    },
+    {
+        "JDIKEENBMCD": 4006,
+        "tabNameTextMapHash": 3541483531,
+        "GMADAOIOIEK": [
+            "Head"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 1394748677,
+        "CBKBAEANHGL": 3345068675
+    },
+    {
+        "JDIKEENBMCD": 4007,
+        "tabNameTextMapHash": 1090854779,
+        "GMADAOIOIEK": [
+            "Head",
+            "Hat"
+        ],
+        "IPIELILAKPH": 4006,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 4081383461,
+        "CBKBAEANHGL": 2385346283
+    },
+    {
+        "JDIKEENBMCD": 4008,
+        "tabNameTextMapHash": 2665349235,
+        "GMADAOIOIEK": [
+            "Head",
+            "Cape"
+        ],
+        "IPIELILAKPH": 4006,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2624097437,
+        "CBKBAEANHGL": 2598414523
+    },
+    {
+        "JDIKEENBMCD": 4009,
+        "tabNameTextMapHash": 147308395,
+        "GMADAOIOIEK": [
+            "Head",
+            "Eye"
+        ],
+        "IPIELILAKPH": 4006,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3055600829,
+        "CBKBAEANHGL": 3842385771
+    },
+    {
+        "JDIKEENBMCD": 5001,
+        "tabNameTextMapHash": 2562366571,
+        "GMADAOIOIEK": [
+            "Shed"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2958517349,
+        "CBKBAEANHGL": 2013512499
+    },
+    {
+        "JDIKEENBMCD": 5002,
+        "tabNameTextMapHash": 2022691947,
+        "GMADAOIOIEK": [
+            "Shed",
+            "FrontGround"
+        ],
+        "IPIELILAKPH": 5001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 317864861,
+        "CBKBAEANHGL": 2269552459
+    },
+    {
+        "JDIKEENBMCD": 5003,
+        "tabNameTextMapHash": 1436630307,
+        "GMADAOIOIEK": [
+            "Shed",
+            "SideGround"
+        ],
+        "IPIELILAKPH": 5001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2588907573,
+        "CBKBAEANHGL": 3751295115
+    },
+    {
+        "JDIKEENBMCD": 5004,
+        "tabNameTextMapHash": 91433619,
+        "GMADAOIOIEK": [
+            "Shed",
+            "PendantA"
+        ],
+        "IPIELILAKPH": 5001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 1556804869,
+        "CBKBAEANHGL": 1898918915
+    },
+    {
+        "JDIKEENBMCD": 5005,
+        "tabNameTextMapHash": 2586358963,
+        "GMADAOIOIEK": [
+            "Shed",
+            "PendantB"
+        ],
+        "IPIELILAKPH": 5001,
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3094473029,
+        "CBKBAEANHGL": 144277179
+    },
+    {
+        "JDIKEENBMCD": 100101,
+        "tabNameTextMapHash": 314051144,
+        "GMADAOIOIEK": [
+            "LeftHill"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 2351091748,
+        "CBKBAEANHGL": 2903350498
+    },
+    {
+        "JDIKEENBMCD": 100102,
+        "tabNameTextMapHash": 18497744,
+        "GMADAOIOIEK": [
+            "RightHill"
+        ],
+        "FGFJDBKDAEB": "",
+        "PBDCHOGKANI": "",
+        "DOOCIBFFKIK": 3273732940,
+        "CBKBAEANHGL": 3044273634
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "id": 111023,
+        "BPGJPLIFMPL": [
+            {
+                "NBKCDKIICCC": 9201,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9200,
+                "NHOFJKMAGDG": 1.0
+            },
+            {},
+            {}
+        ],
+        "KGKMLDINJOP": 2,
+        "JJKCMBEDIFF": []
+    },
+    {
+        "id": 111024,
+        "BPGJPLIFMPL": [
+            {
+                "NBKCDKIICCC": 9202,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9200,
+                "NHOFJKMAGDG": 1.0
+            },
+            {},
+            {}
+        ],
+        "KGKMLDINJOP": 3,
+        "JJKCMBEDIFF": []
+    },
+    {
+        "id": 111025,
+        "BPGJPLIFMPL": [
+            {
+                "NBKCDKIICCC": 9203,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9200,
+                "NHOFJKMAGDG": 1.0
+            },
+            {},
+            {}
+        ],
+        "KGKMLDINJOP": 4,
+        "JJKCMBEDIFF": []
+    },
+    {
+        "id": 111026,
+        "BPGJPLIFMPL": [
+            {
+                "NBKCDKIICCC": 9204,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9205,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9200,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9206,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            }
+        ],
+        "KGKMLDINJOP": 5,
+        "JJKCMBEDIFF": []
+    },
+    {
+        "id": 111027,
+        "BPGJPLIFMPL": [
+            {
+                "NBKCDKIICCC": 9200,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {},
+            {},
+            {}
+        ],
+        "KGKMLDINJOP": 1,
+        "JJKCMBEDIFF": [
+            10007
+        ]
+    },
+    {
+        "id": 111028,
+        "BPGJPLIFMPL": [
+            {
+                "NBKCDKIICCC": 9207,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9200,
+                "NHOFJKMAGDG": 1.0
+            },
+            {
+                "NBKCDKIICCC": 9208,
+                "weight": 1.0,
+                "NHOFJKMAGDG": 1.0
+            },
+            {}
+        ],
+        "KGKMLDINJOP": 6,
+        "JJKCMBEDIFF": []
+    }
+]

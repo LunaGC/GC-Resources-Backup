@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "stageID": 1,
+        "openDay": 1,
+        "KMJBNNBFBML": "BRICK_BREAKER_TYPE_WORLD",
+        "levelID": 1001,
+        "HONNJOMEIKP": 7272801,
+        "DJPGBDODPNI": 7272802,
+        "CJPKFALNMDO": 3762186181,
+        "OOBFELNJHLI": 2963753266
+    },
+    {
+        "id": 2,
+        "stageID": 1,
+        "openDay": 1,
+        "KMJBNNBFBML": "BRICK_BREAKER_TYPE_DUNGEON",
+        "levelID": 100301,
+        "HONNJOMEIKP": 7272901,
+        "DJPGBDODPNI": 7272902,
+        "CJPKFALNMDO": 3114712125,
+        "OOBFELNJHLI": 525052258
+    },
+    {
+        "id": 3,
+        "stageID": 2,
+        "openDay": 3,
+        "KMJBNNBFBML": "BRICK_BREAKER_TYPE_WORLD",
+        "levelID": 2001,
+        "HONNJOMEIKP": 4009001,
+        "DJPGBDODPNI": 4009012,
+        "CJPKFALNMDO": 2487915629,
+        "OOBFELNJHLI": 2185094698
+    },
+    {
+        "id": 4,
+        "stageID": 3,
+        "openDay": 5,
+        "KMJBNNBFBML": "BRICK_BREAKER_TYPE_WORLD",
+        "levelID": 3001,
+        "HONNJOMEIKP": 4009101,
+        "DJPGBDODPNI": 4009116,
+        "CJPKFALNMDO": 3463084613,
+        "OOBFELNJHLI": 1689151778
+    }
+]

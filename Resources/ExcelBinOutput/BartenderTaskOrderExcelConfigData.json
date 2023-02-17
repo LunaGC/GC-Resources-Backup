@@ -1,0 +1,128 @@
+[
+    {
+        "questId": 7050402,
+        "KDLCJAEOGLB": [
+            10101,
+            10102,
+            10103,
+            10104,
+            10105,
+            10106,
+            10107,
+            10108,
+            10109,
+            10110,
+            10111,
+            10112,
+            10113,
+            10114,
+            10115,
+            10116,
+            10117,
+            10118
+        ],
+        "DKMMHCJKAIP": 7050402,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901
+    },
+    {
+        "questId": 7050403,
+        "KDLCJAEOGLB": [
+            10201
+        ],
+        "DKMMHCJKAIP": 7050403,
+        "LGMPJPICPMP": 705109903,
+        "FAKKOCMJBFD": 705109901,
+        "JJFFNDFBIEI": 7050402
+    },
+    {
+        "questId": 7050502,
+        "KDLCJAEOGLB": [
+            10301
+        ],
+        "DKMMHCJKAIP": 7050502,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901
+    },
+    {
+        "questId": 7050602,
+        "KDLCJAEOGLB": [
+            10401
+        ],
+        "DKMMHCJKAIP": 7050602,
+        "LGMPJPICPMP": 705109903,
+        "FAKKOCMJBFD": 705109901,
+        "JJFFNDFBIEI": 7050603
+    },
+    {
+        "questId": 7050603,
+        "KDLCJAEOGLB": [
+            10501,
+            10502,
+            10503,
+            10504,
+            10505,
+            10506
+        ],
+        "DKMMHCJKAIP": 7050603,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901
+    },
+    {
+        "questId": 7050702,
+        "KDLCJAEOGLB": [
+            10601
+        ],
+        "DKMMHCJKAIP": 7050702,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901
+    },
+    {
+        "questId": 7050302,
+        "KDLCJAEOGLB": [
+            10701,
+            10702
+        ],
+        "DKMMHCJKAIP": 7050302,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901
+    },
+    {
+        "questId": 7050802,
+        "KDLCJAEOGLB": [
+            10801
+        ],
+        "DKMMHCJKAIP": 7050802,
+        "LGMPJPICPMP": 705109903,
+        "FAKKOCMJBFD": 705109901,
+        "JJFFNDFBIEI": 7050803
+    },
+    {
+        "questId": 7050803,
+        "KDLCJAEOGLB": [
+            10901
+        ],
+        "DKMMHCJKAIP": 7050803,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901
+    },
+    {
+        "questId": 7050902,
+        "KDLCJAEOGLB": [
+            11001
+        ],
+        "DKMMHCJKAIP": 7050902,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109904
+    },
+    {
+        "questId": 7050204,
+        "KDLCJAEOGLB": [
+            10001
+        ],
+        "DKMMHCJKAIP": 7050204,
+        "LGMPJPICPMP": 705109902,
+        "FAKKOCMJBFD": 705109901,
+        "DEOBAMPPPCL": true
+    }
+]

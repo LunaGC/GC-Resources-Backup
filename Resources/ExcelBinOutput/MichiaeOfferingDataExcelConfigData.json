@@ -1,0 +1,321 @@
+[
+    {
+        "configId": 1,
+        "JKOLHJJPGOD": 892754422,
+        "OJHAFHPOILO": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 3458603201,
+        "OADKPKHMIBA": [
+            "0",
+            "300",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 2,
+        "level": 1,
+        "JKOLHJJPGOD": 898507734,
+        "OJHAFHPOILO": [
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 3276071097,
+        "OADKPKHMIBA": [
+            "6",
+            "300",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 3,
+        "level": 2,
+        "JKOLHJJPGOD": 804322998,
+        "OJHAFHPOILO": [
+            "12",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 502550361,
+        "OADKPKHMIBA": [
+            "12",
+            "300",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 4,
+        "level": 3,
+        "JKOLHJJPGOD": 712780014,
+        "OJHAFHPOILO": [
+            "18",
+            "330",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 3669646369,
+        "OADKPKHMIBA": [
+            "18",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 5,
+        "level": 4,
+        "JKOLHJJPGOD": 2058993054,
+        "OJHAFHPOILO": [
+            "24",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 308105593,
+        "OADKPKHMIBA": [
+            "24",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 6,
+        "level": 5,
+        "JKOLHJJPGOD": 4288370838,
+        "OJHAFHPOILO": [
+            "30",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 2940502065,
+        "OADKPKHMIBA": [
+            "30",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 7,
+        "level": 6,
+        "JKOLHJJPGOD": 4144624774,
+        "OJHAFHPOILO": [
+            "51",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 2341687377,
+        "OADKPKHMIBA": [
+            "51",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 8,
+        "level": 7,
+        "JKOLHJJPGOD": 4005514230,
+        "OJHAFHPOILO": [
+            "57",
+            "360",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 717811953,
+        "OADKPKHMIBA": [
+            "57",
+            "360",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 9,
+        "level": 8,
+        "JKOLHJJPGOD": 1297725510,
+        "OJHAFHPOILO": [
+            "63",
+            "10",
+            "30",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 4042210137,
+        "OADKPKHMIBA": [
+            "63",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 10,
+        "level": 9,
+        "JKOLHJJPGOD": 1150165830,
+        "OJHAFHPOILO": [
+            "69",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 1518667433,
+        "OADKPKHMIBA": [
+            "69",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 11,
+        "level": 10,
+        "JKOLHJJPGOD": 3006417414,
+        "OJHAFHPOILO": [
+            "75",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 149616145,
+        "OADKPKHMIBA": [
+            "75",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 12,
+        "level": 11,
+        "JKOLHJJPGOD": 212848686,
+        "OJHAFHPOILO": [
+            "96",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 2464077233,
+        "OADKPKHMIBA": [
+            "96",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 13,
+        "level": 12,
+        "JKOLHJJPGOD": 2387324086,
+        "OJHAFHPOILO": [
+            "102",
+            "390",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 3823666569,
+        "OADKPKHMIBA": [
+            "102",
+            "390",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 14,
+        "level": 13,
+        "JKOLHJJPGOD": 97887326,
+        "OJHAFHPOILO": [
+            "108",
+            "20",
+            "30",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 1104950257,
+        "OADKPKHMIBA": [
+            "108",
+            "390",
+            "20",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 15,
+        "level": 14,
+        "JKOLHJJPGOD": 718111126,
+        "OJHAFHPOILO": [
+            "114",
+            "50",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 3300114337,
+        "OADKPKHMIBA": [
+            "114",
+            "390",
+            "20",
+            "30",
+            "50"
+        ]
+    },
+    {
+        "configId": 16,
+        "level": 15,
+        "JKOLHJJPGOD": 3208670598,
+        "OJHAFHPOILO": [
+            "120",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ENHIDJBPENJ": 2177331785,
+        "OADKPKHMIBA": [
+            "120",
+            "390",
+            "20",
+            "30",
+            "50"
+        ]
+    }
+]

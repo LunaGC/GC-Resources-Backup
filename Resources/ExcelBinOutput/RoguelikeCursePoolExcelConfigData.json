@@ -1,0 +1,52 @@
+[
+    {
+        "NPNIDDAPEHH": 1,
+        "poolId": 1,
+        "groupId": 1
+    },
+    {
+        "NPNIDDAPEHH": 2,
+        "poolId": 1,
+        "groupId": 2
+    },
+    {
+        "NPNIDDAPEHH": 3,
+        "poolId": 1,
+        "groupId": 3
+    },
+    {
+        "NPNIDDAPEHH": 4,
+        "poolId": 1,
+        "groupId": 4
+    },
+    {
+        "NPNIDDAPEHH": 5,
+        "poolId": 1,
+        "groupId": 5
+    },
+    {
+        "NPNIDDAPEHH": 6,
+        "poolId": 1,
+        "groupId": 6
+    },
+    {
+        "NPNIDDAPEHH": 7,
+        "poolId": 2,
+        "groupId": 1
+    },
+    {
+        "NPNIDDAPEHH": 8,
+        "poolId": 2,
+        "groupId": 3
+    },
+    {
+        "NPNIDDAPEHH": 9,
+        "poolId": 2,
+        "groupId": 4
+    },
+    {
+        "NPNIDDAPEHH": 10,
+        "poolId": 2,
+        "groupId": 6
+    }
+]
