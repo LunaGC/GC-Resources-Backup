@@ -1,0 +1,656 @@
+[
+    {
+        "dungeonId": 7601,
+        "groupList": [
+            246201001,
+            246201002,
+            246201003,
+            246201004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1001
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1002,
+                    1003
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1044,
+                    1045
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7602,
+        "groupList": [
+            246202001,
+            246202002,
+            246202003,
+            246202005,
+            246202006,
+            246202007
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1006
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1002,
+                    1005
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1046,
+                    1047,
+                    1048
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7603,
+        "groupList": [
+            246203001,
+            246203002,
+            246203003,
+            246203004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1007,
+                    1008,
+                    1009
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1003,
+                    1004
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1038,
+                    1041,
+                    1049
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7604,
+        "groupList": [
+            246201001,
+            246201002,
+            246201003,
+            246201004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1001,
+                    1002,
+                    1003
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1009,
+                    1012,
+                    1016
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1071,
+                    1072,
+                    1064
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7605,
+        "groupList": [
+            246202001,
+            246202002,
+            246202003,
+            246202005,
+            246202006,
+            246202007
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1001,
+                    1006,
+                    1007
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1002,
+                    1004,
+                    1011
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1063,
+                    1064,
+                    1065,
+                    1066
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7606,
+        "groupList": [
+            246203001,
+            246203002,
+            246203003,
+            246203004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1008,
+                    1009,
+                    1010
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1003,
+                    1005,
+                    1015
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1055,
+                    1056,
+                    1057,
+                    1058,
+                    1067
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7616,
+        "groupList": [
+            246201001,
+            246201002,
+            246201003,
+            246201004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1001,
+                    1002,
+                    1003
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1009,
+                    1012,
+                    1016
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1071,
+                    1072,
+                    1064
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7617,
+        "groupList": [
+            246202001,
+            246202002,
+            246202003,
+            246202005,
+            246202006,
+            246202007
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1017,
+                    1006,
+                    1007
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1002,
+                    1004,
+                    1011
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1063,
+                    1064,
+                    1065,
+                    1066
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7618,
+        "groupList": [
+            246203001,
+            246203002,
+            246203003,
+            246203004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1008,
+                    1014,
+                    1010
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1003,
+                    1005,
+                    1015
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1055,
+                    1056,
+                    1057,
+                    1058,
+                    1067
+                ],
+                "APANDAIJEGL": 10
+            }
+        ]
+    },
+    {
+        "dungeonId": 7607,
+        "groupList": [
+            246201001,
+            246201002,
+            246201003,
+            246201004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1090,
+                    1073,
+                    1074
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1077,
+                    1078,
+                    1079
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7608,
+        "groupList": [
+            246202001,
+            246202002,
+            246202003,
+            246202005,
+            246202006,
+            246202007
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1091,
+                    1075,
+                    1076
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1084,
+                    1085,
+                    1086,
+                    1087,
+                    1088
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7609,
+        "groupList": [
+            246203001,
+            246203002,
+            246203003,
+            246203004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1080,
+                    1081,
+                    1089
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1059,
+                    1060,
+                    1061,
+                    1062,
+                    1069,
+                    1070
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7610,
+        "groupList": [
+            246201001,
+            246201002,
+            246201003,
+            246201004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1090,
+                    1073,
+                    1074
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1077,
+                    1078,
+                    1079
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7611,
+        "groupList": [
+            246202001,
+            246202002,
+            246202003,
+            246202005,
+            246202006,
+            246202007
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1091,
+                    1075,
+                    1076
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1084,
+                    1085,
+                    1086,
+                    1087,
+                    1088
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7612,
+        "groupList": [
+            246203001,
+            246203002,
+            246203003,
+            246203004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1080,
+                    1081,
+                    1089
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1059,
+                    1060,
+                    1061,
+                    1062,
+                    1069,
+                    1070
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7613,
+        "groupList": [
+            246201001,
+            246201002,
+            246201003,
+            246201004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1073,
+                    1074
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1077,
+                    1078,
+                    1079
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7614,
+        "groupList": [
+            246202001,
+            246202002,
+            246202003,
+            246202005,
+            246202006,
+            246202007
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1091,
+                    1075,
+                    1076
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1084,
+                    1085,
+                    1086,
+                    1087,
+                    1088
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    },
+    {
+        "dungeonId": 7615,
+        "groupList": [
+            246203001,
+            246203002,
+            246203003,
+            246203004
+        ],
+        "BLOMLMBMEGL": [
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1080,
+                    1081,
+                    1089
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EGNNPNMEPAE": 3,
+                "EMHDDEMKLNF": [
+                    1059,
+                    1060,
+                    1061,
+                    1062,
+                    1069,
+                    1070
+                ],
+                "APANDAIJEGL": 10
+            },
+            {
+                "EMHDDEMKLNF": []
+            }
+        ]
+    }
+]

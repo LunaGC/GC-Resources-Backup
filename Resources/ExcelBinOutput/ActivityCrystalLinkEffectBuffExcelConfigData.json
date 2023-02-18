@@ -1,0 +1,272 @@
+[
+    {
+        "buffId": 1,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp",
+        "FPEAAKLKELF": 4073629896,
+        "FJOKFCLOACF": 392659938,
+        "NNMEMNOIEIG": 2515179488,
+        "LKOODINLJFI": 77,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 2,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery",
+        "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery",
+        "FPEAAKLKELF": 38002288,
+        "FJOKFCLOACF": 2734169890,
+        "NNMEMNOIEIG": 3140244394,
+        "LKOODINLJFI": 160,
+        "LKLCIOENAAJ": [
+            "80",
+            "120",
+            "140",
+            ""
+        ]
+    },
+    {
+        "buffId": 3,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_ChargeEfficiencyUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_ChargeEfficiencyUp",
+        "FPEAAKLKELF": 2908943760,
+        "FJOKFCLOACF": 649522346,
+        "NNMEMNOIEIG": 1015704251,
+        "LKOODINLJFI": 71,
+        "LKLCIOENAAJ": [
+            "50",
+            "75",
+            "87.5",
+            ""
+        ]
+    },
+    {
+        "buffId": 4,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_NormalAttackDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_NormalAttackDamageUp",
+        "FPEAAKLKELF": 46715952,
+        "FJOKFCLOACF": 2165589818,
+        "NNMEMNOIEIG": 3193771213,
+        "LKOODINLJFI": 154,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 5,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AllElementalDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_AllElementalDamageUp",
+        "FPEAAKLKELF": 75995776,
+        "FJOKFCLOACF": 1630120970,
+        "NNMEMNOIEIG": 3830971545,
+        "LKOODINLJFI": 56,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 6,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AttackSpeedUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_AttackSpeedUp",
+        "FPEAAKLKELF": 4112885936,
+        "FJOKFCLOACF": 1161101138,
+        "NNMEMNOIEIG": 685552872,
+        "LKOODINLJFI": 64,
+        "LKLCIOENAAJ": [
+            "20",
+            "30",
+            "35",
+            ""
+        ]
+    },
+    {
+        "buffId": 7,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_SkillDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_SkillDamageUp",
+        "FPEAAKLKELF": 1312836496,
+        "FJOKFCLOACF": 50471650,
+        "NNMEMNOIEIG": 3109027051,
+        "LKOODINLJFI": 21,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 8,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery_Level3",
+        "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery_Level3",
+        "FPEAAKLKELF": 1922254752,
+        "FJOKFCLOACF": 4256233722,
+        "NNMEMNOIEIG": 3140244394,
+        "LKOODINLJFI": 160,
+        "LKLCIOENAAJ": [
+            "80",
+            "120",
+            "140",
+            ""
+        ]
+    },
+    {
+        "buffId": 9,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp_Level3",
+        "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp_Level3",
+        "FPEAAKLKELF": 4251219568,
+        "FJOKFCLOACF": 1987555610,
+        "NNMEMNOIEIG": 2515179488,
+        "LKOODINLJFI": 77,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 10,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_MaxHPUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_MaxHPUp",
+        "FPEAAKLKELF": 1937600432,
+        "FJOKFCLOACF": 974698842,
+        "NNMEMNOIEIG": 714953763,
+        "LKOODINLJFI": 31,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 11,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AttackUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp",
+        "FPEAAKLKELF": 2005768840,
+        "FJOKFCLOACF": 1552800866,
+        "NNMEMNOIEIG": 2652237488,
+        "LKOODINLJFI": 123,
+        "LKLCIOENAAJ": [
+            "35",
+            "53.5",
+            "62.25",
+            ""
+        ]
+    },
+    {
+        "buffId": 12,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_WaterDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp",
+        "FPEAAKLKELF": 4237997880,
+        "FJOKFCLOACF": 2702041658,
+        "NNMEMNOIEIG": 3061186230,
+        "LKOODINLJFI": 161,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 13,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_RockDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_RockDamageUp",
+        "FPEAAKLKELF": 3706986416,
+        "FJOKFCLOACF": 3002926154,
+        "NNMEMNOIEIG": 4254701452,
+        "LKOODINLJFI": 35,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 14,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_AttackUp_Level4",
+        "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp_Level4",
+        "FPEAAKLKELF": 1426055472,
+        "FJOKFCLOACF": 2730663682,
+        "NNMEMNOIEIG": 2652237488,
+        "LKOODINLJFI": 123,
+        "LKLCIOENAAJ": [
+            "35",
+            "53.5",
+            "62.25",
+            ""
+        ]
+    },
+    {
+        "buffId": 15,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_CriticalUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_CriticalUp",
+        "FPEAAKLKELF": 2284690856,
+        "FJOKFCLOACF": 52882202,
+        "NNMEMNOIEIG": 997162589,
+        "LKOODINLJFI": 196,
+        "LKLCIOENAAJ": [
+            "25",
+            "37.5",
+            "43.75",
+            ""
+        ]
+    },
+    {
+        "buffId": 16,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_WaterDamageUp_Level6",
+        "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp_Level6",
+        "FPEAAKLKELF": 1934686792,
+        "FJOKFCLOACF": 3465406114,
+        "NNMEMNOIEIG": 3061186230,
+        "LKOODINLJFI": 161,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 17,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_IceDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_IceDamageUp",
+        "FPEAAKLKELF": 3184544744,
+        "FJOKFCLOACF": 2477967402,
+        "NNMEMNOIEIG": 3288542669,
+        "LKOODINLJFI": 122,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    },
+    {
+        "buffId": 18,
+        "MPGLOPJFENJ": "ActivityAbility_CrystalLink_Action_FrozenDamageUp",
+        "abilityName": "ActivityAbility_CrystalLink_Action_FrozenDamageUp",
+        "FPEAAKLKELF": 1339921712,
+        "FJOKFCLOACF": 2402184522,
+        "NNMEMNOIEIG": 2137835294,
+        "LKOODINLJFI": 180,
+        "LKLCIOENAAJ": [
+            "40",
+            "60",
+            "70",
+            ""
+        ]
+    }
+]
