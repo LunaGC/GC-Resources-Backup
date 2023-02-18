@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "storyId": 1,
+        "BGGDNLLMCNA": 2276398331,
+        "HPGIFBGGOND": 540160387,
+        "DBJKINLJJJL": [
+            680020101,
+            680020102,
+            680020103
+        ]
+    },
+    {
+        "id": 2,
+        "storyId": 1,
+        "BGGDNLLMCNA": 1180440611,
+        "HPGIFBGGOND": 515618483,
+        "DBJKINLJJJL": [
+            680020201,
+            680020202,
+            680020203
+        ]
+    },
+    {
+        "id": 3,
+        "storyId": 1,
+        "BGGDNLLMCNA": 1878535851,
+        "HPGIFBGGOND": 3052076963,
+        "DBJKINLJJJL": [
+            680020301,
+            680020302,
+            680020303
+        ]
+    },
+    {
+        "id": 4,
+        "storyId": 1,
+        "BGGDNLLMCNA": 926550811,
+        "HPGIFBGGOND": 3818422051,
+        "DBJKINLJJJL": [
+            680020401,
+            680020402,
+            680020403
+        ]
+    },
+    {
+        "id": 5,
+        "storyId": 1,
+        "BGGDNLLMCNA": 2473121739,
+        "HPGIFBGGOND": 3187812331,
+        "DBJKINLJJJL": [
+            680020501,
+            680020502,
+            680020503,
+            680020504,
+            680020505,
+            680020506
+        ]
+    },
+    {
+        "id": 6,
+        "storyId": 2,
+        "BGGDNLLMCNA": 1911410235,
+        "HPGIFBGGOND": 307932691,
+        "DBJKINLJJJL": [
+            680020601,
+            680020602
+        ]
+    },
+    {
+        "id": 7,
+        "storyId": 2,
+        "BGGDNLLMCNA": 2673575459,
+        "HPGIFBGGOND": 672189235,
+        "DBJKINLJJJL": [
+            680020701,
+            680020702
+        ]
+    },
+    {
+        "id": 8,
+        "storyId": 3,
+        "BGGDNLLMCNA": 366986587,
+        "HPGIFBGGOND": 75120643,
+        "DBJKINLJJJL": [
+            680020801
+        ]
+    },
+    {
+        "id": 9,
+        "storyId": 3,
+        "BGGDNLLMCNA": 1144773803,
+        "HPGIFBGGOND": 713974843,
+        "DBJKINLJJJL": [
+            680020901
+        ]
+    },
+    {
+        "id": 10,
+        "storyId": 3,
+        "BGGDNLLMCNA": 77805499,
+        "HPGIFBGGOND": 3360643939,
+        "DBJKINLJJJL": [
+            680021001
+        ]
+    },
+    {
+        "id": 11,
+        "storyId": 4,
+        "BGGDNLLMCNA": 1998150107,
+        "HPGIFBGGOND": 2556180587,
+        "DBJKINLJJJL": [
+            680021101,
+            680021102
+        ]
+    },
+    {
+        "id": 12,
+        "storyId": 4,
+        "BGGDNLLMCNA": 1592453779,
+        "HPGIFBGGOND": 3037298683,
+        "DBJKINLJJJL": [
+            680021201
+        ]
+    },
+    {
+        "id": 13,
+        "storyId": 4,
+        "BGGDNLLMCNA": 2590509875,
+        "HPGIFBGGOND": 2282060619,
+        "DBJKINLJJJL": [
+            680021301,
+            680021302
+        ]
+    },
+    {
+        "id": 14,
+        "storyId": 5,
+        "BGGDNLLMCNA": 782569747,
+        "HPGIFBGGOND": 1350475139,
+        "DBJKINLJJJL": [
+            680021401,
+            680021402,
+            680021403,
+            680021404,
+            680021405
+        ]
+    },
+    {
+        "id": 15,
+        "storyId": 5,
+        "BGGDNLLMCNA": 3327882243,
+        "HPGIFBGGOND": 4186030659,
+        "DBJKINLJJJL": [
+            680021501,
+            680021502
+        ]
+    },
+    {
+        "id": 16,
+        "storyId": 5,
+        "BGGDNLLMCNA": 1200026963,
+        "HPGIFBGGOND": 1720310091,
+        "DBJKINLJJJL": [
+            680021601,
+            680021602,
+            680021603,
+            680021604
+        ]
+    },
+    {
+        "id": 17,
+        "storyId": 5,
+        "BGGDNLLMCNA": 2316112699,
+        "HPGIFBGGOND": 413632235,
+        "DBJKINLJJJL": [
+            680021701,
+            680021702,
+            680021703,
+            680021704
+        ]
+    },
+    {
+        "id": 18,
+        "storyId": 5,
+        "BGGDNLLMCNA": 2953510251,
+        "HPGIFBGGOND": 2236146251,
+        "DBJKINLJJJL": [
+            680021801,
+            680021802
+        ]
+    },
+    {
+        "id": 19,
+        "storyId": 6,
+        "BGGDNLLMCNA": 2904668835,
+        "HPGIFBGGOND": 389059123,
+        "DBJKINLJJJL": [
+            680021901,
+            680021902
+        ]
+    },
+    {
+        "id": 20,
+        "storyId": 6,
+        "BGGDNLLMCNA": 2088129307,
+        "HPGIFBGGOND": 444245475,
+        "DBJKINLJJJL": [
+            680022001,
+            680022002,
+            680022003,
+            680022004
+        ]
+    },
+    {
+        "id": 21,
+        "storyId": 6,
+        "BGGDNLLMCNA": 1253164363,
+        "HPGIFBGGOND": 412983331,
+        "DBJKINLJJJL": [
+            680022101,
+            680022102,
+            680022103,
+            680022104
+        ]
+    },
+    {
+        "id": 22,
+        "storyId": 6,
+        "BGGDNLLMCNA": 298977907,
+        "HPGIFBGGOND": 3127332267,
+        "DBJKINLJJJL": [
+            680022201,
+            680022202,
+            680022203
+        ]
+    },
+    {
+        "id": 23,
+        "storyId": 7,
+        "BGGDNLLMCNA": 2935013867,
+        "HPGIFBGGOND": 1162589643,
+        "DBJKINLJJJL": [
+            680022301,
+            680022302,
+            680022303
+        ]
+    },
+    {
+        "id": 24,
+        "storyId": 7,
+        "BGGDNLLMCNA": 347143955,
+        "HPGIFBGGOND": 666537475,
+        "DBJKINLJJJL": [
+            680022401
+        ]
+    },
+    {
+        "id": 25,
+        "storyId": 7,
+        "BGGDNLLMCNA": 215180587,
+        "HPGIFBGGOND": 1218317923,
+        "DBJKINLJJJL": [
+            680022501,
+            680022502,
+            680022503
+        ]
+    },
+    {
+        "id": 26,
+        "storyId": 7,
+        "BGGDNLLMCNA": 2920205195,
+        "HPGIFBGGOND": 1578680075,
+        "DBJKINLJJJL": [
+            680022601,
+            680022602,
+            680022603
+        ]
+    },
+    {
+        "id": 27,
+        "storyId": 7,
+        "BGGDNLLMCNA": 2048330027,
+        "HPGIFBGGOND": 3592203291,
+        "DBJKINLJJJL": [
+            680022701,
+            680022702
+        ]
+    },
+    {
+        "id": 28,
+        "storyId": 7,
+        "BGGDNLLMCNA": 3453842675,
+        "HPGIFBGGOND": 2447973259,
+        "DBJKINLJJJL": [
+            680022801,
+            680022802
+        ]
+    },
+    {
+        "id": 29,
+        "storyId": 7,
+        "BGGDNLLMCNA": 3976835763,
+        "HPGIFBGGOND": 3384093595,
+        "DBJKINLJJJL": [
+            680022901
+        ]
+    },
+    {
+        "id": 30,
+        "storyId": 7,
+        "BGGDNLLMCNA": 493146835,
+        "HPGIFBGGOND": 2383737659,
+        "DBJKINLJJJL": [
+            680023001,
+            680023002
+        ]
+    },
+    {
+        "id": 31,
+        "storyId": 7,
+        "BGGDNLLMCNA": 2546205507,
+        "HPGIFBGGOND": 753890259,
+        "DBJKINLJJJL": [
+            680023102,
+            680023101
+        ]
+    },
+    {
+        "id": 32,
+        "storyId": 7,
+        "BGGDNLLMCNA": 3606491299,
+        "HPGIFBGGOND": 4190590091,
+        "DBJKINLJJJL": [
+            680023201
+        ]
+    }
+]

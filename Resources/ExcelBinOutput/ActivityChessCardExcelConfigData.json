@@ -1,0 +1,4695 @@
+[
+    {
+        "ID": 1,
+        "EAMAPOKFADD": 1,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1081535283,
+        "descTextMapHash": 2670989924,
+        "JDBPJDJPMLJ": 3734451926,
+        "ICIOIEHKBIM": 2327761743,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "EAMAPOKFADD": 2,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 9961715,
+        "descTextMapHash": 3532666076,
+        "JDBPJDJPMLJ": 2460972558,
+        "ICIOIEHKBIM": 2352608711,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [
+                50.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "EAMAPOKFADD": 3,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1361301019,
+        "descTextMapHash": 2265289844,
+        "JDBPJDJPMLJ": 748170278,
+        "ICIOIEHKBIM": 1622540631,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_INTERVAL",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": -0.20000000298023224,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackSpeedLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "EAMAPOKFADD": 4,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 152110179,
+        "descTextMapHash": 32630404,
+        "JDBPJDJPMLJ": 1876680686,
+        "ICIOIEHKBIM": 2668478231,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "EAMAPOKFADD": 5,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 3414422811,
+        "descTextMapHash": 3649468812,
+        "JDBPJDJPMLJ": 2740326382,
+        "ICIOIEHKBIM": 2612290207,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "EAMAPOKFADD": 6,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 637325043,
+        "descTextMapHash": 68104468,
+        "JDBPJDJPMLJ": 690853430,
+        "ICIOIEHKBIM": 677434511,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_INTERVAL",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": -0.20000000298023224,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackSpeedLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "EAMAPOKFADD": 7,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 2844986979,
+        "descTextMapHash": 658740860,
+        "JDBPJDJPMLJ": 4142289342,
+        "ICIOIEHKBIM": 4168959295,
+        "descParamList": [
+            [
+                40.0,
+                80.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 8.0,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "EAMAPOKFADD": 8,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1794425763,
+        "descTextMapHash": 3644221972,
+        "JDBPJDJPMLJ": 1711853462,
+        "ICIOIEHKBIM": 3307091071,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "EAMAPOKFADD": 9,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 373462603,
+        "descTextMapHash": 312352580,
+        "JDBPJDJPMLJ": 2877709830,
+        "ICIOIEHKBIM": 3405000479,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [
+                50.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "EAMAPOKFADD": 10,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3527411347,
+        "descTextMapHash": 354636036,
+        "JDBPJDJPMLJ": 2722674838,
+        "ICIOIEHKBIM": 3504572551,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_INTERVAL",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": -0.20000000298023224,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackSpeedLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 11,
+        "EAMAPOKFADD": 11,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3398425163,
+        "descTextMapHash": 2207663188,
+        "JDBPJDJPMLJ": 364950486,
+        "ICIOIEHKBIM": 3555777535,
+        "descParamList": [
+            [
+                53.0,
+                106.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 8.0,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 12,
+        "EAMAPOKFADD": 12,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3616288771,
+        "descTextMapHash": 2981162748,
+        "JDBPJDJPMLJ": 1300208198,
+        "ICIOIEHKBIM": 2601098015,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 13,
+        "EAMAPOKFADD": 13,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 393064875,
+        "descTextMapHash": 2631352844,
+        "JDBPJDJPMLJ": 3363130414,
+        "ICIOIEHKBIM": 2513358383,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 14,
+        "EAMAPOKFADD": 14,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 856577819,
+        "descTextMapHash": 4170165996,
+        "JDBPJDJPMLJ": 2393057398,
+        "ICIOIEHKBIM": 758596007,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_INTERVAL",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": -0.20000000298023224,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackSpeedLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 15,
+        "EAMAPOKFADD": 15,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3820641195,
+        "descTextMapHash": 3628155636,
+        "JDBPJDJPMLJ": 1324189478,
+        "ICIOIEHKBIM": 1292684407,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 16,
+        "EAMAPOKFADD": 16,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 154872027,
+        "descTextMapHash": 3896976636,
+        "JDBPJDJPMLJ": 1162189918,
+        "ICIOIEHKBIM": 3186862791,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [
+                50.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 17,
+        "EAMAPOKFADD": 17,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3276445667,
+        "descTextMapHash": 161961668,
+        "JDBPJDJPMLJ": 1333792334,
+        "ICIOIEHKBIM": 3309659631,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_INTERVAL",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": -0.20000000298023224,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackSpeedLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 18,
+        "EAMAPOKFADD": 18,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3842649451,
+        "descTextMapHash": 3893813932,
+        "JDBPJDJPMLJ": 1247945206,
+        "ICIOIEHKBIM": 3779796847,
+        "descParamList": [
+            [
+                53.0,
+                106.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 8.0,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "EAMAPOKFADD": 19,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1227811763,
+        "descTextMapHash": 1356988284,
+        "JDBPJDJPMLJ": 130889718,
+        "ICIOIEHKBIM": 2731974399,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 20,
+        "EAMAPOKFADD": 20,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 862902427,
+        "descTextMapHash": 777764380,
+        "JDBPJDJPMLJ": 3550016846,
+        "ICIOIEHKBIM": 1141904647,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_INTERVAL",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": -0.20000000298023224,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackSpeedLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "EAMAPOKFADD": 21,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1333660403,
+        "descTextMapHash": 3394547972,
+        "JDBPJDJPMLJ": 1438904622,
+        "ICIOIEHKBIM": 486008399,
+        "descParamList": [
+            [
+                33.0,
+                66.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 8.0,
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 22,
+        "EAMAPOKFADD": 22,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 3948328107,
+        "descTextMapHash": 3967054364,
+        "JDBPJDJPMLJ": 2021090966,
+        "ICIOIEHKBIM": 4179083223,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350298
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 23,
+        "EAMAPOKFADD": 23,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 2937406859,
+        "descTextMapHash": 3557342652,
+        "JDBPJDJPMLJ": 2321762366,
+        "ICIOIEHKBIM": 1626291463,
+        "descParamList": [
+            [
+                10.0,
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350303
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_UpgradeAttackLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 24,
+        "EAMAPOKFADD": 24,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 473533275,
+        "descTextMapHash": 3485857396,
+        "JDBPJDJPMLJ": 888225734,
+        "ICIOIEHKBIM": 231067727,
+        "descParamList": [
+            [
+                25.0,
+                50.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350303
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_UpgradeMasteryLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 25,
+        "EAMAPOKFADD": 25,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 2812875195,
+        "descTextMapHash": 3354492980,
+        "JDBPJDJPMLJ": 4109989206,
+        "ICIOIEHKBIM": 256573207,
+        "descParamList": [
+            [
+                10.0,
+                20.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350294
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AuroKillPointBonus",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 26,
+        "EAMAPOKFADD": 26,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 2040220339,
+        "descTextMapHash": 3698884924,
+        "JDBPJDJPMLJ": 3925958702,
+        "ICIOIEHKBIM": 3121725199,
+        "descParamList": [
+            [
+                33.0,
+                66.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 27,
+        "EAMAPOKFADD": 27,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 4138904683,
+        "descTextMapHash": 338766516,
+        "JDBPJDJPMLJ": 3883973166,
+        "ICIOIEHKBIM": 102486935,
+        "descParamList": [
+            [
+                5.0,
+                2.5
+            ],
+            [
+                15.0,
+                15.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Bubble",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 28,
+        "EAMAPOKFADD": 28,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 3366157875,
+        "descTextMapHash": 3231093604,
+        "JDBPJDJPMLJ": 3056155574,
+        "ICIOIEHKBIM": 2741448487,
+        "descParamList": [
+            [
+                20.0,
+                10.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_WaterImpulse",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 29,
+        "EAMAPOKFADD": 29,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 316300899,
+        "descTextMapHash": 1568492836,
+        "JDBPJDJPMLJ": 561013070,
+        "ICIOIEHKBIM": 2358577407,
+        "descParamList": [
+            [
+                50.0,
+                100.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Evaporate",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 30,
+        "EAMAPOKFADD": 30,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 793189947,
+        "descTextMapHash": 3692824876,
+        "JDBPJDJPMLJ": 3157642950,
+        "ICIOIEHKBIM": 3407470039,
+        "descParamList": [
+            [
+                50.0,
+                100.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Wet",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 31,
+        "EAMAPOKFADD": 31,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 87271699,
+        "descTextMapHash": 3707338356,
+        "JDBPJDJPMLJ": 679287918,
+        "ICIOIEHKBIM": 4280114103,
+        "descParamList": [
+            [
+                133.0,
+                266.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Aoe",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 32,
+        "EAMAPOKFADD": 32,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 763412195,
+        "descTextMapHash": 3707235036,
+        "JDBPJDJPMLJ": 1246829550,
+        "ICIOIEHKBIM": 3174678055,
+        "descParamList": [
+            [],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Enbreak",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 33,
+        "EAMAPOKFADD": 33,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 2046879299,
+        "descTextMapHash": 2437927340,
+        "JDBPJDJPMLJ": 1730731046,
+        "ICIOIEHKBIM": 3451302935,
+        "descParamList": [
+            [
+                20.0,
+                10.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_FireImpulse",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 34,
+        "EAMAPOKFADD": 34,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 1305470651,
+        "descTextMapHash": 2207088092,
+        "JDBPJDJPMLJ": 2729759614,
+        "ICIOIEHKBIM": 3872077863,
+        "descParamList": [
+            [
+                50.0,
+                100.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Melt",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 35,
+        "EAMAPOKFADD": 35,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 172089731,
+        "descTextMapHash": 271535172,
+        "JDBPJDJPMLJ": 1105784710,
+        "ICIOIEHKBIM": 1705803279,
+        "descParamList": [
+            [
+                10.0,
+                20.0
+            ],
+            [
+                3.0,
+                3.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Defensedown",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 36,
+        "EAMAPOKFADD": 36,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 815684171,
+        "descTextMapHash": 2934581076,
+        "JDBPJDJPMLJ": 3305841502,
+        "ICIOIEHKBIM": 2789683911,
+        "descParamList": [
+            [
+                20.0,
+                20.0
+            ],
+            [
+                1.0,
+                2.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            true,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Explosion",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 37,
+        "EAMAPOKFADD": 37,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 2179149139,
+        "descTextMapHash": 2296449620,
+        "JDBPJDJPMLJ": 1030660206,
+        "ICIOIEHKBIM": 2092975191,
+        "descParamList": [
+            [
+                25.0,
+                50.0
+            ],
+            [
+                5.0,
+                5.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Slowdown",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 38,
+        "EAMAPOKFADD": 38,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 4227442515,
+        "descTextMapHash": 2860970820,
+        "JDBPJDJPMLJ": 3308930470,
+        "ICIOIEHKBIM": 2033109327,
+        "descParamList": [
+            [
+                20.0,
+                10.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_IceImpulse",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 39,
+        "EAMAPOKFADD": 39,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 2419764211,
+        "descTextMapHash": 1186065636,
+        "JDBPJDJPMLJ": 1904354782,
+        "ICIOIEHKBIM": 2374567767,
+        "descParamList": [
+            [
+                25.0,
+                50.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Resistancedown",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 40,
+        "EAMAPOKFADD": 40,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 2561370611,
+        "descTextMapHash": 1664141732,
+        "JDBPJDJPMLJ": 1375446110,
+        "ICIOIEHKBIM": 3709862079,
+        "descParamList": [
+            [
+                1.0,
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            true,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_TowUnits",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 41,
+        "EAMAPOKFADD": 41,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 1453557683,
+        "descTextMapHash": 3226740740,
+        "JDBPJDJPMLJ": 3606351110,
+        "ICIOIEHKBIM": 1227941487,
+        "descParamList": [
+            [
+                6.0,
+                3.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_WindImpulse",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 42,
+        "EAMAPOKFADD": 42,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 2108257187,
+        "descTextMapHash": 1912694172,
+        "JDBPJDJPMLJ": 2661632278,
+        "ICIOIEHKBIM": 2161890359,
+        "descParamList": [
+            [
+                10.0,
+                10.0
+            ],
+            [
+                3.0,
+                6.0
+            ],
+            [
+                10.0,
+                10.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ReduceWindResistance",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 43,
+        "EAMAPOKFADD": 43,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 432559787,
+        "descTextMapHash": 1396607196,
+        "JDBPJDJPMLJ": 3858503078,
+        "ICIOIEHKBIM": 3831193751,
+        "descParamList": [
+            [
+                50.0,
+                50.0
+            ],
+            [
+                25.0,
+                50.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ExtraDamageByHp",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 44,
+        "EAMAPOKFADD": 44,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1517503707,
+        "descTextMapHash": 3409690836,
+        "JDBPJDJPMLJ": 874805142,
+        "ICIOIEHKBIM": 2309268583,
+        "descParamList": [
+            [
+                1.0,
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ExtraTargets",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 45,
+        "EAMAPOKFADD": 45,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 3595106059,
+        "descTextMapHash": 692749796,
+        "JDBPJDJPMLJ": 48877718,
+        "ICIOIEHKBIM": 455888223,
+        "descParamList": [
+            [
+                8.0,
+                4.0
+            ],
+            [
+                0.5,
+                0.5
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Confine",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 46,
+        "EAMAPOKFADD": 46,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 910637627,
+        "descTextMapHash": 1186388196,
+        "JDBPJDJPMLJ": 2501007158,
+        "ICIOIEHKBIM": 1702648599,
+        "descParamList": [
+            [
+                20.0,
+                10.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElectricImpulse",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 47,
+        "EAMAPOKFADD": 47,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 1175426131,
+        "descTextMapHash": 3958451468,
+        "JDBPJDJPMLJ": 2351970662,
+        "ICIOIEHKBIM": 4097565327,
+        "descParamList": [
+            [
+                100.0,
+                200.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_UpgradeElectricRecation",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 48,
+        "EAMAPOKFADD": 48,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 401852491,
+        "descTextMapHash": 64861932,
+        "JDBPJDJPMLJ": 2030620718,
+        "ICIOIEHKBIM": 737354415,
+        "descParamList": [
+            [
+                5.0,
+                10.0
+            ],
+            [
+                20.0,
+                20.0
+            ],
+            [
+                5.0,
+                5.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_FurySwipe",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 49,
+        "EAMAPOKFADD": 49,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1056955963,
+        "descTextMapHash": 3650215684,
+        "JDBPJDJPMLJ": 2666729278,
+        "ICIOIEHKBIM": 845025095,
+        "descParamList": [
+            [
+                25.0,
+                25.0
+            ],
+            [
+                1.0,
+                2.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_HitExplosion",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 50,
+        "EAMAPOKFADD": 50,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 778781699,
+        "descTextMapHash": 881438908,
+        "JDBPJDJPMLJ": 887958870,
+        "ICIOIEHKBIM": 3348775583,
+        "descParamList": [
+            [
+                40.0,
+                80.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ReducePhysicalResistance",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 51,
+        "EAMAPOKFADD": 51,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 2934780499,
+        "descTextMapHash": 3577684460,
+        "JDBPJDJPMLJ": 1381275310,
+        "ICIOIEHKBIM": 1422273751,
+        "descParamList": [
+            [
+                0.5,
+                0.5
+            ],
+            [
+                5.0,
+                10.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_DamageByTime",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 52,
+        "EAMAPOKFADD": 52,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 859541163,
+        "descTextMapHash": 3679696068,
+        "JDBPJDJPMLJ": 1419726886,
+        "ICIOIEHKBIM": 3116334399,
+        "descParamList": [
+            [
+                50.0,
+                50.0
+            ],
+            [
+                40.0,
+                80.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350298
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Mine_Extradamage",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 53,
+        "EAMAPOKFADD": 53,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 1001657531,
+        "descTextMapHash": 3524050212,
+        "JDBPJDJPMLJ": 1074128590,
+        "ICIOIEHKBIM": 2609947791,
+        "descParamList": [
+            [],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350298
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Mine_Extraexplosion",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 54,
+        "EAMAPOKFADD": 54,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 8,
+        "JBHBGJHFEED": 1248799275,
+        "descTextMapHash": 4123196012,
+        "JDBPJDJPMLJ": 599923846,
+        "ICIOIEHKBIM": 2875267031,
+        "descParamList": [
+            [
+                15.0,
+                7.5
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350298
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Mine_Reset",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 55,
+        "EAMAPOKFADD": 55,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 3152876643,
+        "descTextMapHash": 2689117156,
+        "JDBPJDJPMLJ": 4076975174,
+        "ICIOIEHKBIM": 2404327103,
+        "descParamList": [
+            [
+                2.0,
+                4.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350299
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Trap_Extratime",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 56,
+        "EAMAPOKFADD": 56,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 3,
+        "JBHBGJHFEED": 3427524307,
+        "descTextMapHash": 58489492,
+        "JDBPJDJPMLJ": 3356238422,
+        "ICIOIEHKBIM": 3312472567,
+        "descParamList": [
+            [
+                50.0,
+                100.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350299
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Trap_Extradamage",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 57,
+        "EAMAPOKFADD": 57,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 8,
+        "JBHBGJHFEED": 473926707,
+        "descTextMapHash": 246001228,
+        "JDBPJDJPMLJ": 2866882862,
+        "ICIOIEHKBIM": 2040089735,
+        "descParamList": [
+            [
+                15.0,
+                7.5
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350299
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Trap_Reset",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 58,
+        "EAMAPOKFADD": 58,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 3147657563,
+        "descTextMapHash": 2718675772,
+        "JDBPJDJPMLJ": 4180098662,
+        "ICIOIEHKBIM": 2126319767,
+        "descParamList": [
+            [
+                50.0,
+                100.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 3.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350303
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 59,
+        "EAMAPOKFADD": 59,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1481153387,
+        "descTextMapHash": 2582216900,
+        "JDBPJDJPMLJ": 2901266934,
+        "ICIOIEHKBIM": 3461257399,
+        "descParamList": [
+            [
+                25.0,
+                50.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK_RANGE",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350294
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_RangeLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 60,
+        "EAMAPOKFADD": 60,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 910891291,
+        "descTextMapHash": 981496812,
+        "JDBPJDJPMLJ": 1709030318,
+        "ICIOIEHKBIM": 3726711511,
+        "descParamList": [
+            [
+                20.0,
+                40.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350294
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_SlowLevel",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 61,
+        "EAMAPOKFADD": 61,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 3017753051,
+        "descTextMapHash": 1829306868,
+        "JDBPJDJPMLJ": 3840011182,
+        "ICIOIEHKBIM": 1689975311,
+        "descParamList": [
+            [
+                30.0,
+                60.0
+            ],
+            [
+                8.0,
+                8.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350305
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_SpeedDown",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 62,
+        "EAMAPOKFADD": 62,
+        "HNDACJFGLBM": "CARD_TAG_HELP",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 2413474755,
+        "descTextMapHash": 1332765060,
+        "JDBPJDJPMLJ": 707131686,
+        "ICIOIEHKBIM": 1876503247,
+        "descParamList": [
+            [
+                2.0,
+                4.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350305
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Durability",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 63,
+        "EAMAPOKFADD": 63,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1611908091,
+        "descTextMapHash": 1666098356,
+        "JDBPJDJPMLJ": 4111772270,
+        "ICIOIEHKBIM": 599887623,
+        "descParamList": [
+            [
+                125.0,
+                250.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_TargetAOE",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 64,
+        "EAMAPOKFADD": 64,
+        "HNDACJFGLBM": "CARD_TAG_WATER",
+        "KEOPGPHFMAK": 7,
+        "JBHBGJHFEED": 2903129587,
+        "descTextMapHash": 3163795492,
+        "JDBPJDJPMLJ": 3695550422,
+        "ICIOIEHKBIM": 1011373367,
+        "descParamList": [
+            [
+                12.0,
+                12.0
+            ],
+            [
+                4.0,
+                4.0
+            ],
+            [
+                75.0,
+                150.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Dot",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 65,
+        "EAMAPOKFADD": 65,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3426342931,
+        "descTextMapHash": 4276155644,
+        "JDBPJDJPMLJ": 3634937510,
+        "ICIOIEHKBIM": 4083996799,
+        "descParamList": [
+            [
+                100.0,
+                200.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Missile",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 66,
+        "EAMAPOKFADD": 66,
+        "HNDACJFGLBM": "CARD_TAG_FIRE",
+        "KEOPGPHFMAK": 7,
+        "JBHBGJHFEED": 416375387,
+        "descTextMapHash": 307910300,
+        "JDBPJDJPMLJ": 939786742,
+        "ICIOIEHKBIM": 3438113007,
+        "descParamList": [
+            [
+                30.0,
+                60.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_FireArea",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 67,
+        "EAMAPOKFADD": 67,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3257285491,
+        "descTextMapHash": 1694021492,
+        "JDBPJDJPMLJ": 4156655558,
+        "ICIOIEHKBIM": 2330180855,
+        "descParamList": [
+            [
+                125.0,
+                250.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_TDSpecialGrade_Ice",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 68,
+        "EAMAPOKFADD": 68,
+        "HNDACJFGLBM": "CARD_TAG_ICE",
+        "KEOPGPHFMAK": 7,
+        "JBHBGJHFEED": 2769074267,
+        "descTextMapHash": 1052551508,
+        "JDBPJDJPMLJ": 25184558,
+        "ICIOIEHKBIM": 3501929535,
+        "descParamList": [
+            [
+                10.0,
+                10.0
+            ],
+            [
+                5.0,
+                5.0
+            ],
+            [
+                50.0,
+                100.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_Ice_Fog",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 69,
+        "EAMAPOKFADD": 69,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 563321723,
+        "descTextMapHash": 2099958332,
+        "JDBPJDJPMLJ": 3828461566,
+        "ICIOIEHKBIM": 2801175215,
+        "descParamList": [
+            [
+                100.0,
+                200.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": 1.0,
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ShootBullet",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 70,
+        "EAMAPOKFADD": 70,
+        "HNDACJFGLBM": "CARD_TAG_WIND",
+        "KEOPGPHFMAK": 7,
+        "JBHBGJHFEED": 1229848819,
+        "descTextMapHash": 3032922180,
+        "JDBPJDJPMLJ": 1085538198,
+        "ICIOIEHKBIM": 1140878991,
+        "descParamList": [
+            [
+                5.0,
+                5.0
+            ],
+            [
+                225.0,
+                450.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_CanCharge",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 71,
+        "EAMAPOKFADD": 71,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 2761395547,
+        "descTextMapHash": 2483453364,
+        "JDBPJDJPMLJ": 1665204830,
+        "ICIOIEHKBIM": 1953333775,
+        "descParamList": [
+            [
+                125.0,
+                250.0
+            ],
+            [
+                10.0,
+                10.0
+            ],
+            [
+                10.0,
+                10.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ExtraThunder",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 72,
+        "EAMAPOKFADD": 72,
+        "HNDACJFGLBM": "CARD_TAG_ELECTRIC",
+        "KEOPGPHFMAK": 7,
+        "JBHBGJHFEED": 2341604331,
+        "descTextMapHash": 99576956,
+        "JDBPJDJPMLJ": 2456967926,
+        "ICIOIEHKBIM": 1635911335,
+        "descParamList": [
+            [
+                100.0,
+                200.0
+            ],
+            [
+                150.0,
+                300.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": 1.0,
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_UpgradeNormalAttack",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 73,
+        "EAMAPOKFADD": 73,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1598317483,
+        "descTextMapHash": 4277068964,
+        "JDBPJDJPMLJ": 3716263790,
+        "ICIOIEHKBIM": 1027967615,
+        "descParamList": [
+            [
+                75.0,
+                150.0
+            ],
+            [
+                25.0,
+                50.0
+            ],
+            [
+                15.0,
+                15.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_WantedSign",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 74,
+        "EAMAPOKFADD": 74,
+        "HNDACJFGLBM": "CARD_TAG_PHYSICS",
+        "KEOPGPHFMAK": 7,
+        "JBHBGJHFEED": 1738191955,
+        "descTextMapHash": 2483358860,
+        "JDBPJDJPMLJ": 2719281158,
+        "ICIOIEHKBIM": 2553176951,
+        "descParamList": [
+            [
+                15.0,
+                30.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_STRENGTHEN",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_EnergyBallAttack",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 75,
+        "EAMAPOKFADD": 1,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 2206584147,
+        "descTextMapHash": 2103043124,
+        "JDBPJDJPMLJ": 22195198,
+        "ICIOIEHKBIM": 3281257439,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 4000.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 2,
+            "GMBGANFHBFM": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 76,
+        "EAMAPOKFADD": 2,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 4,
+        "JBHBGJHFEED": 3412087435,
+        "descTextMapHash": 1367418916,
+        "JDBPJDJPMLJ": 3404429982,
+        "ICIOIEHKBIM": 462497215,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 150.0,
+        "costPoints": 300,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 2,
+            "GMBGANFHBFM": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 77,
+        "EAMAPOKFADD": 3,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 4207081403,
+        "descTextMapHash": 1171077964,
+        "JDBPJDJPMLJ": 3859324918,
+        "ICIOIEHKBIM": 3423513135,
+        "descParamList": [
+            [
+                5.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 200,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SET_HOME_HP",
+            "effectStrParam": "",
+            "effectParam1": 5
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 78,
+        "EAMAPOKFADD": 4,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 8,
+        "JBHBGJHFEED": 3083310363,
+        "descTextMapHash": 146720556,
+        "JDBPJDJPMLJ": 3412938278,
+        "ICIOIEHKBIM": 3627959039,
+        "descParamList": [
+            [
+                400.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "cardType": "CHESS_CARD_MECHANISM",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS",
+            "effectStrParam": "",
+            "effectParam1": 400,
+            "GMBGANFHBFM": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectType": "CHESS_CARD_EFFECT_RANDOM_REMOVE",
+                "effectStrParam": "",
+                "effectParam1": 3,
+                "effectParam2": 1
+            }
+        ]
+    },
+    {
+        "ID": 79,
+        "EAMAPOKFADD": 5,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 8,
+        "JBHBGJHFEED": 2441862579,
+        "descTextMapHash": 1342674044,
+        "JDBPJDJPMLJ": 1775996686,
+        "ICIOIEHKBIM": 647147151,
+        "descParamList": [
+            [
+                2000.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "cardType": "CHESS_CARD_MECHANISM",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS",
+            "effectStrParam": "",
+            "effectParam1": 2000
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+                "effectStrParam": "",
+                "effectParam1": -1000000,
+                "BOELNPBMNAL": 1,
+                "GMBGANFHBFM": 1
+            }
+        ]
+    },
+    {
+        "ID": 80,
+        "EAMAPOKFADD": 6,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 2,
+        "JBHBGJHFEED": 2152115315,
+        "descTextMapHash": 2648898356,
+        "JDBPJDJPMLJ": 1847151926,
+        "ICIOIEHKBIM": 1683146751,
+        "descParamList": [
+            [
+                500.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_POINTS_ON_ROUND_END",
+            "effectStrParam": "",
+            "effectParam1": 500
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 81,
+        "EAMAPOKFADD": 7,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 1690243891,
+        "descTextMapHash": 1402495468,
+        "JDBPJDJPMLJ": 473399598,
+        "ICIOIEHKBIM": 4233380311,
+        "descParamList": [
+            [],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_MOD_QUALITY_PROB",
+            "effectStrParam": "",
+            "effectParam1": 4,
+            "effectParam2": 12
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectType": "CHESS_CARD_EFFECT_MOD_CANDIDATE_CARDS",
+                "effectStrParam": "",
+                "effectParam1": -2
+            }
+        ]
+    },
+    {
+        "ID": 82,
+        "EAMAPOKFADD": 8,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 2798058763,
+        "descTextMapHash": 913125556,
+        "JDBPJDJPMLJ": 879855174,
+        "ICIOIEHKBIM": 3085260663,
+        "descParamList": [
+            [
+                50.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_MOD_REFRESH_COST",
+            "effectStrParam": "",
+            "effectParam1": -5000
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 83,
+        "EAMAPOKFADD": 9,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 2641812987,
+        "descTextMapHash": 1912409148,
+        "JDBPJDJPMLJ": 2471060318,
+        "ICIOIEHKBIM": 1584030343,
+        "descParamList": [
+            [
+                5.0
+            ],
+            [
+                1.0
+            ],
+            [
+                3.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            true,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1,
+            "effectParam2": 5,
+            "effectParam3": 3
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 84,
+        "EAMAPOKFADD": 10,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 1839326563,
+        "descTextMapHash": 4248135764,
+        "JDBPJDJPMLJ": 2860245550,
+        "ICIOIEHKBIM": 746708063,
+        "descParamList": [
+            [
+                5.0
+            ],
+            [
+                1.0
+            ],
+            [
+                3.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            true,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam1": 1,
+            "effectParam2": 5,
+            "effectParam3": 3
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 85,
+        "EAMAPOKFADD": 11,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 1277121387,
+        "descTextMapHash": 999645772,
+        "JDBPJDJPMLJ": 2218798126,
+        "ICIOIEHKBIM": 3940047551,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            true,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam2": 1,
+            "effectParam3": 99999
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 86,
+        "EAMAPOKFADD": 12,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 504157307,
+        "descTextMapHash": 3214815324,
+        "JDBPJDJPMLJ": 282883566,
+        "ICIOIEHKBIM": 457111007,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            true,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_MASTERY",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 75.0,
+        "costPoints": 500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_GOOD",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV",
+            "effectStrParam": "SGV_ElementMasteryLevel",
+            "effectParam2": 1,
+            "effectParam3": 99999
+        },
+        "BPIMCMAGCCG": 100,
+        "MCLEAKEAGEH": true,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 87,
+        "EAMAPOKFADD": 13,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 5,
+        "JBHBGJHFEED": 754576619,
+        "descTextMapHash": 2916332772,
+        "JDBPJDJPMLJ": 1959133646,
+        "ICIOIEHKBIM": 1904619623,
+        "descParamList": [
+            [
+                3.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_FREE_CARD_REFRESH",
+            "effectStrParam": "",
+            "effectParam1": 3
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 88,
+        "EAMAPOKFADD": 14,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 8,
+        "JBHBGJHFEED": 326770083,
+        "descTextMapHash": 2432133828,
+        "JDBPJDJPMLJ": 2584279518,
+        "ICIOIEHKBIM": 247978223,
+        "descParamList": [
+            [
+                6.0,
+                6.0
+            ],
+            [
+                250.0,
+                500.0
+            ],
+            [
+                250.0,
+                500.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            true
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_PERCENTAGE",
+        "CIGPHPJIBII": 2.5,
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 2,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_SGV_PICK_CARD_LTE",
+            "effectStrParam": "SGV_AttackRatioUp",
+            "effectParam1": 1,
+            "effectParam2": 6
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 89,
+        "EAMAPOKFADD": 15,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 10,
+        "JBHBGJHFEED": 3899828771,
+        "descTextMapHash": 2645548908,
+        "JDBPJDJPMLJ": 388301334,
+        "ICIOIEHKBIM": 2180884119,
+        "descParamList": [
+            [
+                5.0
+            ],
+            [
+                1.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            true,
+            false
+        ],
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_CARDS_TYPE_COUNT_NO_COST",
+            "effectStrParam": "",
+            "effectParam1": 2,
+            "effectParam2": 5,
+            "effectParam3": 2
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 90,
+        "EAMAPOKFADD": 16,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 9,
+        "JBHBGJHFEED": 3167058267,
+        "descTextMapHash": 2795735452,
+        "JDBPJDJPMLJ": 1926816238,
+        "ICIOIEHKBIM": 1686760143,
+        "descParamList": [
+            [
+                1000.0
+            ],
+            [
+                1.0
+            ],
+            [
+                1.0
+            ]
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            true
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": 2000.0,
+        "costPoints": 1500,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_ALL",
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_POINTS_STACK_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": 1000,
+            "effectParam2": 1,
+            "effectParam3": 99999
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 91,
+        "EAMAPOKFADD": 17,
+        "HNDACJFGLBM": "CARD_TAG_OTHER",
+        "KEOPGPHFMAK": 6,
+        "JBHBGJHFEED": 637576251,
+        "descTextMapHash": 4246448548,
+        "JDBPJDJPMLJ": 2163638758,
+        "ICIOIEHKBIM": 168266919,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 1000,
+        "cardType": "CHESS_CARD_MECHANISM",
+        "NIIOONLMBJJ": "CARD_QUALITY_PERCECT",
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_FORCE_CURSE",
+            "effectStrParam": "",
+            "effectParam1": 3
+        },
+        "BPIMCMAGCCG": 100,
+        "KNFOMPHNEFG": true,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 92,
+        "EAMAPOKFADD": 1,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 4232036563,
+        "descTextMapHash": 4264324652,
+        "JDBPJDJPMLJ": 2382879942,
+        "ICIOIEHKBIM": 3579559959,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [
+                10.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 100,
+        "cardType": "CHESS_CARD_CHALLENGE",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+            "effectStrParam": "",
+            "effectParam1": 1000,
+            "BOELNPBMNAL": 1,
+            "GMBGANFHBFM": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 93,
+        "EAMAPOKFADD": 2,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 2953187131,
+        "descTextMapHash": 2809661812,
+        "JDBPJDJPMLJ": 2301926846,
+        "ICIOIEHKBIM": 2750184343,
+        "descParamList": [
+            [
+                20.0
+            ],
+            [
+                10.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 100,
+        "cardType": "CHESS_CARD_CHALLENGE",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+            "effectStrParam": "",
+            "effectParam1": 1000,
+            "BOELNPBMNAL": 1,
+            "GMBGANFHBFM": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 94,
+        "EAMAPOKFADD": 3,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 950021323,
+        "descTextMapHash": 1537043828,
+        "JDBPJDJPMLJ": 1179962926,
+        "ICIOIEHKBIM": 126250703,
+        "descParamList": [
+            [
+                1.0
+            ],
+            [
+                10.0
+            ],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "costPoints": 100,
+        "cardType": "CHESS_CARD_CHALLENGE",
+        "MOHHPGDGHEN": 3,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+            "effectStrParam": "",
+            "effectParam1": 1000,
+            "BOELNPBMNAL": 1,
+            "GMBGANFHBFM": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 95,
+        "EAMAPOKFADD": 1,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 2150129987,
+        "descTextMapHash": 3983099204,
+        "JDBPJDJPMLJ": 1495175398,
+        "ICIOIEHKBIM": 1878100015,
+        "descParamList": [
+            [],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectType": "CHESS_CARD_EFFECT_KILL_GEARS",
+            "effectStrParam": "",
+            "effectParam1": 1
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 96,
+        "EAMAPOKFADD": 2,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 4045098611,
+        "descTextMapHash": 901184132,
+        "JDBPJDJPMLJ": 2156877358,
+        "ICIOIEHKBIM": 1028170151,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": -4000.0,
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350281
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": -2
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 97,
+        "EAMAPOKFADD": 3,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1132322195,
+        "descTextMapHash": 167911228,
+        "JDBPJDJPMLJ": 3139297254,
+        "ICIOIEHKBIM": 4077693031,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": -4000.0,
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350282
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": -2
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 98,
+        "EAMAPOKFADD": 4,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 768370963,
+        "descTextMapHash": 3121895484,
+        "JDBPJDJPMLJ": 3793797630,
+        "ICIOIEHKBIM": 1343578087,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": -4000.0,
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350283
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": -2
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 99,
+        "EAMAPOKFADD": 5,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 602576387,
+        "descTextMapHash": 1085025964,
+        "JDBPJDJPMLJ": 276440118,
+        "ICIOIEHKBIM": 76858623,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": -4000.0,
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350284
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": -2
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 100,
+        "EAMAPOKFADD": 6,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 3285786107,
+        "descTextMapHash": 1431846252,
+        "JDBPJDJPMLJ": 386333214,
+        "ICIOIEHKBIM": 416264495,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": -4000.0,
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350285
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": -2
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 101,
+        "EAMAPOKFADD": 7,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 1069417547,
+        "descTextMapHash": 2413686156,
+        "JDBPJDJPMLJ": 422559494,
+        "ICIOIEHKBIM": 322907607,
+        "descParamList": [
+            [
+                2.0
+            ],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "ABIGKGEKAED": "CARD_NUMERICAL_ATTACK",
+        "EKHIBFOFFEM": "CARD_NUMERICAL_BASE",
+        "CIGPHPJIBII": -4000.0,
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetType": "CHESS_CARD_TARGET_GADGETS",
+            "targetParamList": [
+                70350286
+            ],
+            "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+            "effectStrParam": "SGV_AttackDamageLevel",
+            "effectParam1": -2
+        },
+        "BPIMCMAGCCG": 100,
+        "LPGCLFJAJGK": true,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    },
+    {
+        "ID": 102,
+        "EAMAPOKFADD": 8,
+        "KEOPGPHFMAK": 1,
+        "JBHBGJHFEED": 2000605971,
+        "descTextMapHash": 2998795020,
+        "JDBPJDJPMLJ": 1907585102,
+        "ICIOIEHKBIM": 2004793535,
+        "descParamList": [
+            [],
+            [],
+            []
+        ],
+        "JPAEAHIDDFJ": [
+            false,
+            false,
+            false
+        ],
+        "MOHHPGDGHEN": 1,
+        "GPONEPLEIJP": {
+            "targetParamList": [],
+            "effectStrParam": ""
+        },
+        "BPIMCMAGCCG": 100,
+        "HDKCJMEKMHC": [
+            {
+                "targetParamList": [],
+                "effectStrParam": ""
+            }
+        ]
+    }
+]

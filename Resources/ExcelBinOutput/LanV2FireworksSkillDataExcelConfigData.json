@@ -1,0 +1,184 @@
+[
+    {
+        "HNPAJLCJJEA": 1,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 10,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 3,
+        "JMBNHBGMGNG": 9,
+        "ADMLDGCKKMD": 11,
+        "DIFHPKMFDOG": [
+            0,
+            0,
+            0
+        ],
+        "JHLANHGGAFA": 3290193374,
+        "EEEHKAOLABH": 603358825,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 2,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 14,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 3,
+        "JMBNHBGMGNG": 18,
+        "ADMLDGCKKMD": 22,
+        "DIFHPKMFDOG": [
+            0,
+            0,
+            0
+        ],
+        "JHLANHGGAFA": 984501478,
+        "EEEHKAOLABH": 3411355441,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 3,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 18,
+        "LHEJDLMAMOL": 1001,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 3,
+        "JMBNHBGMGNG": 27,
+        "ADMLDGCKKMD": 33,
+        "DIFHPKMFDOG": [
+            0,
+            0,
+            0
+        ],
+        "JHLANHGGAFA": 1884046782,
+        "EEEHKAOLABH": 2858017273,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 4,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_ADJACENT",
+        "MEOFDLOMNCN": 26,
+        "LHEJDLMAMOL": 1001,
+        "PABEODOHPGF": -5,
+        "JMBNHBGMGNG": 20,
+        "ADMLDGCKKMD": 30,
+        "DIFHPKMFDOG": [
+            10,
+            20,
+            0
+        ],
+        "JHLANHGGAFA": 2855886838,
+        "EEEHKAOLABH": 2886390217,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 5,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_INSTABLE",
+        "MEOFDLOMNCN": 22,
+        "LHEJDLMAMOL": 1002,
+        "PABEODOHPGF": -5,
+        "JMBNHBGMGNG": 9,
+        "ADMLDGCKKMD": 11,
+        "DIFHPKMFDOG": [
+            3,
+            6,
+            0
+        ],
+        "JHLANHGGAFA": 4021029662,
+        "EEEHKAOLABH": 983021145,
+        "ODLANDPLCMK": [
+            3,
+            6,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 6,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 4,
+        "LHEJDLMAMOL": 1003,
+        "PABEODOHPGF": 20,
+        "DIFHPKMFDOG": [
+            0,
+            0,
+            0
+        ],
+        "JHLANHGGAFA": 2022754822,
+        "EEEHKAOLABH": 972686865,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 7,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 4,
+        "LHEJDLMAMOL": 1003,
+        "PABEODOHPGF": -20,
+        "DIFHPKMFDOG": [
+            0,
+            0,
+            0
+        ],
+        "JHLANHGGAFA": 4270418878,
+        "EEEHKAOLABH": 2490603433,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "HNPAJLCJJEA": 8,
+        "NLCDEFKJBLO": "FIREWORKS_REFORM_SKILL_GENERAL",
+        "MEOFDLOMNCN": 15,
+        "LHEJDLMAMOL": 1004,
+        "PABEODOHPGF": -5,
+        "FBFNFIBGFOP": 25,
+        "JMBNHBGMGNG": 9,
+        "ADMLDGCKKMD": 11,
+        "DIFHPKMFDOG": [
+            0,
+            0,
+            0
+        ],
+        "JHLANHGGAFA": 1565215406,
+        "EEEHKAOLABH": 2164092153,
+        "ODLANDPLCMK": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

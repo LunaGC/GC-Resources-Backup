@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1001,
+        "sceneTagName": "Combine_Lyg",
+        "sceneId": 3,
+        "JMMHJDLFCPI": "(!Hdj&&!Zyj)"
+    },
+    {
+        "id": 1002,
+        "sceneTagName": "Combine_Mdc",
+        "sceneId": 3,
+        "JMMHJDLFCPI": "(!Fhj)"
+    },
+    {
+        "id": 1003,
+        "sceneTagName": "Aby_LightOFF",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(AbyssalNight&& !AbyssalEvent)"
+    },
+    {
+        "id": 1004,
+        "sceneTagName": "Aby_LightON",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(!AbyssalNight && !AbyssalEventNight)"
+    },
+    {
+        "id": 1005,
+        "sceneTagName": "AbyIsle_Const",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(AbyssalIsle || AbyssalEvent)"
+    },
+    {
+        "id": 1006,
+        "sceneTagName": "AbyIsle_LightON",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(AbyssalIsle&& !AbyssalNight)"
+    },
+    {
+        "id": 1007,
+        "sceneTagName": "AbyIsle_LightOFF",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(AbyssalIsle && AbyssalNight)"
+    },
+    {
+        "id": 1009,
+        "sceneTagName": "AbyIsle_NotEvent",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(!AbyssalEvent&&AbyssalIsle)"
+    },
+    {
+        "id": 1010,
+        "sceneTagName": "AbyIsle_NotEventLightOFF",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(!AbyssalEvent && AbyssalNight&&AbyssalIsle)"
+    },
+    {
+        "id": 1011,
+        "sceneTagName": "Combine_RBQyg",
+        "sceneId": 3,
+        "JMMHJDLFCPI": "(!RBQyg_01j&&!RBQyg_02&&!RBQyg_03&&!RBQyg_04)"
+    },
+    {
+        "id": 1012,
+        "sceneTagName": "Combine_QldFight",
+        "sceneId": 3,
+        "JMMHJDLFCPI": "(!QLFightPlatform)"
+    },
+    {
+        "id": 1027,
+        "sceneTagName": "Combine_Irodori",
+        "sceneId": 3,
+        "JMMHJDLFCPI": "(!Irodori)"
+    },
+    {
+        "id": 1028,
+        "sceneTagName": "Aby_NotEvent",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(!AbyssalEvent)"
+    },
+    {
+        "id": 1029,
+        "sceneTagName": "Aby_NotEventLightOFF",
+        "sceneId": 5,
+        "JMMHJDLFCPI": "(!AbyssalEvent && AbyssalNight)"
+    },
+    {
+        "id": 1068,
+        "sceneTagName": "Combine_SHOPYamashiroKenta",
+        "sceneId": 3,
+        "JMMHJDLFCPI": "(!SHOPYamashiroKenta)"
+    }
+]

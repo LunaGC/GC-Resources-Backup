@@ -1,0 +1,35 @@
+[
+    {
+        "JIHIDGMIMCD": 100001,
+        "LBDEFGOONPD": 2,
+        "maxLevel": 5,
+        "buffList": []
+    },
+    {
+        "JIHIDGMIMCD": 100002,
+        "LBDEFGOONPD": 1,
+        "maxLevel": 15,
+        "buffList": [
+            500301,
+            500302,
+            500303,
+            500304,
+            500305,
+            500306,
+            500307,
+            500308,
+            500309,
+            500310,
+            500311,
+            500312,
+            500313,
+            500314,
+            500315
+        ]
+    },
+    {
+        "JIHIDGMIMCD": 100003,
+        "maxLevel": 10,
+        "buffList": []
+    }
+]

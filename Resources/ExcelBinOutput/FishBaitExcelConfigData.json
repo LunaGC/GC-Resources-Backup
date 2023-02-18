@@ -1,0 +1,99 @@
+[
+    {
+        "id": 111023,
+        "BOCKFDHFPOD": [
+            {
+                "HNAAHHFGFHM": 9201,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            },
+            {
+                "HNAAHHFGFHM": 9200,
+                "GJDIPJDNLID": 1.0
+            },
+            {},
+            {}
+        ],
+        "MEMKDOOHJCA": 2,
+        "PIILPPCNJDH": []
+    },
+    {
+        "id": 111024,
+        "BOCKFDHFPOD": [
+            {
+                "HNAAHHFGFHM": 9202,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            },
+            {
+                "HNAAHHFGFHM": 9200,
+                "GJDIPJDNLID": 1.0
+            },
+            {},
+            {}
+        ],
+        "MEMKDOOHJCA": 3,
+        "PIILPPCNJDH": []
+    },
+    {
+        "id": 111025,
+        "BOCKFDHFPOD": [
+            {
+                "HNAAHHFGFHM": 9203,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            },
+            {
+                "HNAAHHFGFHM": 9200,
+                "GJDIPJDNLID": 1.0
+            },
+            {},
+            {}
+        ],
+        "MEMKDOOHJCA": 4,
+        "PIILPPCNJDH": []
+    },
+    {
+        "id": 111026,
+        "BOCKFDHFPOD": [
+            {
+                "HNAAHHFGFHM": 9204,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            },
+            {
+                "HNAAHHFGFHM": 9205,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            },
+            {
+                "HNAAHHFGFHM": 9200,
+                "GJDIPJDNLID": 1.0
+            },
+            {
+                "HNAAHHFGFHM": 9206,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            }
+        ],
+        "MEMKDOOHJCA": 5,
+        "PIILPPCNJDH": []
+    },
+    {
+        "id": 111027,
+        "BOCKFDHFPOD": [
+            {
+                "HNAAHHFGFHM": 9200,
+                "weight": 1.0,
+                "GJDIPJDNLID": 1.0
+            },
+            {},
+            {},
+            {}
+        ],
+        "MEMKDOOHJCA": 1,
+        "PIILPPCNJDH": [
+            10007
+        ]
+    }
+]

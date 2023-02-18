@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "LLBAACGJLMD": [
+            {
+                "LFIAILJCADP": 20.0,
+                "OFLJGENDKPP": 1
+            },
+            {
+                "LFIAILJCADP": 2.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "LLBAACGJLMD": [
+            {
+                "LFIAILJCADP": 10.0,
+                "OFLJGENDKPP": 1
+            },
+            {
+                "LFIAILJCADP": 2.0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "LLBAACGJLMD": [
+            {
+                "LFIAILJCADP": 20.0,
+                "OFLJGENDKPP": 1
+            },
+            {
+                "LFIAILJCADP": 2.0
+            }
+        ]
+    }
+]

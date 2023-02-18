@@ -1,0 +1,119 @@
+[
+    {
+        "Id": 1,
+        "param": [
+            "60,80,100,120",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 751969881,
+        "ADOOBCCEJEB": 3287737932,
+        "FBPHBHPOPCM": 3076050057
+    },
+    {
+        "Id": 2,
+        "param": [
+            "1",
+            "3",
+            "4",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 2239727673,
+        "ADOOBCCEJEB": 1878334172,
+        "FBPHBHPOPCM": 4204350777
+    },
+    {
+        "Id": 3,
+        "param": [
+            "100,150,200,250",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 4286733705,
+        "ADOOBCCEJEB": 2764297324,
+        "FBPHBHPOPCM": 1135991593
+    },
+    {
+        "Id": 4,
+        "param": [
+            "3",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 3740174441,
+        "ADOOBCCEJEB": 893279172,
+        "FBPHBHPOPCM": 1419849889
+    },
+    {
+        "Id": 5,
+        "param": [
+            "24,36,48,60",
+            "8",
+            "4",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 541518785,
+        "ADOOBCCEJEB": 59288044,
+        "FBPHBHPOPCM": 3270215977
+    },
+    {
+        "Id": 6,
+        "param": [
+            "15,20,25,30",
+            "10",
+            "",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 2957957601,
+        "ADOOBCCEJEB": 2647445876,
+        "FBPHBHPOPCM": 930118105
+    },
+    {
+        "Id": 7,
+        "param": [
+            "10",
+            "20",
+            "10",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 1171666105,
+        "ADOOBCCEJEB": 2545696156,
+        "FBPHBHPOPCM": 2977234321
+    },
+    {
+        "Id": 8,
+        "param": [
+            "100,135,170,205",
+            "8",
+            "",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 2999742425,
+        "ADOOBCCEJEB": 1033180860,
+        "FBPHBHPOPCM": 1675746521
+    },
+    {
+        "Id": 9,
+        "param": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AGKLHJPOEBE": 2987580945,
+        "ADOOBCCEJEB": 4149840404,
+        "FBPHBHPOPCM": 3058971113
+    }
+]

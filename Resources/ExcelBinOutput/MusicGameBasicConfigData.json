@@ -1,0 +1,932 @@
+[
+    {
+        "id": 1,
+        "musicID": 1,
+        "musicLevel": 1,
+        "jsonPath": "XiaoGong_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1362,
+            1635,
+            2452,
+            2725
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 145.0,
+        "BNPFEAALPMH": {
+            "0": 145.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "XiaoGong_Hint_Complex",
+        "JDIKBFLGFNP": "XiaoGong_Hint_Complex",
+        "NLJEFOKNGLG": 102,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 1978622692,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 2,
+        "musicID": 1,
+        "musicLevel": 2,
+        "jsonPath": "XiaoGong_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1685,
+            2022,
+            3033,
+            3370
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 145.0,
+        "BNPFEAALPMH": {
+            "0": 145.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "XiaoGong_Hint_Complex",
+        "JDIKBFLGFNP": "XiaoGong_Hint_Complex",
+        "NLJEFOKNGLG": 122,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2239859412,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 3,
+        "musicID": 1,
+        "musicLevel": 3,
+        "jsonPath": "XiaoGong_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            2480,
+            2976,
+            4464,
+            4960
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 145.0,
+        "BNPFEAALPMH": {
+            "0": 145.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "XiaoGong_Hint_Complex",
+        "JDIKBFLGFNP": "XiaoGong_Hint_Complex",
+        "NLJEFOKNGLG": 179,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2777352964,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 4,
+        "musicID": 2,
+        "musicLevel": 1,
+        "jsonPath": "YiDou_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1375,
+            1650,
+            2475,
+            2750
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 150.0,
+        "BNPFEAALPMH": {
+            "0": 150.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "YiDou_Hint_Complex",
+        "JDIKBFLGFNP": "YiDou_Hint_Complex",
+        "NLJEFOKNGLG": 97,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 4163533660,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 5,
+        "musicID": 2,
+        "musicLevel": 2,
+        "jsonPath": "YiDou_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1817,
+            2181,
+            3271,
+            3635
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 150.0,
+        "BNPFEAALPMH": {
+            "0": 150.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "YiDou_Hint_Complex",
+        "JDIKBFLGFNP": "YiDou_Hint_Complex",
+        "NLJEFOKNGLG": 121,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 575239028,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 6,
+        "musicID": 2,
+        "musicLevel": 3,
+        "jsonPath": "YiDou_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            2342,
+            2811,
+            4216,
+            4685
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 150.0,
+        "BNPFEAALPMH": {
+            "0": 150.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "YiDou_Hint_Complex",
+        "JDIKBFLGFNP": "YiDou_Hint_Complex",
+        "NLJEFOKNGLG": 168,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 627147492,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 7,
+        "musicID": 3,
+        "musicLevel": 1,
+        "jsonPath": "WanYe_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1335,
+            1602,
+            2403,
+            2670
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 168.0,
+        "BNPFEAALPMH": {
+            "0": 168.0,
+            "2841": 168.0,
+            "54265": 170.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "WanYe_Hint_Complex",
+        "JDIKBFLGFNP": "WanYe_Hint_Complex",
+        "NLJEFOKNGLG": 99,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 1710397604,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 8,
+        "musicID": 3,
+        "musicLevel": 2,
+        "jsonPath": "WanYe_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1870,
+            2244,
+            3366,
+            3740
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 168.0,
+        "BNPFEAALPMH": {
+            "0": 168.0,
+            "2841": 168.0,
+            "54265": 170.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "WanYe_Hint_Complex",
+        "JDIKBFLGFNP": "WanYe_Hint_Complex",
+        "NLJEFOKNGLG": 129,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 1852506564,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 9,
+        "musicID": 3,
+        "musicLevel": 3,
+        "jsonPath": "WanYe_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            2410,
+            2892,
+            4338,
+            4820
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 168.0,
+        "BNPFEAALPMH": {
+            "0": 168.0,
+            "2841": 168.0,
+            "54265": 170.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "WanYe_Hint_Complex",
+        "JDIKBFLGFNP": "WanYe_Hint_Complex",
+        "NLJEFOKNGLG": 171,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 1750823012,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 10,
+        "musicID": 4,
+        "musicLevel": 1,
+        "jsonPath": "TuoMa_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1055,
+            1266,
+            1899,
+            2110
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 143.0,
+        "BNPFEAALPMH": {
+            "0": 143.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "TuoMa_Hint_Complex",
+        "JDIKBFLGFNP": "TuoMa_Hint_Complex",
+        "NLJEFOKNGLG": 77,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2032707428,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 11,
+        "musicID": 4,
+        "musicLevel": 2,
+        "jsonPath": "TuoMa_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1387,
+            1665,
+            2497,
+            2775
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 143.0,
+        "BNPFEAALPMH": {
+            "0": 143.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "TuoMa_Hint_Complex",
+        "JDIKBFLGFNP": "TuoMa_Hint_Complex",
+        "NLJEFOKNGLG": 102,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2891835564,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 12,
+        "musicID": 4,
+        "musicLevel": 3,
+        "jsonPath": "TuoMa_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1777,
+            2133,
+            3199,
+            3555
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 143.0,
+        "BNPFEAALPMH": {
+            "0": 143.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "TuoMa_Hint_Complex",
+        "JDIKBFLGFNP": "TuoMa_Hint_Complex",
+        "NLJEFOKNGLG": 135,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2765580940,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 13,
+        "musicID": 5,
+        "musicLevel": 1,
+        "jsonPath": "KeLi_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1075,
+            1290,
+            1935,
+            2150
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 129.0,
+        "BNPFEAALPMH": {
+            "0": 129.0,
+            "20248": 135.0,
+            "46144": 135.0,
+            "55424": 140.75,
+            "67350": 140.0,
+            "74221": 145.0,
+            "77517": 139.0,
+            "84358": 117.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "KeLi_Hint_Complex",
+        "JDIKBFLGFNP": "KeLi_Hint_Complex",
+        "NLJEFOKNGLG": 101,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 450371132,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 14,
+        "musicID": 5,
+        "musicLevel": 2,
+        "jsonPath": "KeLi_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1575,
+            1890,
+            2835,
+            3150
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 129.0,
+        "BNPFEAALPMH": {
+            "0": 129.0,
+            "20248": 135.0,
+            "46144": 135.0,
+            "55424": 140.75,
+            "67350": 140.0,
+            "74221": 145.0,
+            "77517": 139.0,
+            "84358": 117.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "KeLi_Hint_Complex",
+        "JDIKBFLGFNP": "KeLi_Hint_Complex",
+        "NLJEFOKNGLG": 133,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2490751876,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 15,
+        "musicID": 5,
+        "musicLevel": 3,
+        "jsonPath": "KeLi_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            2320,
+            2784,
+            4176,
+            4640
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 129.0,
+        "BNPFEAALPMH": {
+            "0": 129.0,
+            "20248": 135.0,
+            "46144": 135.0,
+            "55424": 140.75,
+            "67350": 140.0,
+            "74221": 145.0,
+            "77517": 139.0,
+            "84358": 117.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "KeLi_Hint_Complex",
+        "JDIKBFLGFNP": "KeLi_Hint_Complex",
+        "NLJEFOKNGLG": 178,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 845524156,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 16,
+        "musicID": 6,
+        "musicLevel": 1,
+        "jsonPath": "ReTuoLongWang_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1112,
+            1335,
+            2002,
+            2225
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 136.0,
+        "BNPFEAALPMH": {
+            "0": 136.0
+        },
+        "comboConfig": [
+            3,
+            4,
+            6
+        ],
+        "scaleRange": 3,
+        "EAJPPGAILLE": "ReTuoLongWang_Hint_Complex",
+        "JDIKBFLGFNP": "ReTuoLongWang_Hint_Complex",
+        "NLJEFOKNGLG": 99,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 1680807580,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 17,
+        "musicID": 6,
+        "musicLevel": 2,
+        "jsonPath": "ReTuoLongWang_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1635,
+            1962,
+            2943,
+            3270
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 136.0,
+        "BNPFEAALPMH": {
+            "0": 136.0
+        },
+        "comboConfig": [
+            3,
+            4,
+            6
+        ],
+        "scaleRange": 3,
+        "EAJPPGAILLE": "ReTuoLongWang_Hint_Complex",
+        "JDIKBFLGFNP": "ReTuoLongWang_Hint_Complex",
+        "NLJEFOKNGLG": 127,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 1642361068,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 18,
+        "musicID": 6,
+        "musicLevel": 3,
+        "jsonPath": "ReTuoLongWang_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            2252,
+            2703,
+            4054,
+            4505
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 136.0,
+        "BNPFEAALPMH": {
+            "0": 136.0
+        },
+        "comboConfig": [
+            3,
+            4,
+            6
+        ],
+        "scaleRange": 3,
+        "EAJPPGAILLE": "ReTuoLongWang_Hint_Complex",
+        "JDIKBFLGFNP": "ReTuoLongWang_Hint_Complex",
+        "NLJEFOKNGLG": 156,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 4217629892,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 19,
+        "musicID": 7,
+        "musicLevel": 1,
+        "jsonPath": "LeiShen_Easy",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1192,
+            1431,
+            2146,
+            2385
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 144.0,
+        "BNPFEAALPMH": {
+            "0": 144.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "LeiShen_Hint_Complex",
+        "JDIKBFLGFNP": "LeiShen_Hint_Complex",
+        "NLJEFOKNGLG": 102,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 2867394468,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 20,
+        "musicID": 7,
+        "musicLevel": 2,
+        "jsonPath": "LeiShen_Normal",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            1750,
+            2100,
+            3150,
+            3500
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 144.0,
+        "BNPFEAALPMH": {
+            "0": 144.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "LeiShen_Hint_Complex",
+        "JDIKBFLGFNP": "LeiShen_Hint_Complex",
+        "NLJEFOKNGLG": 132,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 477471884,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "id": 21,
+        "musicID": 7,
+        "musicLevel": 3,
+        "jsonPath": "LeiShen_Hard",
+        "OFBONBEJBCL": 1300,
+        "successLatePoint": 150,
+        "scoreLevelList": [
+            2457,
+            2949,
+            4423,
+            4915
+        ],
+        "scoreOneKey": 20,
+        "CHDIBEGODJL": 15,
+        "OBKBIGJCIJO": 5,
+        "EFJPGMPEKBN": 144.0,
+        "BNPFEAALPMH": {
+            "0": 144.0
+        },
+        "comboConfig": [
+            2,
+            4,
+            6
+        ],
+        "scaleRange": 4,
+        "EAJPPGAILLE": "LeiShen_Hint_Complex",
+        "JDIKBFLGFNP": "LeiShen_Hint_Complex",
+        "NLJEFOKNGLG": 178,
+        "KLBHFIGADJL": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "unlockTipsTextMapHash": 132414284,
+        "CCMCLFEOLHH": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "id": 1,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 10,
+        "descTextMapHash": 3491445615
+    },
+    {
+        "id": 2,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 10,
+        "descTextMapHash": 2330434975
+    },
+    {
+        "id": 3,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 150,
+        "descTextMapHash": 310589479,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 4,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
+        "score": 100,
+        "descTextMapHash": 741812663,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 5,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
+        "score": 100,
+        "descTextMapHash": 1260300623,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 6,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
+        "score": 1,
+        "descTextMapHash": 323901639,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 7,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_DISPLAY_PARAM_FACTOR",
+        "score": 1,
+        "descTextMapHash": 2690475127,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 8,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 100,
+        "descTextMapHash": 577317511,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 9,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 2821725831,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 10,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 848864783,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 11,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 1458787727,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 12,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 100,
+        "descTextMapHash": 1892991863,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 13,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 1979030823,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 14,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 100,
+        "descTextMapHash": 1043070375,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 15,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 862602303,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 16,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 1618794967,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 17,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 615619671,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 18,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 140270279,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 19,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 150,
+        "descTextMapHash": 1275310887,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 20,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 4276634727,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 21,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 100,
+        "descTextMapHash": 2573554087,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 22,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 798263799,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 23,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 150,
+        "descTextMapHash": 674666215,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 24,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 3717399151,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 25,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 767203943,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 26,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 3808808255,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 27,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 1150666175,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 28,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 3075387071,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 29,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 2798621615,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 30,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 88131815,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 31,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 2085516159,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 32,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 1768018983,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 33,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 2216635695,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 34,
+        "CCPEHCJKBOO": 10301,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 60,
+        "descTextMapHash": 1325638191,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 35,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 3271797775,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 36,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 100,
+        "descTextMapHash": 1022824511,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 37,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 3836577623,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 38,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 331925543,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 39,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 685536959,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 40,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 1375805367,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 41,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 920578535,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 42,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 2112257191,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 43,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 956931287,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 44,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 2099056727,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 45,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 1186187399,
+        "NCMJOACIPEM": true
+    },
+    {
+        "id": 46,
+        "CCPEHCJKBOO": 10101,
+        "scoreType": "EXHIBITION_SCORE_VALUE",
+        "score": 50,
+        "descTextMapHash": 54149911,
+        "NCMJOACIPEM": true
+    }
+]

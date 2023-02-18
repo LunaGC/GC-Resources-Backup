@@ -1,0 +1,321 @@
+[
+    {
+        "configId": 1,
+        "MDFAEPOGIOB": 892754422,
+        "PPJEGABFMNB": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 3458603201,
+        "DNGHJIFHDCK": [
+            "0",
+            "300",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 2,
+        "level": 1,
+        "MDFAEPOGIOB": 898507734,
+        "PPJEGABFMNB": [
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 3276071097,
+        "DNGHJIFHDCK": [
+            "6",
+            "300",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 3,
+        "level": 2,
+        "MDFAEPOGIOB": 804322998,
+        "PPJEGABFMNB": [
+            "12",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 502550361,
+        "DNGHJIFHDCK": [
+            "12",
+            "300",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 4,
+        "level": 3,
+        "MDFAEPOGIOB": 712780014,
+        "PPJEGABFMNB": [
+            "18",
+            "330",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 3669646369,
+        "DNGHJIFHDCK": [
+            "18",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 5,
+        "level": 4,
+        "MDFAEPOGIOB": 2058993054,
+        "PPJEGABFMNB": [
+            "24",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 308105593,
+        "DNGHJIFHDCK": [
+            "24",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 6,
+        "level": 5,
+        "MDFAEPOGIOB": 4288370838,
+        "PPJEGABFMNB": [
+            "30",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 2940502065,
+        "DNGHJIFHDCK": [
+            "30",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 7,
+        "level": 6,
+        "MDFAEPOGIOB": 4144624774,
+        "PPJEGABFMNB": [
+            "51",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 2341687377,
+        "DNGHJIFHDCK": [
+            "51",
+            "330",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 8,
+        "level": 7,
+        "MDFAEPOGIOB": 4005514230,
+        "PPJEGABFMNB": [
+            "57",
+            "360",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 717811953,
+        "DNGHJIFHDCK": [
+            "57",
+            "360",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "configId": 9,
+        "level": 8,
+        "MDFAEPOGIOB": 1297725510,
+        "PPJEGABFMNB": [
+            "63",
+            "10",
+            "30",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 4042210137,
+        "DNGHJIFHDCK": [
+            "63",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 10,
+        "level": 9,
+        "MDFAEPOGIOB": 1150165830,
+        "PPJEGABFMNB": [
+            "69",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 1518667433,
+        "DNGHJIFHDCK": [
+            "69",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 11,
+        "level": 10,
+        "MDFAEPOGIOB": 3006417414,
+        "PPJEGABFMNB": [
+            "75",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 149616145,
+        "DNGHJIFHDCK": [
+            "75",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 12,
+        "level": 11,
+        "MDFAEPOGIOB": 212848686,
+        "PPJEGABFMNB": [
+            "96",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 2464077233,
+        "DNGHJIFHDCK": [
+            "96",
+            "360",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 13,
+        "level": 12,
+        "MDFAEPOGIOB": 2387324086,
+        "PPJEGABFMNB": [
+            "102",
+            "390",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 3823666569,
+        "DNGHJIFHDCK": [
+            "102",
+            "390",
+            "10",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 14,
+        "level": 13,
+        "MDFAEPOGIOB": 97887326,
+        "PPJEGABFMNB": [
+            "108",
+            "20",
+            "30",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 1104950257,
+        "DNGHJIFHDCK": [
+            "108",
+            "390",
+            "20",
+            "30",
+            ""
+        ]
+    },
+    {
+        "configId": 15,
+        "level": 14,
+        "MDFAEPOGIOB": 718111126,
+        "PPJEGABFMNB": [
+            "114",
+            "50",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 3300114337,
+        "DNGHJIFHDCK": [
+            "114",
+            "390",
+            "20",
+            "30",
+            "50"
+        ]
+    },
+    {
+        "configId": 16,
+        "level": 15,
+        "MDFAEPOGIOB": 3208670598,
+        "PPJEGABFMNB": [
+            "120",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ANCOLHCFDAJ": 2177331785,
+        "DNGHJIFHDCK": [
+            "120",
+            "390",
+            "20",
+            "30",
+            "50"
+        ]
+    }
+]
