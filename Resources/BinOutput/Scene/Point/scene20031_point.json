@@ -1,0 +1,160 @@
+{
+    "points": {
+        "1": {
+            "$type": "DungeonQuitPoint",
+            "heightSpeed": 70120004,
+            "pos": {
+                "_x": 190.61940002441406,
+                "_y": 45.99951934814453,
+                "_z": 169.20449829101562
+            },
+            "unlocked": true,
+            "alias": "",
+            "size": {
+                "_x": 5.0,
+                "_y": 5.0,
+                "_z": 5.0
+            }
+        }
+    },
+    "entities": {
+        "1": {
+            "$type": "ConfigLocalTrigger",
+            "heightSpeed": 40000007,
+            "pos": {
+                "_x": 111.79689025878906,
+                "_y": -23.34333038330078,
+                "_z": 93.23308563232422
+            },
+            "unlocked": true,
+            "alias": "",
+            "checkDist": 500.0,
+            "withGO": true,
+            "triggerFlag": "NoReviveRegion",
+            "shape": {
+                "$type": "ConfigShapeRect",
+                "useHeight": true,
+                "secondHeight": 100.0,
+                "centerType": "Center",
+                "perfCostRatio": 300.0,
+                "uiLenLerpSpeed": 300.0
+            },
+            "stringParam": ""
+        },
+        "2": {
+            "$type": "ConfigLocalTrigger",
+            "heightSpeed": 40000007,
+            "pos": {
+                "_x": 102.49444580078125,
+                "_y": 48.3631706237793,
+                "_z": 168.80337524414062
+            },
+            "unlocked": true,
+            "alias": "",
+            "checkDist": 500.0,
+            "withGO": true,
+            "triggerFlag": "NoReviveRegion",
+            "shape": {
+                "$type": "ConfigShapeRect",
+                "useHeight": true,
+                "secondHeight": 50.0,
+                "centerType": "Center",
+                "perfCostRatio": 120.0,
+                "uiLenLerpSpeed": 50.0
+            },
+            "stringParam": ""
+        },
+        "3": {
+            "$type": "ConfigLocalTrigger",
+            "heightSpeed": 40000007,
+            "pos": {
+                "_x": 243.0486602783203,
+                "_y": 35.165374755859375,
+                "_z": 132.4810028076172
+            },
+            "unlocked": true,
+            "alias": "",
+            "checkDist": 500.0,
+            "withGO": true,
+            "triggerFlag": "NoReviveRegion",
+            "shape": {
+                "$type": "ConfigShapeRect",
+                "useHeight": true,
+                "secondHeight": 50.0,
+                "centerType": "Center",
+                "perfCostRatio": 50.0,
+                "uiLenLerpSpeed": 200.0
+            },
+            "stringParam": ""
+        },
+        "4": {
+            "$type": "ConfigLocalTrigger",
+            "heightSpeed": 40000007,
+            "pos": {
+                "_x": 159.7503204345703,
+                "_y": 50.86241912841797,
+                "_z": 76.71388244628906
+            },
+            "unlocked": true,
+            "alias": "",
+            "checkDist": 500.0,
+            "withGO": true,
+            "triggerFlag": "NoReviveRegion",
+            "shape": {
+                "$type": "ConfigShapeRect",
+                "useHeight": true,
+                "secondHeight": 80.0,
+                "centerType": "Center",
+                "perfCostRatio": 200.0,
+                "uiLenLerpSpeed": 50.0
+            },
+            "stringParam": ""
+        },
+        "5": {
+            "$type": "ConfigLocalTrigger",
+            "heightSpeed": 40000007,
+            "pos": {
+                "_x": 119.1555404663086,
+                "_y": 98.90141296386719,
+                "_z": 75.41163635253906
+            },
+            "unlocked": true,
+            "alias": "",
+            "checkDist": 500.0,
+            "withGO": true,
+            "triggerFlag": "NoReviveRegion",
+            "shape": {
+                "$type": "ConfigShapeRect",
+                "useHeight": true,
+                "secondHeight": 50.0,
+                "centerType": "Center",
+                "perfCostRatio": 400.0,
+                "uiLenLerpSpeed": 400.0
+            },
+            "stringParam": ""
+        },
+        "6": {
+            "$type": "ConfigLocalTrigger",
+            "heightSpeed": 40000007,
+            "pos": {
+                "_x": 122.41345977783203,
+                "_y": -24.15289306640625,
+                "_z": 89.6763687133789
+            },
+            "unlocked": true,
+            "alias": "",
+            "checkDist": 500.0,
+            "withGO": true,
+            "triggerFlag": "DeadRegion",
+            "shape": {
+                "$type": "ConfigShapeRect",
+                "useHeight": true,
+                "secondHeight": 50.0,
+                "centerType": "Center",
+                "perfCostRatio": 500.0,
+                "uiLenLerpSpeed": 500.0
+            },
+            "stringParam": ""
+        }
+    }
+}

@@ -1,0 +1,95 @@
+[
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_Weapon_Metal"
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_Weapon_Wood_Normal",
+            "modifiers": {
+                "GrassMaterial": {
+                    "GAIGOBCNNEE": "",
+                    "elementType": "Grass",
+                    "elementDurability": 150.0,
+                    "onRemoved": [
+                        {
+                            "$type": "ApplyModifier",
+                            "doOffStage": true,
+                            "GAIGOBCNNEE": "Burned"
+                        }
+                    ]
+                },
+                "Burned": {
+                    "GAIGOBCNNEE": "",
+                    "duration": 5.0,
+                    "elementDurability": 100.0,
+                    "onRemoved": [
+                        {
+                            "$type": "ApplyModifier",
+                            "doOffStage": true,
+                            "GAIGOBCNNEE": "GrassMaterial"
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "ApplyModifier",
+                    "GAIGOBCNNEE": "GrassMaterial"
+                }
+            ]
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_Weapon_Wood_Hard",
+            "modifiers": {
+                "GrassMaterial": {
+                    "GAIGOBCNNEE": "",
+                    "elementType": "Grass",
+                    "elementDurability": 150.0,
+                    "onRemoved": [
+                        {
+                            "$type": "ApplyModifier",
+                            "GAIGOBCNNEE": "Burned"
+                        }
+                    ]
+                },
+                "AntiFireMaterial": {
+                    "GAIGOBCNNEE": "",
+                    "elementType": "AntiFire",
+                    "elementDurability": 100.0
+                },
+                "Burned": {
+                    "GAIGOBCNNEE": "",
+                    "duration": 5.0,
+                    "elementDurability": 100.0,
+                    "onRemoved": [
+                        {
+                            "$type": "ApplyModifier",
+                            "GAIGOBCNNEE": "GrassMaterial"
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "GAIGOBCNNEE": "AntiFireMaterial"
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "ApplyModifier",
+                    "GAIGOBCNNEE": "GrassMaterial"
+                },
+                {
+                    "$type": "ApplyModifier",
+                    "GAIGOBCNNEE": "AntiFireMaterial"
+                }
+            ]
+        }
+    }
+]
