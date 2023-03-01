@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "gadgetID": 70290396,
+        "BHCCFKHMBDD": [
+            0.03750000149011612
+        ],
+        "NPICLEFCBCD": [
+            6
+        ],
+        "materialID": 101847,
+        "OEFNLLLFNDA": "",
+        "LHMOCFPDNHM": "Eff_Property_Prop_GearPillar_01_Put",
+        "FOEAKPLBMKK": "Eff_Property_Prop_GearPillar_01_Cover"
+    },
+    {
+        "id": 2,
+        "gadgetID": 70290397,
+        "BHCCFKHMBDD": [
+            0.07500000298023224
+        ],
+        "NPICLEFCBCD": [
+            12
+        ],
+        "materialID": 101848,
+        "OEFNLLLFNDA": "Eff_Property_Prop_Gear_02_Illegal",
+        "LHMOCFPDNHM": "Eff_Property_Prop_GearPillar_02_Put",
+        "FOEAKPLBMKK": "Eff_Property_Prop_GearPillar_02_Cover"
+    },
+    {
+        "id": 3,
+        "gadgetID": 70290398,
+        "BHCCFKHMBDD": [
+            0.10000000149011612
+        ],
+        "NPICLEFCBCD": [
+            16
+        ],
+        "materialID": 101849,
+        "OEFNLLLFNDA": "",
+        "LHMOCFPDNHM": "",
+        "FOEAKPLBMKK": ""
+    },
+    {
+        "id": 4,
+        "gadgetID": 70290399,
+        "BHCCFKHMBDD": [
+            0.15000000596046448
+        ],
+        "NPICLEFCBCD": [
+            24
+        ],
+        "materialID": 101850,
+        "OEFNLLLFNDA": "Eff_Property_Prop_Gear_03_Illegal",
+        "LHMOCFPDNHM": "Eff_Property_Prop_GearPillar_03_Put",
+        "FOEAKPLBMKK": "Eff_Property_Prop_GearPillar_03_Cover"
+    },
+    {
+        "id": 5,
+        "gadgetID": 70290400,
+        "BHCCFKHMBDD": [
+            0.07500000298023224,
+            0.03750000149011612
+        ],
+        "NPICLEFCBCD": [
+            12,
+            6
+        ],
+        "materialID": 101851,
+        "OEFNLLLFNDA": "Eff_Property_Prop_Gear_04_Illegal",
+        "LHMOCFPDNHM": "Eff_Property_Prop_GearPillar_02_Put",
+        "FOEAKPLBMKK": "Eff_Property_Prop_GearPillar_02_Cover"
+    },
+    {
+        "id": 6,
+        "gadgetID": 70290401,
+        "BHCCFKHMBDD": [
+            0.15000000596046448,
+            0.07500000298023224
+        ],
+        "NPICLEFCBCD": [
+            24,
+            12
+        ],
+        "materialID": 101852,
+        "OEFNLLLFNDA": "Eff_Property_Prop_Gear_05_Illegal",
+        "LHMOCFPDNHM": "Eff_Property_Prop_GearPillar_03_Put",
+        "FOEAKPLBMKK": "Eff_Property_Prop_GearPillar_03_Cover"
+    },
+    {
+        "id": 7,
+        "gadgetID": 70290427,
+        "BHCCFKHMBDD": [
+            0.10000000149011612
+        ],
+        "NPICLEFCBCD": [
+            16
+        ],
+        "materialID": 101853,
+        "OEFNLLLFNDA": "",
+        "LHMOCFPDNHM": "",
+        "FOEAKPLBMKK": ""
+    }
+]

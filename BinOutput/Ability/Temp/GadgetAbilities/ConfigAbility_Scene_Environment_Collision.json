@@ -1,0 +1,536 @@
+[
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_Interact",
+      "modifiers": {
+        "Eff_Barrier": {
+          "modifierName": "",
+          "bonusCriticalHurt": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier",
+              "EBHJMLOKDGB": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "SendEffectTrigger",
+              "parameter": "Die",
+              "attachPoint": ""
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Eff_Barrier"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_Attack",
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_Hit",
+          "EBHJMLOKDGB": -1.0
+        },
+        {
+          "$type": "DamageByAttackValue",
+          "target": "Target",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "HBIOLEEGHPD": 0.0,
+              "CCNJGLPMIEP": 0.0,
+              "bonusCriticalHurt": 0.0,
+              "strikeType": "Default",
+              "enBreak": 800.0,
+              "ignoreLevelDiff": true
+            },
+            "hitPattern": {
+              "onHitEffectName": "",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582,
+              "muteHitText": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_M_Interact",
+      "modifiers": {
+        "Eff_Barrier": {
+          "modifierName": "",
+          "bonusCriticalHurt": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_M",
+              "EBHJMLOKDGB": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "SendEffectTrigger",
+              "parameter": "Die",
+              "attachPoint": ""
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Eff_Barrier"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_M_Attack",
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_M_Hit",
+          "EBHJMLOKDGB": -1.0
+        },
+        {
+          "$type": "DamageByAttackValue",
+          "target": "Target",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "HBIOLEEGHPD": 0.0,
+              "CCNJGLPMIEP": 0.0,
+              "bonusCriticalHurt": 0.0,
+              "strikeType": "Default",
+              "enBreak": 800.0,
+              "ignoreLevelDiff": true
+            },
+            "hitPattern": {
+              "onHitEffectName": "",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582,
+              "muteHitText": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_S_Interact",
+      "modifiers": {
+        "Eff_Barrier": {
+          "modifierName": "",
+          "bonusCriticalHurt": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_S",
+              "EBHJMLOKDGB": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "SendEffectTrigger",
+              "parameter": "Die",
+              "attachPoint": ""
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Eff_Barrier"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_S_Attack",
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_S_Hit",
+          "EBHJMLOKDGB": -1.0
+        },
+        {
+          "$type": "DamageByAttackValue",
+          "target": "Target",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "HBIOLEEGHPD": 0.0,
+              "CCNJGLPMIEP": 0.0,
+              "bonusCriticalHurt": 0.0,
+              "strikeType": "Default",
+              "enBreak": 800.0,
+              "ignoreLevelDiff": true
+            },
+            "hitPattern": {
+              "onHitEffectName": "",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582,
+              "muteHitText": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_XXL_Interact",
+      "modifiers": {
+        "Eff_Barrier": {
+          "modifierName": "",
+          "bonusCriticalHurt": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_XXL",
+              "EBHJMLOKDGB": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "SendEffectTrigger",
+              "parameter": "Die",
+              "attachPoint": ""
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Eff_Barrier"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_XXL_Attack",
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_XXL_Hit",
+          "EBHJMLOKDGB": -1.0
+        },
+        {
+          "$type": "DamageByAttackValue",
+          "target": "Target",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "HBIOLEEGHPD": 0.0,
+              "CCNJGLPMIEP": 0.0,
+              "bonusCriticalHurt": 0.0,
+              "strikeType": "Default",
+              "enBreak": 800.0,
+              "ignoreLevelDiff": true
+            },
+            "hitPattern": {
+              "onHitEffectName": "",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582,
+              "muteHitText": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_4XL_Interact",
+      "modifiers": {
+        "Eff_Barrier": {
+          "modifierName": "",
+          "bonusCriticalHurt": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_4XL",
+              "EBHJMLOKDGB": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "SendEffectTrigger",
+              "parameter": "Die",
+              "attachPoint": ""
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Eff_Barrier"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_4XL_Attack",
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_4XL_Hit",
+          "EBHJMLOKDGB": -1.0
+        },
+        {
+          "$type": "DamageByAttackValue",
+          "target": "Target",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "HBIOLEEGHPD": 0.0,
+              "CCNJGLPMIEP": 0.0,
+              "bonusCriticalHurt": 0.0,
+              "strikeType": "Default",
+              "enBreak": 800.0,
+              "ignoreLevelDiff": true
+            },
+            "hitPattern": {
+              "onHitEffectName": "",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582,
+              "muteHitText": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_XS_Interact",
+      "modifiers": {
+        "Eff_Barrier": {
+          "modifierName": "",
+          "bonusCriticalHurt": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_XS",
+              "EBHJMLOKDGB": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "SendEffectTrigger",
+              "parameter": "Die",
+              "attachPoint": ""
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Eff_Barrier"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_World_Barrier_XS_Attack",
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_World_Barrier_XS_Hit",
+          "EBHJMLOKDGB": -1.0
+        },
+        {
+          "$type": "DamageByAttackValue",
+          "target": "Target",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "HBIOLEEGHPD": 0.0,
+              "CCNJGLPMIEP": 0.0,
+              "bonusCriticalHurt": 0.0,
+              "strikeType": "Default",
+              "enBreak": 800.0,
+              "ignoreLevelDiff": true
+            },
+            "hitPattern": {
+              "onHitEffectName": "",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582,
+              "muteHitText": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_IceWall",
+      "modifiers": {
+        "IceWall": {
+          "modifierName": "",
+          "elementType": "Frozen",
+          "bonusCriticalHurt": 150.0,
+          "modifierMixins": [
+            {
+              "$type": "ShieldBarMixin",
+              "showDamageText": ""
+            }
+          ],
+          "onRemoved": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_IcePack_L_Destroy",
+              "EBHJMLOKDGB": -1.0
+            },
+            {
+              "$type": "KillSelf"
+            }
+          ],
+          "onBeingHit": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Common_IceHit_01_EffectMesh",
+              "EBHJMLOKDGB": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "IceWall"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_IceWall02",
+      "modifiers": {
+        "IceWall": {
+          "modifierName": "",
+          "elementType": "Frozen",
+          "bonusCriticalHurt": 150.0,
+          "modifierMixins": [
+            {
+              "$type": "ShieldBarMixin",
+              "showDamageText": ""
+            }
+          ],
+          "onRemoved": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_IcePack_S_Destroy",
+              "EBHJMLOKDGB": -1.0
+            },
+            {
+              "$type": "KillSelf"
+            }
+          ],
+          "onBeingHit": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Common_IceHit_01_EffectMesh",
+              "EBHJMLOKDGB": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "IceWall"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "SceneObj_Environment_Collision_IcePile",
+      "modifiers": {
+        "IceWall": {
+          "modifierName": "",
+          "elementType": "Frozen",
+          "bonusCriticalHurt": 150.0,
+          "modifierMixins": [
+            {
+              "$type": "ShieldBarMixin",
+              "showDamageText": ""
+            }
+          ],
+          "onRemoved": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_IcePillar_Destroy",
+              "EBHJMLOKDGB": -1.0
+            },
+            {
+              "$type": "KillSelf"
+            }
+          ],
+          "onBeingHit": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Common_IceHit_01_EffectMesh",
+              "EBHJMLOKDGB": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "IceWall"
+        }
+      ]
+    }
+  }
+]
