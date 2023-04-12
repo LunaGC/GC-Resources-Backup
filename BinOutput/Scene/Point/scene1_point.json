@@ -1,0 +1,78 @@
+{
+  "points": {
+    "2": {
+      "$type": "DungeonEntry",
+      "gadgetId": 70950059,
+      "areaId": 6,
+      "pos": {
+        "x": 2253.01708984375,
+        "y": 253.64720153808594,
+        "z": -1463.6409912109375
+      },
+      "tranPos": {
+        "x": 2253.016845703125,
+        "y": 253.647216796875,
+        "z": -1463.6412353515625
+      },
+      "alias": "",
+      "ADNDKHDKAEC": "",
+      "BEDBEJAACAH": "",
+      "cutsceneList": [531002],
+      "mapVisibility": "OnUnlocked",
+      "dungeonIds": [7201],
+      "dungeonQuestConditionList": {},
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "titleTextID": "UI_STC_Intee_DungeonEntry",
+      "HEDEIJAKDKM": "UI_Icon_Intee_Talk",
+      "forbidSimpleUnlock": true,
+      "fireFieldEvent": true
+    },
+    "3": {
+      "$type": "SceneVehicleSummonPoint",
+      "gadgetId": 70370273,
+      "pos": {
+        "x": 1685.1590576171875,
+        "y": 194.60000610351562,
+        "z": -1696.616943359375
+      },
+      "tranPos": {
+        "x": 1685.1590576171875,
+        "y": 194.60000610351562,
+        "z": -1696.616943359375
+      },
+      "unlocked": true,
+      "alias": "",
+      "ADNDKHDKAEC": "",
+      "BEDBEJAACAH": "",
+      "CFLNJJLEMPE": 45001001,
+      "OPMLAAEGMHF": [
+        {
+          "x": 1685.1590576171875,
+          "y": 194.60000610351562,
+          "z": -1696.616943359375
+        },
+        {
+          "x": 1685.1590576171875,
+          "y": 194.60000610351562,
+          "z": -1696.616943359375
+        },
+        {
+          "x": 1685.1590576171875,
+          "y": 194.60000610351562,
+          "z": -1696.616943359375
+        },
+        {
+          "x": 1685.1590576171875,
+          "y": 194.60000610351562,
+          "z": -1696.616943359375
+        }
+      ],
+      "DPDNHLPMELE": [{}, {}, {}, {}],
+      "titleTextID": "UI_STC_INTEE_VEHICLESUMMON"
+    }
+  }
+}
