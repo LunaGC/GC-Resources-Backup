@@ -15,30 +15,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
-          "param": [
-            10001,
-            1,
-            0,
-            0,
-            0
-          ],
+          "param": [10001, 1, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7108402,
-            0
-          ],
+          "param": [7108402, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
@@ -53,30 +42,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
-          "param": [
-            10001,
-            1,
-            0,
-            0,
-            0
-          ],
+          "param": [10001, 1, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7103727,
-            0
-          ],
+          "param": [7103727, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
@@ -91,30 +69,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
-          "param": [
-            10001,
-            1,
-            0,
-            0,
-            0
-          ],
+          "param": [10001, 1, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7103728,
-            0
-          ],
+          "param": [7103728, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
@@ -129,13 +96,7 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
-          "param": [
-            10001,
-            1,
-            0,
-            0,
-            0
-          ],
+          "param": [10001, 1, 0, 0, 0],
           "param_str": ""
         }
       ],
@@ -143,33 +104,22 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7109301,
-            3
-          ],
+          "param": [7109301, 3],
           "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7109302,
-            3
-          ],
+          "param": [7109302, 3],
           "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7109303,
-            3
-          ],
+          "param": [7109303, 3],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "isRewind": true,
       "finishExec": [],

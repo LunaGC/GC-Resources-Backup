@@ -4,70 +4,47 @@
   "titleTextMapHash": 2473401415,
   "descTextMapHash": 3928170766,
   "luaPath": "Actor/Quest/WQ13028",
-  "rewardIdList": [
-    113028
-  ],
+  "rewardIdList": [113028],
   "subQuests": [
     {
-      "mainId": 13028,
       "subId": 1302801,
+      "mainId": 13028,
       "order": 1,
       "descTextMapHash": 1960185636,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q13019Monster1Met",
-          "20"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 13028,
       "subId": 1302802,
+      "mainId": 13028,
       "order": 2,
       "descTextMapHash": 3423158948,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q13019Mon2FlowerPos"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -78,19 +55,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1302801",
-            "2"
-          ],
+          "param": ["1302801", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 130280113,
-      "npcId": [
-        13164,
-        13163
-      ],
+      "npcId": [13164, 13163],
       "performCfg": "QuestDialogue/WQ/Sumeru_13028/Q1302801",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 13028,
@@ -103,18 +74,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1302802",
-            "2"
-          ],
+          "param": ["1302802", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 130280201,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/WQ/Sumeru_13028/Q1302802",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 13028,

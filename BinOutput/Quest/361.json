@@ -16,38 +16,26 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            35311,
-            3,
-            0
-          ],
+          "param": [35311, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [
-            36100,
-            0
-          ],
+          "param": [36100, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "3",
-            "133003436,1"
-          ],
+          "param": ["3", "133003436,1"],
           "param_str": ""
         }
       ]
@@ -61,28 +49,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            36100,
-            3,
-            0
-          ],
+          "param": [36100, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [
-            36101,
-            0
-          ],
+          "param": [36101, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "isRewind": true,
       "finishExec": [],

@@ -15,29 +15,20 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_PLAYER_LEVEL_EQUAL_GREATER",
-          "param": [
-            45,
-            0,
-            0
-          ],
+          "param": [45, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_PLAYER_LEVEL_UP",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "",
           "count": 45
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "finishExec": [],
       "failExec": [],

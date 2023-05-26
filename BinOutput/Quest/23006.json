@@ -6,95 +6,65 @@
   "luaPath": "Actor/Quest/IQ23006",
   "subQuests": [
     {
-      "mainId": 23006,
       "subId": 2300601,
+      "mainId": 23006,
       "order": 1,
       "descTextMapHash": 219212076,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "4072"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_START",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 23006,
       "subId": 2300602,
+      "mainId": 23006,
       "order": 2,
+      "subIdSet": 1,
       "descTextMapHash": 1508642068,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q2300602_Guide",
-          "35"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 23006,
       "subId": 2300603,
+      "mainId": 23006,
       "order": 3,
       "descTextMapHash": 4060451340,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "4072"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_FINISH",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -104,18 +74,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2300601",
-            "2"
-          ],
+          "param": ["2300601", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 230060101,
-      "npcId": [
-        4072
-      ],
+      "npcId": [4072],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 23006,
@@ -127,18 +92,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2300602",
-            "2"
-          ],
+          "param": ["2300602", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 230060301,
-      "npcId": [
-        4072
-      ],
+      "npcId": [4072],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 23006,
@@ -150,18 +110,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2300603",
-            "2"
-          ],
+          "param": ["2300603", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 230060401,
-      "npcId": [
-        4072
-      ],
+      "npcId": [4072],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 23006,
@@ -173,18 +128,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2300603",
-            "2"
-          ],
+          "param": ["2300603", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 230060501,
-      "npcId": [
-        4072
-      ],
+      "npcId": [4072],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 23006,
@@ -196,18 +146,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2300603",
-            "2"
-          ],
+          "param": ["2300603", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 230060601,
-      "npcId": [
-        4072
-      ],
+      "npcId": [4072],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 23006,

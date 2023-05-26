@@ -16,13 +16,7 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7216701,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7216701, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
@@ -30,18 +24,13 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "HG_Mural_Finish",
           "count": 1
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
       "isRewind": true,
       "finishExec": [],
@@ -58,13 +47,7 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7225101,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7225101, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
@@ -72,17 +55,12 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [
-            7225102,
-            0
-          ],
+          "param": [7225102, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
@@ -98,13 +76,7 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7225102,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7225102, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
@@ -112,17 +84,12 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7225101,
-            0
-          ],
+          "param": [7225101, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
       "finishParent": true,
       "isRewind": true,
@@ -140,25 +107,17 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7225101",
-            "3"
-          ],
+          "param": ["7225101", "3"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7225103",
-            "2"
-          ],
+          "param": ["7225103", "2"],
           "param_str": ""
         }
       ],
       "initDialog": 722510101,
-      "npcId": [
-        1005
-      ],
+      "npcId": [1005],
       "performCfg": "QuestDialogue/WQ/Inazuma_72251/Q7225101",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 72251,

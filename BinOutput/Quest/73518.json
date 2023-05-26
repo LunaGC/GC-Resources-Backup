@@ -4,68 +4,47 @@
   "titleTextMapHash": 240175263,
   "descTextMapHash": 1755825726,
   "luaPath": "Actor/Quest/WQ73518",
-  "rewardIdList": [
-    173518
-  ],
+  "rewardIdList": [173518],
   "subQuests": [
     {
-      "mainId": 73518,
       "subId": 7351801,
+      "mainId": 73518,
       "order": 2,
       "descTextMapHash": 1583487252,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "30342"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 73518,
       "subId": 7351802,
+      "mainId": 73518,
       "order": 1,
       "descTextMapHash": 1466027068,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "Q7351801_N30342",
-          "5"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -76,19 +55,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7351801",
-            "2"
-          ],
+          "param": ["7351801", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 735180101,
-      "npcId": [
-        30342,
-        30343
-      ],
+      "npcId": [30342, 30343],
       "performCfg": "QuestDialogue/WQ/V3.6SandSworm/Q7351801",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 73518,

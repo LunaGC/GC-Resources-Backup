@@ -13,30 +13,21 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            2003801,
-            0
-          ],
+          "param": [2003801, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "1473"
-        ],
+        "param": ["1473"],
         "guideScene": 1008,
         "guideStyle": "QUEST_GUIDE_STYLE_START",
         "guideLayer": "QUEST_GUIDE_LAYER_UI"
@@ -45,9 +36,7 @@
       "finishExec": [],
       "failExec": [],
       "beginExec": [],
-      "exclusiveNpcList": [
-        1473
-      ]
+      "exclusiveNpcList": [1473]
     },
     {
       "subId": 2003802,
@@ -59,52 +48,34 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003801,
-            3,
-            0
-          ],
+          "param": [2003801, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [
-            2003802,
-            0
-          ],
+          "param": [2003802, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
-          "param": [
-            2003802,
-            0
-          ],
+          "param": [2003802, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": [],
-      "exclusiveNpcList": [
-        1473
-      ]
+      "exclusiveNpcList": [1473]
     },
     {
       "subId": 2003803,
@@ -116,46 +87,30 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003801,
-            3,
-            0
-          ],
+          "param": [2003801, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [
-            2003803,
-            0
-          ],
+          "param": [2003803, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
-          "param": [
-            2003803,
-            0
-          ],
+          "param": [2003803, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -170,46 +125,30 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003801,
-            3,
-            0
-          ],
+          "param": [2003801, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [
-            2003804,
-            0
-          ],
+          "param": [2003804, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_NOT_FINISH_PLOT",
-          "param": [
-            2003804,
-            0
-          ],
+          "param": [2003804, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -223,30 +162,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003802,
-            3,
-            0
-          ],
+          "param": [2003802, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "133003487",
           "count": 1
         }
@@ -254,9 +182,7 @@
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "Event_20900_01"
-        ],
+        "param": ["Event_20900_01"],
         "guideScene": 3,
         "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
         "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
@@ -267,10 +193,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE_RANDOM",
-          "param": [
-            "3",
-            "133003487,2,3,4"
-          ],
+          "param": ["3", "133003487,2,3,4"],
           "param_str": ""
         }
       ]
@@ -284,30 +207,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003803,
-            3,
-            0
-          ],
+          "param": [2003803, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "133001316",
           "count": 1
         }
@@ -315,9 +227,7 @@
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "Event_20900_02"
-        ],
+        "param": ["Event_20900_02"],
         "guideScene": 3,
         "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
         "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
@@ -328,10 +238,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE_RANDOM",
-          "param": [
-            "3",
-            "133001316,2,3,4"
-          ],
+          "param": ["3", "133001316,2,3,4"],
           "param_str": ""
         }
       ]
@@ -345,30 +252,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003804,
-            3,
-            0
-          ],
+          "param": [2003804, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "133002293",
           "count": 1
         }
@@ -376,9 +272,7 @@
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "Event_20900_03"
-        ],
+        "param": ["Event_20900_03"],
         "guideScene": 3,
         "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
         "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
@@ -389,10 +283,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE_RANDOM",
-          "param": [
-            "3",
-            "133002293,2,3,4"
-          ],
+          "param": ["3", "133002293,2,3,4"],
           "param_str": ""
         }
       ]
@@ -406,39 +297,26 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003805,
-            3,
-            0
-          ],
+          "param": [2003805, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            2003803,
-            0
-          ],
+          "param": [2003803, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "1473"
-        ],
+        "param": ["1473"],
         "guideScene": 1008,
         "guideStyle": "QUEST_GUIDE_STYLE_FINISH",
         "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
@@ -448,17 +326,13 @@
       "finishExec": [
         {
           "type": "QUEST_EXEC_NOTIFY_DAILY_TASK",
-          "param": [
-            "20900"
-          ],
+          "param": ["20900"],
           "param_str": ""
         }
       ],
       "failExec": [],
       "beginExec": [],
-      "exclusiveNpcList": [
-        1473
-      ]
+      "exclusiveNpcList": [1473]
     },
     {
       "subId": 2003809,
@@ -469,39 +343,26 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003806,
-            3,
-            0
-          ],
+          "param": [2003806, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            2003803,
-            0
-          ],
+          "param": [2003803, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "1473"
-        ],
+        "param": ["1473"],
         "guideScene": 1008,
         "guideStyle": "QUEST_GUIDE_STYLE_FINISH",
         "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
@@ -511,9 +372,7 @@
       "finishExec": [
         {
           "type": "QUEST_EXEC_NOTIFY_DAILY_TASK",
-          "param": [
-            "20900"
-          ],
+          "param": ["20900"],
           "param_str": ""
         }
       ],
@@ -529,39 +388,26 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_DAILY_TASK_START",
-          "param": [
-            20900,
-            0,
-            0
-          ],
+          "param": [20900, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            2003807,
-            3,
-            0
-          ],
+          "param": [2003807, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            2003803,
-            0
-          ],
+          "param": [2003803, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
       "guide": {
         "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "1473"
-        ],
+        "param": ["1473"],
         "guideScene": 1008,
         "guideStyle": "QUEST_GUIDE_STYLE_FINISH",
         "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
@@ -571,9 +417,7 @@
       "finishExec": [
         {
           "type": "QUEST_EXEC_NOTIFY_DAILY_TASK",
-          "param": [
-            "20900"
-          ],
+          "param": ["20900"],
           "param_str": ""
         }
       ],
@@ -588,18 +432,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003801",
-            "2"
-          ],
+          "param": ["2003801", "2"],
           "param_str": ""
         }
       ],
       "priority": 6,
       "initDialog": 200380101,
-      "npcId": [
-        1473
-      ],
+      "npcId": [1473],
       "performCfg": "",
       "questId": 20038,
       "prePerformCfg": ""
@@ -611,34 +450,23 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003805",
-            "2"
-          ],
+          "param": ["2003805", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003806",
-            "2"
-          ],
+          "param": ["2003806", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003807",
-            "2"
-          ],
+          "param": ["2003807", "2"],
           "param_str": ""
         }
       ],
       "priority": 7,
       "initDialog": 200380201,
-      "npcId": [
-        1473
-      ],
+      "npcId": [1473],
       "performCfg": "",
       "questId": 20038,
       "prePerformCfg": ""
@@ -650,34 +478,23 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003808",
-            "2"
-          ],
+          "param": ["2003808", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003809",
-            "2"
-          ],
+          "param": ["2003809", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "2003810",
-            "2"
-          ],
+          "param": ["2003810", "2"],
           "param_str": ""
         }
       ],
       "priority": 8,
       "initDialog": 200380301,
-      "npcId": [
-        1473
-      ],
+      "npcId": [1473],
       "performCfg": "",
       "questId": 20038,
       "prePerformCfg": ""

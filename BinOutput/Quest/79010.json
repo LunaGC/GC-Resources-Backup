@@ -15,39 +15,26 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_ACTIVITY_COND",
-          "param": [
-            5033024,
-            1,
-            0,
-            0,
-            0
-          ],
+          "param": [5033024, 1, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "7901001",
           "count": 1
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "failParentShow": "QUEST_HIDDEN",
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNREGISTER_DYNAMIC_GROUP",
-          "param": [
-            "144004107"
-          ],
+          "param": ["144004107"],
           "param_str": ""
         }
       ],
@@ -55,10 +42,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_REGISTER_DYNAMIC_GROUP",
-          "param": [
-            "4",
-            "144004107"
-          ],
+          "param": ["4", "144004107"],
           "param_str": ""
         }
       ]

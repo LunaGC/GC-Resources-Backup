@@ -14,31 +14,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            35311,
-            3,
-            0
-          ],
+          "param": [35311, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_TRIGGER_FIRE",
-          "param": [
-            1074,
-            0
-          ],
+          "param": [1074, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": [
-          "Q418_Meat",
-          "20"
-        ]
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -51,28 +39,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            42301,
-            3,
-            0
-          ],
+          "param": [42301, 3, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_CLEAR_GROUP_MONSTER",
-          "param": [
-            133001166,
-            0
-          ],
+          "param": [133001166, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "isRewind": true,
       "finishExec": [],

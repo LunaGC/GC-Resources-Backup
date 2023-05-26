@@ -7,25 +7,25 @@
   "showType": "QUEST_HIDDEN",
   "subQuests": [
     {
-      "mainId": 73199,
       "subId": 7319901,
+      "mainId": 73199,
       "order": 1,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 2862019188,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -36,18 +36,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7319901",
-            "2"
-          ],
+          "param": ["7319901", "2"],
           "param_str": ""
         }
       ],
       "priority": 3,
       "initDialog": 731990101,
-      "npcId": [
-        12742
-      ],
+      "npcId": [12742],
       "performCfg": "",
       "questId": 73199,
       "prePerformCfg": ""

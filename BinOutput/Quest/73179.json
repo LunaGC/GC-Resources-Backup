@@ -5,72 +5,70 @@
   "descTextMapHash": 2250526110,
   "luaPath": "Actor/Quest/WQ73179",
   "showType": "QUEST_HIDDEN",
-  "rewardIdList": [
-    210010
-  ],
+  "rewardIdList": [210010],
   "subQuests": [
     {
-      "mainId": 73179,
       "subId": 7317901,
+      "mainId": 73179,
       "order": 1,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 283048060,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 73179,
       "subId": 7317902,
+      "mainId": 73179,
       "order": 2,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 594104068,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 73179,
       "subId": 7317903,
+      "mainId": 73179,
       "order": 3,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 2071234180,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -80,18 +78,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7317902",
-            "3"
-          ],
+          "param": ["7317902", "3"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 731790101,
-      "npcId": [
-        20806
-      ],
+      "npcId": [20806],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 73179,

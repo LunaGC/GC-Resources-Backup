@@ -16,32 +16,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30302,
-            0
-          ],
+          "param": [30302, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "3"
-          ],
+          "param": ["3", "3"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "3"
-          ],
+          "param": ["3", "3"],
           "param_str": ""
         }
       ],
@@ -58,32 +47,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30303,
-            0
-          ],
+          "param": [30303, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "4"
-          ],
+          "param": ["3", "4"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "2"
-          ],
+          "param": ["3", "2"],
           "param_str": ""
         }
       ],
@@ -100,32 +78,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30304,
-            0
-          ],
+          "param": [30304, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "29"
-          ],
+          "param": ["3", "29"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "4"
-          ],
+          "param": ["3", "4"],
           "param_str": ""
         }
       ],
@@ -142,40 +109,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30305,
-            0
-          ],
+          "param": [30305, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "72"
-          ],
+          "param": ["3", "72"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "5"
-          ],
+          "param": ["3", "5"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_QUEST_PROGRESS",
-          "param": [
-            "31801",
-            "1"
-          ],
+          "param": ["31801", "1"],
           "param_str": ""
         }
       ],
@@ -192,40 +145,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30306,
-            0
-          ],
+          "param": [30306, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "73"
-          ],
+          "param": ["3", "73"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "7"
-          ],
+          "param": ["3", "7"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_QUEST_PROGRESS",
-          "param": [
-            "31801",
-            "1"
-          ],
+          "param": ["31801", "1"],
           "param_str": ""
         }
       ],
@@ -242,40 +181,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30307,
-            0
-          ],
+          "param": [30307, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "74"
-          ],
+          "param": ["3", "74"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "6"
-          ],
+          "param": ["3", "6"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_QUEST_PROGRESS",
-          "param": [
-            "31801",
-            "1"
-          ],
+          "param": ["31801", "1"],
           "param_str": ""
         }
       ],
@@ -292,40 +217,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30308,
-            0
-          ],
+          "param": [30308, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "75"
-          ],
+          "param": ["3", "75"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "8"
-          ],
+          "param": ["3", "8"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_QUEST_PROGRESS",
-          "param": [
-            "31801",
-            "1"
-          ],
+          "param": ["31801", "1"],
           "param_str": ""
         }
       ],
@@ -342,40 +253,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30309,
-            0
-          ],
+          "param": [30309, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "182"
-          ],
+          "param": ["3", "182"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "9"
-          ],
+          "param": ["3", "9"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_QUEST_PROGRESS",
-          "param": [
-            "31801",
-            "1"
-          ],
+          "param": ["31801", "1"],
           "param_str": ""
         }
       ],
@@ -392,32 +289,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30310,
-            0
-          ],
+          "param": [30310, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "204"
-          ],
+          "param": ["3", "204"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "10"
-          ],
+          "param": ["3", "10"],
           "param_str": ""
         }
       ],
@@ -434,40 +320,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30311,
-            0
-          ],
+          "param": [30311, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "234"
-          ],
+          "param": ["3", "234"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "11"
-          ],
+          "param": ["3", "11"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "16"
-          ],
+          "param": ["3", "16"],
           "param_str": ""
         }
       ],
@@ -484,32 +356,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30312,
-            0
-          ],
+          "param": [30312, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "235"
-          ],
+          "param": ["3", "235"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "12"
-          ],
+          "param": ["3", "12"],
           "param_str": ""
         }
       ],
@@ -526,32 +387,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30313,
-            0
-          ],
+          "param": [30313, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "236"
-          ],
+          "param": ["3", "236"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "13"
-          ],
+          "param": ["3", "13"],
           "param_str": ""
         }
       ],
@@ -568,32 +418,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30314,
-            0
-          ],
+          "param": [30314, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "293"
-          ],
+          "param": ["3", "293"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "14"
-          ],
+          "param": ["3", "14"],
           "param_str": ""
         }
       ],
@@ -610,32 +449,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30315,
-            0
-          ],
+          "param": [30315, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "318"
-          ],
+          "param": ["3", "318"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "17"
-          ],
+          "param": ["3", "17"],
           "param_str": ""
         }
       ],
@@ -652,32 +480,21 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30316,
-            0
-          ],
+          "param": [30316, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "316"
-          ],
+          "param": ["3", "316"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "18"
-          ],
+          "param": ["3", "18"],
           "param_str": ""
         }
       ],
@@ -694,40 +511,26 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            30317,
-            0
-          ],
+          "param": [30317, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_UNLOCK_POINT",
-          "param": [
-            "3",
-            "442"
-          ],
+          "param": ["3", "442"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_UNLOCK_AREA",
-          "param": [
-            "3",
-            "19"
-          ],
+          "param": ["3", "19"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_QUEST_PROGRESS",
-          "param": [
-            "31801",
-            "1"
-          ],
+          "param": ["31801", "1"],
           "param_str": ""
         }
       ],

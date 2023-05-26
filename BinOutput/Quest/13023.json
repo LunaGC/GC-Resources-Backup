@@ -8,92 +8,89 @@
   "showType": "QUEST_HIDDEN",
   "subQuests": [
     {
-      "mainId": 13023,
       "subId": 1302301,
+      "mainId": 13023,
       "order": 99,
-      "showType": "QUEST_HIDDEN",
       "descTextMapHash": 4245411700,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 13023,
       "subId": 1302302,
+      "mainId": 13023,
       "order": 9,
-      "showType": "QUEST_HIDDEN",
       "descTextMapHash": 2272612668,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 13023,
       "subId": 1302303,
+      "mainId": 13023,
       "order": 8,
-      "showType": "QUEST_HIDDEN",
       "descTextMapHash": 1647580956,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 13023,
       "subId": 1302304,
+      "mainId": 13023,
       "order": 1,
-      "showType": "QUEST_HIDDEN",
       "descTextMapHash": 4282049244,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -104,19 +101,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1302304",
-            "2"
-          ],
+          "param": ["1302304", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 130230101,
-      "npcId": [
-        1064,
-        1053
-      ],
+      "npcId": [1064, 1053],
       "performCfg": "QuestDialogue/Q1302301",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 13023,

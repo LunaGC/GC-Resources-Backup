@@ -4,67 +4,47 @@
   "titleTextMapHash": 1272381551,
   "descTextMapHash": 3696807094,
   "luaPath": "Actor/Quest/WQ72501",
-  "rewardIdList": [
-    172501
-  ],
+  "rewardIdList": [172501],
   "subQuests": [
     {
-      "mainId": 72501,
       "subId": 7250101,
+      "mainId": 72501,
       "order": 1,
       "descTextMapHash": 3745744292,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "30160"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 72501,
       "subId": 7250102,
+      "mainId": 72501,
       "order": 2,
       "descTextMapHash": 931860956,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "30160"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -75,18 +55,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7250102",
-            "2"
-          ],
+          "param": ["7250102", "2"],
           "param_str": ""
         }
       ],
       "priority": 10,
       "initDialog": 725010201,
-      "npcId": [
-        30160
-      ],
+      "npcId": [30160],
       "performCfg": "QuestDialogue/WQ/Inazuma_72501/Q7250102",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 72501,

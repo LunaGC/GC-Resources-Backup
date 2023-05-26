@@ -15,23 +15,14 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7224214,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7224214, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "72177_SolvePuzzle",
           "count": 1
         }
@@ -39,16 +30,11 @@
       "failCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7217701,
-            0
-          ],
+          "param": [7217701, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "failParentShow": "QUEST_HIDDEN",
       "isRewind": true,
       "finishExec": [],
@@ -56,10 +42,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_NOTIFY_GROUP_LUA",
-          "param": [
-            "5",
-            "155005013"
-          ],
+          "param": ["5", "155005013"],
           "param_str": ""
         }
       ]
@@ -73,23 +56,14 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7228401,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7228401, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "72177_OathPieceFound",
           "count": 1
         }
@@ -97,16 +71,11 @@
       "failCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7217701,
-            0
-          ],
+          "param": [7217701, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "failParentShow": "QUEST_HIDDEN",
       "isRewind": true,
@@ -115,10 +84,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_NOTIFY_GROUP_LUA",
-          "param": [
-            "5",
-            "155005013"
-          ],
+          "param": ["5", "155005013"],
           "param_str": ""
         }
       ]
@@ -133,41 +99,24 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7228401,
-            4,
-            0,
-            0,
-            0
-          ],
+          "param": [7228401, 4, 0, 0, 0],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7228402,
-            4,
-            0,
-            0,
-            0
-          ],
+          "param": [7228402, 4, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_GAME_TIME_TICK",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "0,24"
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "isRewind": true,
       "finishExec": [],

@@ -15,30 +15,19 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_COMPLETE_TALK",
-          "param": [
-            3100101,
-            0,
-            0,
-            0,
-            0
-          ],
+          "param": [3100101, 0, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            3100101,
-            0
-          ],
+          "param": [3100101, 0],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "finishExec": [],
       "failExec": [],

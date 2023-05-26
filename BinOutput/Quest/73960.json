@@ -5,30 +5,28 @@
   "descTextMapHash": 1365079574,
   "luaPath": "",
   "showType": "QUEST_HIDDEN",
-  "rewardIdList": [
-    554061
-  ],
+  "rewardIdList": [554061],
   "subQuests": [
     {
-      "mainId": 73960,
       "subId": 7396001,
+      "mainId": 73960,
       "order": 1,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 2702359388,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ]
 }

@@ -7,25 +7,25 @@
   "showType": "QUEST_HIDDEN",
   "subQuests": [
     {
-      "mainId": 73222,
       "subId": 7322201,
+      "mainId": 73222,
       "order": 1,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 3698352252,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ]
 }

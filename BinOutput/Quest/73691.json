@@ -4,38 +4,27 @@
   "titleTextMapHash": 1023523383,
   "descTextMapHash": 3086209902,
   "luaPath": "Actor/Quest/WQ73691",
-  "rewardIdList": [
-    173691
-  ],
+  "rewardIdList": [173691],
   "subQuests": [
     {
-      "mainId": 73691,
       "subId": 7369101,
+      "mainId": 73691,
       "order": 1,
       "descTextMapHash": 3958764156,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "30347"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -46,18 +35,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7369101",
-            "2"
-          ],
+          "param": ["7369101", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 736910101,
-      "npcId": [
-        30347
-      ],
+      "npcId": [30347],
       "performCfg": "QuestDialogue/WQ/Sumeru_73691/Q7369101",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 73691,

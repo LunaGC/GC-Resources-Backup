@@ -5,41 +5,28 @@
   "titleTextMapHash": 651953167,
   "descTextMapHash": 3472699214,
   "luaPath": "Actor/Quest/LQ19150",
-  "suggestTrackMainQuestList": [
-    19151,
-    19157
-  ],
+  "suggestTrackMainQuestList": [19151, 19157],
   "chapterId": 107401,
   "subQuests": [
     {
-      "mainId": 19150,
       "subId": 1915002,
+      "mainId": 19150,
       "order": 1,
       "descTextMapHash": 139754924,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "Q1915002_N10000005",
-          "20"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ]
 }

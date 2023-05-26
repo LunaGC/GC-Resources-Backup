@@ -15,31 +15,20 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            4007414,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [4007414, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "divein",
           "count": 1
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
@@ -54,47 +43,30 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903701,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903701, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_ENTER_DUNGEON",
-          "param": [
-            1140,
-            31
-          ],
+          "param": [1140, 31],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": [
         {
           "type": "QUEST_EXEC_ADD_SCENE_TAG",
-          "param": [
-            "20136",
-            "1066"
-          ],
+          "param": ["20136", "1066"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20136",
-            "220136007,1"
-          ],
+          "param": ["20136", "220136007,1"],
           "param_str": ""
         }
       ]
@@ -108,23 +80,14 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903702,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903702, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "dreamback1",
           "count": 1
         }
@@ -132,67 +95,45 @@
       "failCond": [
         {
           "type": "QUEST_CONTENT_LEAVE_SCENE",
-          "param": [
-            20136,
-            0
-          ],
+          "param": [20136, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "9",
-            "199003175,1"
-          ],
+          "param": ["9", "199003175,1"],
           "param_str": ""
         }
       ],
       "failExec": [
         {
           "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": [
-            "7903701"
-          ],
+          "param": ["7903701"],
           "param_str": ""
         }
       ],
       "beginExec": [
         {
           "type": "QUEST_EXEC_ADD_SCENE_TAG",
-          "param": [
-            "20136",
-            "1066"
-          ],
+          "param": ["20136", "1066"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20136",
-            "220136007,1"
-          ],
+          "param": ["20136", "220136007,1"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20136",
-            "220136001,5"
-          ],
+          "param": ["20136", "220136001,5"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20136",
-            "220136006,3"
-          ],
+          "param": ["20136", "220136006,3"],
           "param_str": ""
         }
       ]
@@ -206,41 +147,27 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903707,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903707, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "divein",
           "count": 1
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [],
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "9",
-            "199003175,1"
-          ],
+          "param": ["9", "199003175,1"],
           "param_str": ""
         }
       ]
@@ -254,47 +181,30 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903704,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903704, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_ENTER_DUNGEON",
-          "param": [
-            1140,
-            31
-          ],
+          "param": [1140, 31],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20136",
-            "220136007,2"
-          ],
+          "param": ["20136", "220136007,2"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_SCENE_TAG",
-          "param": [
-            "20136",
-            "1066"
-          ],
+          "param": ["20136", "1066"],
           "param_str": ""
         }
       ]
@@ -308,23 +218,14 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903705,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903705, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [
-            0,
-            0
-          ],
+          "param": [0, 0],
           "param_str": "dreamback1",
           "count": 1
         }
@@ -332,42 +233,29 @@
       "failCond": [
         {
           "type": "QUEST_CONTENT_LEAVE_SCENE",
-          "param": [
-            20136,
-            0
-          ],
+          "param": [20136, 0],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "isRewind": true,
       "finishExec": [],
       "failExec": [
         {
           "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": [
-            "7903704"
-          ],
+          "param": ["7903704"],
           "param_str": ""
         }
       ],
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20136",
-            "220136007,2"
-          ],
+          "param": ["20136", "220136007,2"],
           "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ADD_SCENE_TAG",
-          "param": [
-            "20136",
-            "1066"
-          ],
+          "param": ["20136", "1066"],
           "param_str": ""
         }
       ]
@@ -381,37 +269,23 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903703,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903703, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_ENTER_DUNGEON",
-          "param": [
-            1139,
-            29
-          ],
+          "param": [1139, 29],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20134",
-            "220134089,1"
-          ],
+          "param": ["20134", "220134089,1"],
           "param_str": ""
         }
       ],
@@ -419,10 +293,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20134",
-            "220134089,1"
-          ],
+          "param": ["20134", "220134089,1"],
           "param_str": ""
         }
       ]
@@ -436,36 +307,23 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7903706,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7903706, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_ENTER_DUNGEON",
-          "param": [
-            1139,
-            29
-          ],
+          "param": [1139, 29],
           "param_str": ""
         }
       ],
       "failCond": [],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [
         {
           "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": [
-            "7903704"
-          ],
+          "param": ["7903704"],
           "param_str": ""
         }
       ],
@@ -473,10 +331,7 @@
       "beginExec": [
         {
           "type": "QUEST_EXEC_REFRESH_GROUP_SUITE",
-          "param": [
-            "20134",
-            "220134089,1"
-          ],
+          "param": ["20134", "220134089,1"],
           "param_str": ""
         }
       ]

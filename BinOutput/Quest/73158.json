@@ -7,46 +7,48 @@
   "showType": "QUEST_HIDDEN",
   "subQuests": [
     {
-      "mainId": 73158,
       "subId": 7315801,
+      "mainId": 73158,
       "order": 1,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 3378221644,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 73158,
       "subId": 7315802,
+      "mainId": 73158,
       "order": 2,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 4256300628,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -57,18 +59,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7315801",
-            "2"
-          ],
+          "param": ["7315801", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 731580101,
-      "npcId": [
-        20831
-      ],
+      "npcId": [20831],
       "performCfg": "",
       "questId": 73158,
       "prePerformCfg": ""

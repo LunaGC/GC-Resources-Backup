@@ -5,118 +5,93 @@
   "titleTextMapHash": 2076172527,
   "descTextMapHash": 1418664558,
   "luaPath": "Actor/Quest/LQ19152",
-  "suggestTrackMainQuestList": [
-    19153
-  ],
+  "suggestTrackMainQuestList": [19153],
   "chapterId": 107401,
   "subQuests": [
     {
-      "mainId": 19152,
       "subId": 1915201,
+      "mainId": 19152,
       "order": 1,
+      "subIdSet": 1,
       "descTextMapHash": 2388228348,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "4385"
-        ],
-        "guideScene": 1073,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 19152,
       "subId": 1915202,
+      "mainId": 19152,
       "order": 2,
+      "subIdSet": 1,
       "descTextMapHash": 258775860,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "4380"
-        ],
-        "guideScene": 1073,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 19152,
       "subId": 1915203,
+      "mainId": 19152,
       "order": 3,
+      "subIdSet": 1,
       "descTextMapHash": 1629044524,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": [
-          "12908"
-        ],
-        "guideScene": 1073,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 19152,
       "subId": 1915204,
+      "mainId": 19152,
       "order": 4,
-      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 4132173612,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -128,26 +103,18 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1915201",
-            "3"
-          ],
+          "param": ["1915201", "3"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1915204",
-            "2"
-          ],
+          "param": ["1915204", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 191520501,
-      "npcId": [
-        4385
-      ],
+      "npcId": [4385],
       "performCfg": "QuestDialogue/COOP/CoopLayla/Q1915205",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 19152,
@@ -162,26 +129,18 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1915202",
-            "3"
-          ],
+          "param": ["1915202", "3"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1915204",
-            "2"
-          ],
+          "param": ["1915204", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 191520601,
-      "npcId": [
-        4380
-      ],
+      "npcId": [4380],
       "performCfg": "QuestDialogue/COOP/CoopLayla/Q1915206",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 19152,
@@ -196,26 +155,18 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1915203",
-            "3"
-          ],
+          "param": ["1915203", "3"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "1915204",
-            "2"
-          ],
+          "param": ["1915204", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 191520701,
-      "npcId": [
-        12908
-      ],
+      "npcId": [12908],
       "performCfg": "QuestDialogue/COOP/CoopLayla/Q1915207",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 19152,

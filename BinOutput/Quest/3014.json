@@ -4,322 +4,238 @@
   "titleTextMapHash": 681695183,
   "descTextMapHash": 2680340502,
   "luaPath": "Actor/Quest/AQ3014",
-  "suggestTrackMainQuestList": [
-    3012
-  ],
-  "rewardIdList": [
-    103014
-  ],
+  "suggestTrackMainQuestList": [3012],
+  "rewardIdList": [103014],
   "chapterId": 1302,
   "subQuests": [
     {
-      "mainId": 3014,
       "subId": 301401,
+      "mainId": 3014,
       "order": 1,
       "descTextMapHash": 663938820,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q3007CityCenterPos"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301402,
+      "mainId": 3014,
       "order": 2,
       "descTextMapHash": 1162012740,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "1056"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301403,
+      "mainId": 3014,
       "order": 3,
       "descTextMapHash": 1247212332,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q3014GatePaimon"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301404,
+      "mainId": 3014,
       "order": 94,
-      "showType": "QUEST_HIDDEN",
       "descTextMapHash": 2173865300,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301405,
+      "mainId": 3014,
       "order": 95,
       "descTextMapHash": 1893994036,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q3014EscapePoint"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301406,
+      "mainId": 3014,
       "order": 6,
       "descTextMapHash": 128968500,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "1056"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301407,
+      "mainId": 3014,
       "order": 7,
       "descTextMapHash": 2687488340,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "1056"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301408,
+      "mainId": 3014,
       "order": 8,
       "descTextMapHash": 1104392756,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "Q3007Day1RestPlayer"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301409,
+      "mainId": 3014,
       "order": 9,
       "descTextMapHash": 3844969916,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
-        "param": [
-          "1056"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301410,
+      "mainId": 3014,
       "order": 13,
-      "showType": "QUEST_HIDDEN",
+      "isMpBlock": true,
       "descTextMapHash": 1337778260,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {},
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 3014,
       "subId": 301411,
+      "mainId": 3014,
       "order": 91,
-      "showType": "QUEST_HIDDEN",
       "descTextMapHash": 3797649836,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "guideScene": 3,
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ],
   "talks": [
@@ -330,18 +246,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301402",
-            "2"
-          ],
+          "param": ["301402", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140101,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301401",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -354,18 +265,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301403",
-            "2"
-          ],
+          "param": ["301403", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140201,
-      "npcId": [
-        12657
-      ],
+      "npcId": [12657],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301402",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -378,18 +284,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301406",
-            "2"
-          ],
+          "param": ["301406", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140301,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301403",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -402,18 +303,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301407",
-            "2"
-          ],
+          "param": ["301407", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140401,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301404",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -425,18 +321,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301407",
-            "2"
-          ],
+          "param": ["301407", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140501,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301405",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -449,18 +340,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301408",
-            "2"
-          ],
+          "param": ["301408", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140601,
-      "npcId": [
-        1005
-      ],
+      "npcId": [1005],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301406",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -474,27 +360,18 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_QUEST_VAR_EQUAL",
-          "param": [
-            "0",
-            "0",
-            "3014"
-          ],
+          "param": ["0", "0", "3014"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140701,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301407",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -506,18 +383,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140801,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301408",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -529,18 +401,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30140901,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301409",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -552,18 +419,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30141001,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301410",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -575,25 +437,14 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
-      "nextTalks": [
-        301416,
-        301417,
-        301418,
-        301419,
-        301420
-      ],
+      "nextTalks": [301416, 301417, 301418, 301419, 301420],
       "initDialog": 30141101,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301411",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -601,11 +452,7 @@
       "finishExec": [
         {
           "type": "TALK_EXEC_SET_QUEST_VAR",
-          "param": [
-            "0",
-            "1",
-            "3014"
-          ],
+          "param": ["0", "1", "3014"],
           "param_str": ""
         }
       ]
@@ -616,25 +463,14 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
-      "nextTalks": [
-        301416,
-        301417,
-        301418,
-        301419,
-        301420
-      ],
+      "nextTalks": [301416, 301417, 301418, 301419, 301420],
       "initDialog": 30141201,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301412",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -648,58 +484,38 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301402",
-            "2"
-          ],
+          "param": ["301402", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301405",
-            "2"
-          ],
+          "param": ["301405", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301406",
-            "2"
-          ],
+          "param": ["301406", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301407",
-            "2"
-          ],
+          "param": ["301407", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301408",
-            "2"
-          ],
+          "param": ["301408", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30072001,
-      "npcId": [
-        12657
-      ],
+      "npcId": [12657],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3007/Q300720",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -714,58 +530,38 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301402",
-            "2"
-          ],
+          "param": ["301402", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301405",
-            "2"
-          ],
+          "param": ["301405", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301406",
-            "2"
-          ],
+          "param": ["301406", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301407",
-            "2"
-          ],
+          "param": ["301407", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301408",
-            "2"
-          ],
+          "param": ["301408", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30141401,
-      "npcId": [
-        12658
-      ],
+      "npcId": [12658],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301414",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -780,58 +576,38 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301402",
-            "2"
-          ],
+          "param": ["301402", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301405",
-            "2"
-          ],
+          "param": ["301405", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301406",
-            "2"
-          ],
+          "param": ["301406", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301407",
-            "2"
-          ],
+          "param": ["301407", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301408",
-            "2"
-          ],
+          "param": ["301408", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30072601,
-      "npcId": [
-        12666
-      ],
+      "npcId": [12666],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3007/Q300726",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -844,25 +620,14 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
-      "nextTalks": [
-        301416,
-        301417,
-        301418,
-        301419,
-        301420
-      ],
+      "nextTalks": [301416, 301417, 301418, 301419, 301420],
       "initDialog": 30141601,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301416",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -874,25 +639,14 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
-      "nextTalks": [
-        301416,
-        301417,
-        301418,
-        301419,
-        301420
-      ],
+      "nextTalks": [301416, 301417, 301418, 301419, 301420],
       "initDialog": 30141701,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301417",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -904,25 +658,14 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
-      "nextTalks": [
-        301416,
-        301417,
-        301418,
-        301419,
-        301420
-      ],
+      "nextTalks": [301416, 301417, 301418, 301419, 301420],
       "initDialog": 30141801,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301418",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -934,18 +677,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30141901,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301419",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -957,18 +695,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30142001,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301420",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -981,18 +714,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301403",
-            "2"
-          ],
+          "param": ["301403", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30142101,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3009/Q300923",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -1006,18 +734,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301408",
-            "2"
-          ],
+          "param": ["301408", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 30142201,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301422",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,
@@ -1032,34 +755,19 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "301409",
-            "2"
-          ],
+          "param": ["301409", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_QUEST_VAR_EQUAL",
-          "param": [
-            "0",
-            "1",
-            "3014"
-          ],
+          "param": ["0", "1", "3014"],
           "param_str": ""
         }
       ],
       "priority": 5,
-      "nextTalks": [
-        301416,
-        301417,
-        301418,
-        301419,
-        301420
-      ],
+      "nextTalks": [301416, 301417, 301418, 301419, 301420],
       "initDialog": 30141101,
-      "npcId": [
-        1056
-      ],
+      "npcId": [1056],
       "performCfg": "QuestDialogue/AQ/Sumeru1_3014/Q301411",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 3014,

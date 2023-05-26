@@ -15,39 +15,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104314,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104314, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107001,
-            0
-          ],
+          "param": [7107001, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104503,
-            3
-          ],
+          "param": [7104503, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -61,39 +47,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104314,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104314, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107017,
-            0
-          ],
+          "param": [7107017, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104503,
-            3
-          ],
+          "param": [7104503, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -107,39 +79,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104314,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104314, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107018,
-            0
-          ],
+          "param": [7107018, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104503,
-            3
-          ],
+          "param": [7104503, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -153,39 +111,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104314,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104314, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107019,
-            0
-          ],
+          "param": [7107019, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104503,
-            3
-          ],
+          "param": [7104503, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -199,39 +143,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104503,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104503, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107020,
-            0
-          ],
+          "param": [7107020, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104521,
-            3
-          ],
+          "param": [7104521, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -245,39 +175,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104503,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104503, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107021,
-            0
-          ],
+          "param": [7107021, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104521,
-            3
-          ],
+          "param": [7104521, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -291,39 +207,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104503,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104503, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107022,
-            0
-          ],
+          "param": [7107022, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104521,
-            3
-          ],
+          "param": [7104521, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -337,39 +239,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104503,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104503, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107023,
-            0
-          ],
+          "param": [7107023, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104521,
-            3
-          ],
+          "param": [7104521, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -383,39 +271,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104521,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104521, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107024,
-            0
-          ],
+          "param": [7107024, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104518,
-            3
-          ],
+          "param": [7104518, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -429,39 +303,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104521,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104521, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107025,
-            0
-          ],
+          "param": [7107025, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104518,
-            3
-          ],
+          "param": [7104518, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -475,39 +335,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104521,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104521, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107026,
-            0
-          ],
+          "param": [7107026, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7104518,
-            3
-          ],
+          "param": [7104518, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -521,39 +367,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104518,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104518, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107027,
-            0
-          ],
+          "param": [7107027, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7103601,
-            3
-          ],
+          "param": [7103601, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -567,39 +399,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104518,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104518, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107028,
-            0
-          ],
+          "param": [7107028, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7103601,
-            3
-          ],
+          "param": [7103601, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -613,39 +431,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104518,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104518, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107029,
-            0
-          ],
+          "param": [7107029, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7103601,
-            3
-          ],
+          "param": [7103601, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -659,39 +463,25 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104518,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104518, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [
-            7107030,
-            0
-          ],
+          "param": [7107030, 0],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7103601,
-            3
-          ],
+          "param": [7103601, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishExec": [],
       "failExec": [],
       "beginExec": []
@@ -705,13 +495,7 @@
       "acceptCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            7104314,
-            3,
-            0,
-            0,
-            0
-          ],
+          "param": [7104314, 3, 0, 0, 0],
           "param_str": ""
         }
       ],
@@ -719,50 +503,33 @@
       "finishCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7107013,
-            3
-          ],
+          "param": [7107013, 3],
           "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7107014,
-            3
-          ],
+          "param": [7107014, 3],
           "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7107015,
-            3
-          ],
+          "param": [7107015, 3],
           "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7107016,
-            3
-          ],
+          "param": [7107016, 3],
           "param_str": ""
         }
       ],
       "failCond": [
         {
           "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [
-            7103601,
-            3
-          ],
+          "param": [7103601, 3],
           "param_str": ""
         }
       ],
-      "guide": {
-        "param": []
-      },
+      "guide": {},
       "finishParent": true,
       "isRewind": true,
       "finishExec": [],
@@ -778,19 +545,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107001",
-            "2"
-          ],
+          "param": ["7107001", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710700101,
-      "npcId": [
-        2616,
-        1005
-      ],
+      "npcId": [2616, 1005],
       "performCfg": "QuestDialogue/WQ/Liyue_71070/Q7107001",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -803,18 +564,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107002",
-            "2"
-          ],
+          "param": ["7107002", "2"],
           "param_str": ""
         }
       ],
       "priority": 3,
       "initDialog": 710701701,
-      "npcId": [
-        2617
-      ],
+      "npcId": [2617],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -827,18 +583,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107003",
-            "2"
-          ],
+          "param": ["7107003", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710701801,
-      "npcId": [
-        2618
-      ],
+      "npcId": [2618],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -852,35 +603,23 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107004",
-            "2"
-          ],
+          "param": ["7107004", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_QUEST_NOT_RECEIVE",
-          "param": [
-            "7106601",
-            "1"
-          ],
+          "param": ["7106601", "1"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_NOT_EQUAL",
-          "param": [
-            "7106601",
-            "2"
-          ],
+          "param": ["7106601", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710701901,
-      "npcId": [
-        2154,
-        1005
-      ],
+      "npcId": [2154, 1005],
       "performCfg": "QuestDialogue/WQ/Liyue_71070/Q7107019",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -894,18 +633,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107005",
-            "2"
-          ],
+          "param": ["7107005", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710702001,
-      "npcId": [
-        2616
-      ],
+      "npcId": [2616],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -918,18 +652,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107006",
-            "2"
-          ],
+          "param": ["7107006", "2"],
           "param_str": ""
         }
       ],
       "priority": 3,
       "initDialog": 710702101,
-      "npcId": [
-        2617
-      ],
+      "npcId": [2617],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -943,34 +672,23 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107007",
-            "2"
-          ],
+          "param": ["7107007", "2"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_QUEST_NOT_RECEIVE",
-          "param": [
-            "7106601",
-            "1"
-          ],
+          "param": ["7106601", "1"],
           "param_str": ""
         },
         {
           "type": "QUEST_COND_STATE_NOT_EQUAL",
-          "param": [
-            "7106601",
-            "2"
-          ],
+          "param": ["7106601", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710702201,
-      "npcId": [
-        2154
-      ],
+      "npcId": [2154],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -984,18 +702,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107008",
-            "2"
-          ],
+          "param": ["7107008", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710702301,
-      "npcId": [
-        2618
-      ],
+      "npcId": [2618],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1008,18 +721,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107009",
-            "2"
-          ],
+          "param": ["7107009", "2"],
           "param_str": ""
         }
       ],
       "priority": 4,
       "initDialog": 710702401,
-      "npcId": [
-        2616
-      ],
+      "npcId": [2616],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1032,18 +740,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107010",
-            "2"
-          ],
+          "param": ["7107010", "2"],
           "param_str": ""
         }
       ],
       "priority": 3,
       "initDialog": 710702501,
-      "npcId": [
-        2617
-      ],
+      "npcId": [2617],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1056,18 +759,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107011",
-            "2"
-          ],
+          "param": ["7107011", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710702601,
-      "npcId": [
-        2618
-      ],
+      "npcId": [2618],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1080,19 +778,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107013",
-            "2"
-          ],
+          "param": ["7107013", "2"],
           "param_str": ""
         }
       ],
       "priority": 10,
       "initDialog": 710702701,
-      "npcId": [
-        20523,
-        1005
-      ],
+      "npcId": [20523, 1005],
       "performCfg": "QuestDialogue/WQ/Liyue_71070/Q7107027",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1105,18 +797,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107014",
-            "2"
-          ],
+          "param": ["7107014", "2"],
           "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 710702801,
-      "npcId": [
-        2616
-      ],
+      "npcId": [2616],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1129,18 +816,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107015",
-            "2"
-          ],
+          "param": ["7107015", "2"],
           "param_str": ""
         }
       ],
       "priority": 3,
       "initDialog": 710702901,
-      "npcId": [
-        2617
-      ],
+      "npcId": [2617],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,
@@ -1153,18 +835,13 @@
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": [
-            "7107016",
-            "2"
-          ],
+          "param": ["7107016", "2"],
           "param_str": ""
         }
       ],
       "priority": 10,
       "initDialog": 710703001,
-      "npcId": [
-        2618
-      ],
+      "npcId": [2618],
       "performCfg": "",
       "heroTalk": "TALK_HERO_MAIN",
       "questId": 71070,

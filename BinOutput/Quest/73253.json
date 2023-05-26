@@ -4,73 +4,49 @@
   "titleTextMapHash": 2026488279,
   "descTextMapHash": 4182890918,
   "luaPath": "Actor/Quest/WQ73253",
-  "suggestTrackMainQuestList": [
-    73254,
-    73256
-  ],
-  "rewardIdList": [
-    173253
-  ],
+  "suggestTrackMainQuestList": [73254, 73256],
+  "rewardIdList": [173253],
   "chapterId": 10121,
   "subQuests": [
     {
-      "mainId": 73253,
       "subId": 7325301,
+      "mainId": 73253,
       "order": 1,
       "descTextMapHash": 715800820,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "Q7325301_guide"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_UI"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     },
     {
-      "mainId": 73253,
       "subId": 7325302,
+      "mainId": 73253,
       "order": 2,
       "descTextMapHash": 4265569788,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
       "acceptCond": [
         {
           "type": "QUEST_COND_UNKNOWN",
-          "param": [
-            0,
-            0
-          ]
+          "param": [0, 0]
         }
       ],
       "finishCond": [],
       "failCond": [],
-      "guide": {
-        "type": "QUEST_GUIDE_LOCATION",
-        "param": [
-          "guide_Q7325301",
-          "30"
-        ],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
-        "guideLayer": "QUEST_GUIDE_LAYER_UI"
-      },
+      "beginExec": [],
       "finishExec": [],
       "failExec": [],
-      "beginExec": []
+      "guide": {}
     }
   ]
 }
