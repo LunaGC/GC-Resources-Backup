@@ -1,0 +1,134 @@
+{
+  "id": 73254,
+  "type": "WQ",
+  "titleTextMapHash": 2099854663,
+  "descTextMapHash": 3762038726,
+  "luaPath": "Actor/Quest/WQ73254",
+  "suggestTrackMainQuestList": [
+    73253,
+    73256
+  ],
+  "rewardIdList": [
+    173254
+  ],
+  "chapterId": 10121,
+  "subQuests": [
+    {
+      "mainId": 73254,
+      "subId": 7325401,
+      "order": 1,
+      "descTextMapHash": 185213508,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "guide_Q7325401"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_UI"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73254,
+      "subId": 7325402,
+      "order": 4,
+      "descTextMapHash": 3741003428,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q7325402_guide",
+          "30"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_UI"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73254,
+      "subId": 7325403,
+      "order": 2,
+      "descTextMapHash": 3596146332,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q7325403_guide"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_UI"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73254,
+      "subId": 7325404,
+      "order": 3,
+      "descTextMapHash": 1421178876,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q7325404_guide"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_UI"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ]
+}

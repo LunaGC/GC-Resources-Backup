@@ -1,0 +1,277 @@
+{
+  "id": 73342,
+  "type": "WQ",
+  "titleTextMapHash": 3559623447,
+  "descTextMapHash": 738309006,
+  "luaPath": "Actor/Quest/WQ73342",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "mainId": 73342,
+      "subId": 7334201,
+      "order": 1,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 680642932,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "20969"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73342,
+      "subId": 7334202,
+      "order": 2,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 2899011300,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "20969"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73342,
+      "subId": 7334203,
+      "order": 3,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 3648765700,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73342,
+      "subId": 7334204,
+      "order": 4,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 887657004,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "20969"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73342,
+      "subId": 7334205,
+      "order": 5,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 1135607092,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "20969"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73342,
+      "subId": 7334206,
+      "order": 6,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 1674793748,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "20969"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73342,
+      "subId": 7334207,
+      "order": 7,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 1131549676,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "20969"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ],
+  "talks": [
+    {
+      "id": 7334201,
+      "beginWay": "TALK_BEGIN_AUTO",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7334205",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
+          "param": [
+            "7323201",
+            "0"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 733420101,
+      "npcId": [
+        20987
+      ],
+      "performCfg": "QuestDialogue/WQ/Sumeru_73342/Q7334201",
+      "questId": 73342,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 7334202,
+      "beginWay": "TALK_BEGIN_AUTO",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7334205",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
+          "param": [
+            "7323201",
+            "1"
+          ],
+          "param_str": ""
+        }
+      ],
+      "initDialog": 733420201,
+      "npcId": [
+        20987
+      ],
+      "performCfg": "QuestDialogue/WQ/Sumeru_73342/Q7334202",
+      "questId": 73342,
+      "prePerformCfg": ""
+    }
+  ]
+}

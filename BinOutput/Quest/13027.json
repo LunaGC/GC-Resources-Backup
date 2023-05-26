@@ -1,0 +1,2034 @@
+{
+  "id": 13027,
+  "type": "LQ",
+  "series": 2039,
+  "titleTextMapHash": 4119280375,
+  "descTextMapHash": 823085510,
+  "luaPath": "Actor/Quest/LQ13027",
+  "rewardIdList": [
+    113027
+  ],
+  "chapterId": 2039,
+  "subQuests": [
+    {
+      "mainId": 13027,
+      "subId": 1302701,
+      "order": 1,
+      "descTextMapHash": 1344798268,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[6_600400019:463.449,94.445,1240.588,0.000,323.758,0.000]"
+        ],
+        "guideScene": 6,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302702,
+      "order": 3,
+      "descTextMapHash": 1252971596,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027AbyssMon3"
+        ],
+        "guideScene": 6,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302703,
+      "order": 4,
+      "descTextMapHash": 1207315660,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "13166"
+        ],
+        "guideScene": 6,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302704,
+      "order": 7,
+      "descTextMapHash": 2196423684,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DustMetPre1",
+          "55"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302705,
+      "order": 9,
+      "descTextMapHash": 3963448348,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DustMetPos",
+          "50"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302706,
+      "order": 11,
+      "descTextMapHash": 2943698140,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DustMetPos",
+          "75"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302707,
+      "order": 12,
+      "descTextMapHash": 3326336996,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DustMetPos"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302708,
+      "order": 14,
+      "descTextMapHash": 388088284,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DungeonEntryNahida"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302709,
+      "order": 15,
+      "descTextMapHash": 1763649140,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DungeonEntryNahida"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302710,
+      "order": 16,
+      "descTextMapHash": 4217151732,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[20185_1:46.693,10.308,75.157,0.000,84.706,0.000]"
+        ],
+        "guideScene": 20185,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302711,
+      "order": 17,
+      "descTextMapHash": 3939415668,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[20185_3:93.910,10.271,94.891,0.000,54.241,0.000]"
+        ],
+        "guideScene": 20185,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302712,
+      "order": 18,
+      "descTextMapHash": 3896601292,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[20185_3:93.910,10.271,94.891,0.000,54.241,0.000]"
+        ],
+        "guideScene": 20185,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302713,
+      "order": 19,
+      "descTextMapHash": 1865206372,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[20185_3:93.910,10.271,94.891,0.000,54.241,0.000]"
+        ],
+        "guideScene": 20185,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302714,
+      "order": 20,
+      "descTextMapHash": 3619260348,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[20185_5:291.596,10.271,96.945,0.000,47.146,0.000]"
+        ],
+        "guideScene": 20185,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302715,
+      "order": 21,
+      "descTextMapHash": 3804463348,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DungeonEntryNahida"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302716,
+      "order": 22,
+      "descTextMapHash": 3163733492,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13019Monster1Met",
+          "13"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302717,
+      "order": 2,
+      "descTextMapHash": 1638215780,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027AbyssMon3",
+          "40"
+        ],
+        "guideScene": 6,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302718,
+      "order": 8,
+      "descTextMapHash": 338455684,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "Q13027DustMetPre2",
+          "50"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302719,
+      "order": 10,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 4137572980,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "guideScene": 3,
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302720,
+      "order": 5,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 2020310196,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "guideScene": 6,
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302721,
+      "order": 6,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 3173032836,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "guideScene": 6,
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 13027,
+      "subId": 1302722,
+      "order": 13,
+      "descTextMapHash": 2244443284,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "autoGuide": "QUEST_GUIDE_AUTO_ENABLE",
+        "param": [
+          "[3_331300090:-159.459,104.889,5468.416]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ],
+  "talks": [
+    {
+      "id": 1302701,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270101,
+      "npcId": [
+        13166
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302701",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 1302702,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270201,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302702",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 1302703,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270301,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302703",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 1302704,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270401,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302704",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302705,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302710",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270501,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302705",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302706,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302712",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270601,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302706",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302707,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302714",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270701,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302707",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302708,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270801,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302708",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302709,
+      "beginWay": "TALK_BEGIN_AUTO",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130270901,
+      "npcId": [
+        13163,
+        13164
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302709",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302710,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_A_AND_ETCOR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7104517"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7104517",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7104517",
+            "1"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130271001,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302710",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302711,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130279904,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302711",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 1302712,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302702",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130191801,
+      "npcId": [
+        13163
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301930",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302713,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192201,
+      "npcId": [
+        13214
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301922",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302714,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192201,
+      "npcId": [
+        13214
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301922",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302715,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192301,
+      "npcId": [
+        13216
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301923",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302716,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192301,
+      "npcId": [
+        13216
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301923",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302717,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192401,
+      "npcId": [
+        13217
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301924",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302718,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192401,
+      "npcId": [
+        13217
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301924",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302719,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192501,
+      "npcId": [
+        13215
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301925",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302720,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192501,
+      "npcId": [
+        13215
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301925",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302721,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192601,
+      "npcId": [
+        13218
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301926",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302722,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192601,
+      "npcId": [
+        13218
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301926",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302723,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192701,
+      "npcId": [
+        13219
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301927",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302724,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302716",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130192701,
+      "npcId": [
+        13219
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301927",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302725,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130191801,
+      "npcId": [
+        13163
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301930",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302726,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302717",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302703",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302704",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302702",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302718",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130191802,
+      "npcId": [
+        13164
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301931",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302727,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302705",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302706",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302707",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302708",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302709",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302715",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130191802,
+      "npcId": [
+        13164
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13019/Q1301931",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 1302728,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "1302701",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7104517",
+            "3"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 130271001,
+      "npcId": [
+        1056
+      ],
+      "performCfg": "QuestDialogue/LQ/Nahida2_13027/Q1302728",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 13027,
+      "prePerformCfg": ""
+    }
+  ],
+  "videoKey": 7011940783148892
+}

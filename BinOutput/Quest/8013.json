@@ -1,44 +1,74 @@
 {
   "id": 8013,
-  "ELEPLNPCHAA": 1020,
   "series": 1308,
+  "titleTextMapHash": 155293727,
+  "descTextMapHash": 36333622,
   "luaPath": "Actor/Quest/AQ8013",
   "showType": "QUEST_HIDDEN",
   "chapterId": 1308,
   "subQuests": [
     {
-      "subId": 801301,
       "mainId": 8013,
+      "subId": 801301,
       "order": 1,
       "showType": "QUEST_HIDDEN",
-      "finishCond": [
+      "acceptCond": [
         {
-          "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
-          "param": [801211, 3]
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
         }
       ],
-      "failCond": [
-        {
-          "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [0, 0],
-          "count": 1
-        }
-      ],
+      "finishCond": [],
+      "failCond": [],
       "guide": {},
-      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
-      },
-      "finishParent": true,
-      "isRewind": true,
-      "failExec": [
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 8013,
+      "subId": 801302,
+      "order": 2,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
         {
-          "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": ["801301"]
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
         }
       ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 8013,
+      "subId": 801303,
+      "order": 3,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
     }
   ]
 }

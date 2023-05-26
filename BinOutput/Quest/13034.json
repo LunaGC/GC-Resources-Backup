@@ -1,6 +1,5 @@
 {
   "id": 13034,
-  "ELEPLNPCHAA": 2035,
   "type": "LQ",
   "titleTextMapHash": 3453776639,
   "descTextMapHash": 3285162590,
@@ -8,25 +7,25 @@
   "showType": "QUEST_HIDDEN",
   "subQuests": [
     {
-      "subId": 1303401,
       "mainId": 13034,
+      "subId": 1303401,
       "order": 1,
       "showType": "QUEST_HIDDEN",
-      "guide": {},
-      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
-      },
-      "finishParent": true,
-      "isRewind": true,
-      "finishExec": [
+      "acceptCond": [
         {
-          "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
-          "param": ["1302201", "1"]
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
         }
       ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
     }
   ]
 }

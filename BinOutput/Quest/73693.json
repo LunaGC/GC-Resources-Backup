@@ -1,0 +1,68 @@
+{
+  "id": 73693,
+  "type": "WQ",
+  "titleTextMapHash": 2105414559,
+  "descTextMapHash": 3320268438,
+  "luaPath": "Actor/Quest/WQ73693",
+  "rewardIdList": [
+    173693
+  ],
+  "subQuests": [
+    {
+      "mainId": 73693,
+      "subId": 7369301,
+      "order": 1,
+      "descTextMapHash": 3287107388,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "30348"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ],
+  "talks": [
+    {
+      "id": 7369301,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7369301",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 736930101,
+      "npcId": [
+        30348
+      ],
+      "performCfg": "QuestDialogue/WQ/Sumeru_73693/Q7369301",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 73693,
+      "prePerformCfg": "",
+      "stayFreeStyle": true
+    }
+  ]
+}

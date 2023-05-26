@@ -1,14 +1,105 @@
 {
   "id": 1024,
-  "ELEPLNPCHAA": 1006,
   "series": 1101,
   "titleTextMapHash": 4062148249,
   "descTextMapHash": 821672999,
   "luaPath": "Actor/Quest/MQ1024",
-  "suggestTrackMainQuestList": [1025],
-  "rewardIdList": [101024],
+  "suggestTrackMainQuestList": [
+    1025
+  ],
+  "rewardIdList": [
+    101024
+  ],
   "chapterId": 1103,
   "subQuests": [
+    {
+      "subId": 102407,
+      "mainId": 1024,
+      "order": 1,
+      "isMpBlock": true,
+      "descTextMapHash": 3601371542,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
+          "param": [
+            10009,
+            2,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_ENTER_MY_WORLD",
+          "param": [
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
+      "failCond": [],
+      "guide": {
+        "param": []
+      },
+      "isRewind": true,
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "subId": 102408,
+      "mainId": 1024,
+      "order": 2,
+      "isMpBlock": true,
+      "descTextMapHash": 3236261246,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            102407,
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            102408,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "2456"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "isRewind": true,
+      "finishExec": [
+        {
+          "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
+          "param": [
+            "10009",
+            "1"
+          ],
+          "param_str": ""
+        }
+      ],
+      "failExec": [],
+      "beginExec": []
+    },
     {
       "subId": 102401,
       "mainId": 1024,
@@ -16,38 +107,77 @@
       "isMpBlock": true,
       "descTextMapHash": 617709662,
       "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_QUEST_GLOBAL_VAR_EQUAL",
+          "param": [
+            10009,
+            1,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_ENTER_DUNGEON",
-          "param": [102, 185]
+          "param": [
+            102,
+            185
+          ],
+          "param_str": ""
         }
       ],
+      "failCondComb": "LOGIC_OR",
       "failCond": [
         {
           "type": "QUEST_CONTENT_FAIL_DUNGEON",
-          "param": [102, 0]
+          "param": [
+            102,
+            0
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_ENTER_MY_WORLD",
-          "param": [3, 0]
+          "param": [
+            3,
+            0
+          ],
+          "param_str": ""
         }
       ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
+      "guide": {
+        "param": []
       },
+      "finishExec": [],
       "failExec": [
         {
           "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
-          "param": ["10009", "2"]
+          "param": [
+            "10009",
+            "2"
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": ["102407"]
+          "param": [
+            "102407"
+          ],
+          "param_str": ""
         }
       ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "beginExec": [
+        {
+          "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
+          "param": [
+            "10009",
+            "5"
+          ],
+          "param_str": ""
+        }
+      ]
     },
     {
       "subId": 102402,
@@ -56,45 +186,87 @@
       "isMpBlock": true,
       "descTextMapHash": 458491958,
       "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            102401,
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [102402, 0]
+          "param": [
+            102402,
+            0
+          ],
+          "param_str": ""
         }
       ],
+      "failCondComb": "LOGIC_OR",
       "failCond": [
         {
           "type": "QUEST_CONTENT_FAIL_DUNGEON",
-          "param": [102, 0]
+          "param": [
+            102,
+            0
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_ENTER_MY_WORLD",
-          "param": [3, 0]
+          "param": [
+            3,
+            0
+          ],
+          "param_str": ""
         }
       ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
+      "guide": {
+        "param": []
       },
       "isRewind": true,
       "finishExec": [
         {
           "type": "QUEST_EXEC_NOTIFY_GROUP_LUA",
-          "param": ["1051", "201051002"]
+          "param": [
+            "1051",
+            "201051002"
+          ],
+          "param_str": ""
         }
       ],
       "failExec": [
         {
           "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
-          "param": ["10009", "2"]
+          "param": [
+            "10009",
+            "2"
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": ["102407"]
+          "param": [
+            "102407"
+          ],
+          "param_str": ""
         }
       ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "beginExec": [
+        {
+          "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
+          "param": [
+            "10009",
+            "0"
+          ],
+          "param_str": ""
+        }
+      ]
     },
     {
       "subId": 102403,
@@ -103,25 +275,45 @@
       "isMpBlock": true,
       "descTextMapHash": 2315469590,
       "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            99902,
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [0, 0]
+          "param": [
+            0,
+            0
+          ],
+          "param_str": ""
         }
       ],
+      "failCondComb": "LOGIC_OR",
       "failCond": [
         {
           "type": "QUEST_CONTENT_FAIL_DUNGEON",
-          "param": [102, 0]
+          "param": [
+            102,
+            0
+          ],
+          "param_str": ""
         }
       ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
+      "guide": {
+        "param": []
       },
       "isRewind": true,
-      "versionBegin": "",
-      "versionEnd": ""
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
     },
     {
       "subId": 102404,
@@ -129,40 +321,70 @@
       "order": 5,
       "isMpBlock": true,
       "descTextMapHash": 2273117606,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            102402,
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_LUA_NOTIFY",
-          "param": [0, 0],
+          "param": [
+            0,
+            0
+          ],
+          "param_str": "20105100301",
           "count": 1
         }
       ],
+      "failCondComb": "LOGIC_OR",
       "failCond": [
         {
           "type": "QUEST_CONTENT_FAIL_DUNGEON",
-          "param": [102, 0]
+          "param": [
+            102,
+            0
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_CONTENT_ENTER_MY_WORLD",
-          "param": [3, 0]
+          "param": [
+            3,
+            0
+          ],
+          "param_str": ""
         }
       ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
+      "guide": {
+        "param": []
       },
       "isRewind": true,
+      "finishExec": [],
       "failExec": [
         {
           "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
-          "param": ["10009", "2"]
+          "param": [
+            "10009",
+            "2"
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_EXEC_ROLLBACK_QUEST",
-          "param": ["102407"]
+          "param": [
+            "102407"
+          ],
+          "param_str": ""
         }
       ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "beginExec": []
     },
     {
       "subId": 102405,
@@ -171,30 +393,53 @@
       "isMpBlock": true,
       "descTextMapHash": 4232911478,
       "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            102404,
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [0, 0]
+          "param": [
+            0,
+            0
+          ],
+          "param_str": ""
         }
       ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
+      "failCond": [],
+      "guide": {
+        "param": []
       },
       "finishParent": true,
       "isRewind": true,
       "finishExec": [
         {
           "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
-          "param": ["10008", "1"]
+          "param": [
+            "10008",
+            "1"
+          ],
+          "param_str": ""
         },
         {
           "type": "QUEST_EXEC_DEL_SCENE_TAG",
-          "param": ["3", "102"]
+          "param": [
+            "3",
+            "102"
+          ],
+          "param_str": ""
         }
       ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "failExec": [],
+      "beginExec": []
     },
     {
       "subId": 102406,
@@ -202,113 +447,83 @@
       "order": 6,
       "isMpBlock": true,
       "descTextMapHash": 1984570246,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            99902,
+            3,
+            0
+          ],
+          "param_str": ""
+        }
+      ],
       "finishCond": [
         {
           "type": "QUEST_CONTENT_FINISH_PLOT",
-          "param": [0, 0]
+          "param": [
+            0,
+            0
+          ],
+          "param_str": ""
         }
       ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
-      },
-      "isRewind": true,
-      "versionBegin": "",
-      "versionEnd": ""
-    },
-    {
-      "subId": 102407,
-      "mainId": 1024,
-      "order": 1,
-      "isMpBlock": true,
-      "descTextMapHash": 3601371542,
-      "showType": "QUEST_HIDDEN",
-      "finishCond": [
-        {
-          "type": "QUEST_CONTENT_ENTER_MY_WORLD",
-          "param": [3, 0]
-        }
-      ],
-      "guide": {},
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
-      },
-      "isRewind": true,
-      "versionBegin": "",
-      "versionEnd": ""
-    },
-    {
-      "subId": 102408,
-      "mainId": 1024,
-      "order": 2,
-      "isMpBlock": true,
-      "descTextMapHash": 3236261246,
-      "finishCond": [
-        {
-          "type": "QUEST_CONTENT_COMPLETE_TALK",
-          "param": [102408, 0]
-        }
-      ],
+      "failCond": [],
       "guide": {
-        "type": "QUEST_GUIDE_NPC",
-        "param": ["2456"],
-        "guideScene": 3,
-        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
-        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
-      },
-      "acceptCondComb": {
-        "ODAOGCJFIHC": ""
+        "param": []
       },
       "isRewind": true,
-      "finishExec": [
-        {
-          "type": "QUEST_EXEC_SET_QUEST_GLOBAL_VAR",
-          "param": ["10009", "1"]
-        }
-      ],
-      "versionBegin": "",
-      "versionEnd": ""
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
     }
   ],
   "talks": [
     {
       "id": 102402,
       "beginWay": "TALK_BEGIN_AUTO",
+      "activeMode": "PLAY_MODE_SINGLE",
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": ["102402", "2"]
+          "param": [
+            "102402",
+            "2"
+          ],
+          "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 10240201,
-      "npcId": [1005],
+      "npcId": [
+        1005
+      ],
       "performCfg": "QuestDialogue/AQ/Liyue3_1024/Q102402",
       "questId": 1024,
-      "assetIndex": 1521153443617908731,
       "prePerformCfg": ""
     },
     {
       "id": 102408,
       "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
       "beginCond": [
         {
           "type": "QUEST_COND_STATE_EQUAL",
-          "param": ["102408", "2"]
+          "param": [
+            "102408",
+            "2"
+          ],
+          "param_str": ""
         }
       ],
       "priority": 5,
       "initDialog": 10210301,
-      "npcId": [2456],
+      "npcId": [
+        2456
+      ],
       "performCfg": "QuestDialogue/AQ/Liyue3_1021/Q102103",
       "questId": 1024,
-      "assetIndex": 7914912603309308957,
       "prePerformCfg": ""
     }
-  ],
-  "BPKCHMHEIEE": [14457059026087496718],
-  "freeStyleDic": {
-    "1005": [1350],
-    "10211": [1350]
-  }
+  ]
 }

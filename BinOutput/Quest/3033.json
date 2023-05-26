@@ -1,0 +1,30 @@
+{
+  "id": 3033,
+  "titleTextMapHash": 671451223,
+  "descTextMapHash": 3432711654,
+  "luaPath": "Actor/Quest/AQ3033",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "mainId": 3033,
+      "subId": 303301,
+      "order": 1,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 73333,
+  "type": "WQ",
+  "titleTextMapHash": 254956079,
+  "descTextMapHash": 2281282078,
+  "luaPath": "Actor/Quest/WQ73333",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "mainId": 73333,
+      "subId": 7333301,
+      "order": 1,
+      "showType": "QUEST_HIDDEN",
+      "descTextMapHash": 589435964,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ]
+}

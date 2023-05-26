@@ -1,0 +1,2169 @@
+{
+  "id": 40100,
+  "type": "EQ",
+  "series": 40100,
+  "titleTextMapHash": 515165639,
+  "descTextMapHash": 1948789534,
+  "luaPath": "Actor/Quest/EQ40100",
+  "suggestTrackMainQuestList": [
+    40101
+  ],
+  "rewardIdList": [
+    140100
+  ],
+  "chapterId": 10139,
+  "subQuests": [
+    {
+      "mainId": 40100,
+      "subId": 4010001,
+      "order": 1,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010002,
+      "order": 3,
+      "descTextMapHash": 3027893212,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q4010002_N13152",
+          "20"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010003,
+      "order": 4,
+      "descTextMapHash": 124831388,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q4010029_guide",
+          "20"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010004,
+      "order": 5,
+      "descTextMapHash": 1275385340,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1050"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010005,
+      "order": 8,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010006,
+      "order": 6,
+      "descTextMapHash": 4028441172,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1063"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010007,
+      "order": 9,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010008,
+      "order": 21,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010009,
+      "order": 22,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010010,
+      "order": 2,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010011,
+      "order": 7,
+      "descTextMapHash": 3652143780,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1065"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010012,
+      "order": 10,
+      "descTextMapHash": 1439906500,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "13153"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010013,
+      "order": 11,
+      "descTextMapHash": 343153292,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q4010003_N13151",
+          "15"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010014,
+      "order": 97,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010015,
+      "order": 98,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010016,
+      "order": 99,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010017,
+      "order": 17,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010018,
+      "order": 18,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010019,
+      "order": 19,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010020,
+      "order": 12,
+      "descTextMapHash": 1486152756,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1058"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010021,
+      "order": 13,
+      "descTextMapHash": 2013809340,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1067"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010022,
+      "order": 14,
+      "descTextMapHash": 2825762836,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q4010021_N1050",
+          "15"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010023,
+      "order": 15,
+      "descTextMapHash": 768387092,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {},
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010024,
+      "order": 16,
+      "descTextMapHash": 2702635492,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1063"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010025,
+      "order": 20,
+      "descTextMapHash": 733533204,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q4010025_N1052",
+          "20"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010026,
+      "order": 23,
+      "descTextMapHash": 4284951916,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q4010029_guide",
+          "20"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 40100,
+      "subId": 4010027,
+      "order": 24,
+      "descTextMapHash": 3140487652,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "1055"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ],
+  "talks": [
+    {
+      "id": 4010002,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010002",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401000201,
+      "npcId": [
+        13152
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010002",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010003,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010003",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401000301,
+      "npcId": [
+        13153
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010003",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010004,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010004",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401000401,
+      "npcId": [
+        1050,
+        1058
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010004",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010006,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010004",
+            "3"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010006",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401000601,
+      "npcId": [
+        1064,
+        1067,
+        1063
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010006",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010011,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010011",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401001101,
+      "npcId": [
+        1065
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010011",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010012,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010012",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401001201,
+      "npcId": [
+        13153
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010012",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010013,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "nextTalks": [
+        4010073
+      ],
+      "initDialog": 401001301,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010013",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010014,
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "nextTalks": [
+        4010015
+      ],
+      "initDialog": 401001401,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010014",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010015,
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "nextTalks": [
+        4010016
+      ],
+      "initDialog": 401001501,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010015",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010016,
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401001601,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010016",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010020,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401002001,
+      "npcId": [
+        1058
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010020",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010022,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401002201,
+      "npcId": [
+        1050
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010022",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010023,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401002301,
+      "npcId": [
+        1063
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010023",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010025,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401002501,
+      "npcId": [
+        1052,
+        1059
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010025",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010026,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010026",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401002601,
+      "npcId": [
+        1053,
+        1054
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010026",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010027,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010027",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401002701,
+      "npcId": [
+        1055
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010027",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010030,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401003001,
+      "npcId": [
+        1050
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010030",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010031,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010021",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401003101,
+      "npcId": [
+        1058
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010031",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010032,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010024",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010026",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401003201,
+      "npcId": [
+        1065
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010032",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010033,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010024",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401003301,
+      "npcId": [
+        1067
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010033",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010034,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010024",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401003401,
+      "npcId": [
+        1064
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010034",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010046,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010004",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010006",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401000601,
+      "npcId": [
+        1064,
+        1067,
+        1063
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010046",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010050,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010003",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005001,
+      "npcId": [
+        13152
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010050",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010051,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010007",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010012",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005101,
+      "npcId": [
+        13199
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010051",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010052,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010007",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010012",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005201,
+      "npcId": [
+        13200
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010052",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010053,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_A_AND_ETCOR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010004",
+            "3"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010007",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010012",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005301,
+      "npcId": [
+        1058,
+        1050
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010053",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010054,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_A_AND_ETCOR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010006",
+            "3"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010007",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010012",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005401,
+      "npcId": [
+        1063,
+        1064,
+        1067
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010054",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010055,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_A_AND_ETCOR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010011",
+            "3"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010007",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010012",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005501,
+      "npcId": [
+        1065
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010055",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010056,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010014",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010015",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010016",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005601,
+      "npcId": [
+        13153
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010056",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010057,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010021",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010024",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005701,
+      "npcId": [
+        1054
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010057",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010058,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010021",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010024",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005801,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010058",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010059,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010021",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401005901,
+      "npcId": [
+        1065
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010059",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010060,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006001,
+      "npcId": [
+        1064,
+        1067
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010060",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010061,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006101,
+      "npcId": [
+        1050,
+        1051
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010061",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010062,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006201,
+      "npcId": [
+        1063
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010062",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010063,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "99902",
+            "3"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006301,
+      "npcId": [
+        1058
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010063",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010064,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010021",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006401,
+      "npcId": [
+        1063
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010064",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010065,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010024",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010025",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006501,
+      "npcId": [
+        1058
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010065",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010066,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010020",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010021",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006601,
+      "npcId": [
+        1052,
+        1059
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010066",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010067,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010022",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010023",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 401006701,
+      "npcId": [
+        1052,
+        1059
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010067",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010068,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010014",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "initDialog": 401006801,
+      "npcId": [
+        1050,
+        1051
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010068",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010069,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010014",
+            "2"
+          ],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010015",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "initDialog": 401006801,
+      "npcId": [
+        1065,
+        1063
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010069",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 4010073,
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "nextTalks": [
+        4010074
+      ],
+      "initDialog": 401001301,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010073",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    },
+    {
+      "id": 4010074,
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "4010013",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "nextTalks": [
+        4010014
+      ],
+      "initDialog": 401001301,
+      "npcId": [
+        1053
+      ],
+      "performCfg": "QuestDialogue/EQ/AkaFes_40100/Q4010074",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 40100,
+      "prePerformCfg": "",
+      "lockGameTime": true
+    }
+  ]
+}

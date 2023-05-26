@@ -1,0 +1,99 @@
+{
+  "id": 73514,
+  "type": "WQ",
+  "titleTextMapHash": 3231777087,
+  "descTextMapHash": 410403566,
+  "luaPath": "Actor/Quest/WQ73514",
+  "rewardIdList": [
+    173514
+  ],
+  "subQuests": [
+    {
+      "mainId": 73514,
+      "subId": 7351401,
+      "order": 2,
+      "descTextMapHash": 3558441356,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "30342"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    },
+    {
+      "mainId": 73514,
+      "subId": 7351402,
+      "order": 1,
+      "descTextMapHash": 4210537236,
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "Q7351301_N30342",
+          "5"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "guideLayer": "QUEST_GUIDE_LAYER_SCENE"
+      },
+      "finishExec": [],
+      "failExec": [],
+      "beginExec": []
+    }
+  ],
+  "talks": [
+    {
+      "id": 7351401,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [
+            "7351401",
+            "2"
+          ],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 735140101,
+      "npcId": [
+        30343,
+        30342
+      ],
+      "performCfg": "QuestDialogue/WQ/V3.6SandSworm/Q7351401",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 73514,
+      "prePerformCfg": "",
+      "forceNpcNotDestroy": true
+    }
+  ]
+}
