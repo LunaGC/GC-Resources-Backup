@@ -1,0 +1,147 @@
+{
+  "WaterAmber_Mist": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 100.0,
+        "attack": 10.0,
+        "isLockHP": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Mist",
+        "abilityName": "WaterAmber_Mist",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "CircleR3",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "checkInterval": 0.5,
+      "lifeTime": 25.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "SteamBangField": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 3.0,
+        "OBEFFBEFICB": 3.0
+      }
+    },
+    "combat": {
+      "property": {
+        "HP": 100.0,
+        "attack": 10.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SteamBangLoop",
+        "abilityName": "Test_SteamBangLoop",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "CircleR3",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "checkInterval": 0.5,
+      "lifeTime": 60.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "RainyCloud": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 9999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "die": {
+        "dieForceDisappearTime": 8.0,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Rain",
+        "abilityName": "Raining",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "WindAmberField": {
+    "$type": "ConfigGadget",
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "WindAmberField",
+        "abilityName": "WindAmberField",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "DDOEFBHBEPJ": {
+      "CAPPPCGOCIH": {
+        "$type": "GPFENCHGIDA",
+        "alias": "",
+        "velocity": 10.0,
+        "scale": 1.5,
+        "stayEffect": "Eff_Windfield_Stay",
+        "enterEffect": "Eff_Windfield_Enter"
+      },
+      "HGJJHLBEICG": ""
+    }
+  },
+  "WindAmberField_02": {
+    "$type": "ConfigGadget",
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "WindAmberField_02",
+        "abilityName": "WindAmberField_02",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "DDOEFBHBEPJ": {
+      "CAPPPCGOCIH": {
+        "$type": "GPFENCHGIDA",
+        "alias": "",
+        "velocity": 10.0,
+        "scale": 1.5,
+        "stayEffect": "Eff_Windfield_Stay",
+        "enterEffect": "Eff_Windfield_Enter"
+      },
+      "HGJJHLBEICG": ""
+    }
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "ActivityAbility_Kazuha_Decision_HealthValue",
+      "abilityMixins": [
+        {
+          "$type": "LocalAvatarsMixin",
+          "modifierName": "UNIQUE_Ability_Kazuha_Decision_HealthValue"
+        }
+      ],
+      "modifiers": {
+        "UNIQUE_Ability_Kazuha_Decision_HealthValue": {
+          "stacking": "Unique",
+          "modifierName": "",
+          "isUnique": true,
+          "bonusCritical": 100.0,
+          "modifierMixins": [
+            {
+              "$type": "DoActionByEventMixin",
+              "onEvent": "HP",
+              "predicates": [
+                {
+                  "$type": "MLPCNPAHGEK",
+                  "target": "Self",
+                  "logic": "LesserOrEqual",
+                  "KDHOFDIBFJM": 0.30000001192092896
+                }
+              ],
+              "actions": [
+                {
+                  "$type": "ServerLuaTriggerEvent",
+                  "cdDelta": true,
+                  "luaCallType": "SpecificGroup",
+                  "CallParamList": [201071002],
+                  "DFNADBGJCJE": "Kazuha_Room3",
+                  "FDPBPIHKEGH": 0.0,
+                  "FJCBPCIDMGJ": 0.0,
+                  "NDCPJDDPIMD": 0.0
+                }
+              ],
+              "ABJEBBFHGOI": ""
+            }
+          ],
+          "state": "Limbo"
+        }
+      },
+      "isDynamicAbility": true
+    }
+  }
+]

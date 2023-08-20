@@ -1,0 +1,1985 @@
+{
+  "Fungus_Un_Gamma_Water_BulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bubble_Loop",
+        "abilityName": "Fungus_Un_Gamma_Water_BulletNormal_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bubble_Explode",
+        "abilityName": "Fungus_Un_Gamma_Water_BulletNormal_Explode",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bubble_Surround",
+        "abilityName": "Fungus_Un_Gamma_Water_BulletNormal_Surround",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.800000190734863,
+      "NDLHJKADBGC": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "All"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Gamma_Water_BulletNormal_Surround"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Gamma_Water_BulletNormal_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Gamma_Water_BulletOverdose": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Gamma_Water_BulletOverdose_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Gamma_Water_BulletOverdose_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.800000190734863,
+      "NDLHJKADBGC": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "All"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Gamma_Water_BulletOverdose_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Gamma_Water_BulletOverdose_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Delta_Grass_BulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Grass_BulletNormal_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Grass_BulletNormal_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 30.0,
+      "EPLFGAAFNIM": 10.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 1.5,
+        "DNOPAINEKPG": 15.0,
+        "minSpeed": 2.0,
+        "maxSpeed": 24.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Grass_BulletNormal_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Grass_BulletNormal_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Delta_Grass_BulletDecayed": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 30.0,
+      "EPLFGAAFNIM": 5.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 1.5,
+        "DNOPAINEKPG": 15.0,
+        "minSpeed": 2.0,
+        "maxSpeed": 24.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Delta_Grass_BulletDecayedRaptorSummon": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 12.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 7.5,
+      "NDLHJKADBGC": 270.0,
+      "EILJBCHMAIH": -10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NIMNPPDBKIH": 1.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Grass_BulletDecayed_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Delta_Wind_BulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Wind_BulletNormal_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Wind_BulletNormal_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 6.5,
+      "NDLHJKADBGC": 0.0,
+      "EILJBCHMAIH": -10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NIMNPPDBKIH": 0.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Wind_BulletNormal_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Wind_BulletNormal_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Delta_Wind_BulletDecayed": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Wind_BulletDecayed_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_Delta_Wind_BulletDecayed_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.800000190734863,
+      "NDLHJKADBGC": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Wind_BulletDecayed_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_Delta_Wind_BulletDecayed_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Deux_Epsilon_Wind_BulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Epsilon_Wind_BulletNormal_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Epsilon_Wind_BulletNormal_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.800000190734863,
+      "NDLHJKADBGC": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Epsilon_Wind_BulletNormal_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Epsilon_Wind_BulletNormal_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Deux_Epsilon_Wind_BulletDecayed": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Epsilon_Wind_BulletDecayed_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Epsilon_Wind_BulletDecayed_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.800000190734863,
+      "NDLHJKADBGC": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Epsilon_Wind_BulletDecayed_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Epsilon_Wind_BulletDecayed_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Deux_Delta_Electric_BulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Delta_Electric_BulletNormal_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Delta_Electric_BulletNormal_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.4000000953674316
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 12.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 4.0,
+      "NDLHJKADBGC": 15.0,
+      "EILJBCHMAIH": -9.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "ELPLIOJMJND": 180.0,
+      "NNDCMFPMIFK": 0.10000000149011612,
+      "JKPFKNHDNKE": 180.0,
+      "NIMNPPDBKIH": 1.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Delta_Electric_BulletNormal_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Delta_Electric_BulletNormal_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Deux_Delta_Electric_BulletDecayed": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Delta_Electric_BulletDecayed_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_Delta_Electric_BulletDecayed_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 2.0,
+      "NDLHJKADBGC": 30.0,
+      "EILJBCHMAIH": -6.670000076293945,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.15000000596046448,
+      "JKPFKNHDNKE": 165.0,
+      "NIMNPPDBKIH": 0.6000000238418579
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Delta_Electric_BulletDecayed_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_Delta_Electric_BulletDecayed_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletNormal",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 16.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 6.0,
+      "NDLHJKADBGC": 540.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NIMNPPDBKIH": 0.800000011920929
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletNormal"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletNormal"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletDecay": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletDecay",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 12.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 6.0,
+      "NDLHJKADBGC": 480.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NIMNPPDBKIH": 0.8999999761581421
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletDecay"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_ShootBulletDecay"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletNormal",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 0.5,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": -30.0,
+      "EPLFGAAFNIM": 72.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.5,
+        "minSpeed": 0.05000000074505806
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletNormal"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletNormal"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletDecay": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletDecay",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 0.5,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": -30.0,
+      "EPLFGAAFNIM": 72.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.5,
+        "minSpeed": 0.05000000074505806
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletDecay"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Unu_Anudatta_Grass_DiveBombingBulletDecay"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Du_Anudatta_Water_ShootBulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_ShootBulletNormal",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 16.0,
+      "maxSpeed": 16.0,
+      "minSpeed": 9.0,
+      "NDLHJKADBGC": 240.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NIMNPPDBKIH": 1.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_ShootBulletNormal"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_ShootBulletNormal"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Du_Anudatta_Water_ShootBulletDecay": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_ShootBulletDecay",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 7.0,
+      "maxSpeed": 20.0,
+      "minSpeed": 6.0,
+      "NDLHJKADBGC": 240.0,
+      "EILJBCHMAIH": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NIMNPPDBKIH": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_ShootBulletDecay"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_ShootBulletDecay"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletNormal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletNormal",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 16.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 4.0,
+      "NDLHJKADBGC": 540.0,
+      "EILJBCHMAIH": -9.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.20000000298023224,
+      "NIMNPPDBKIH": 2.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletNormal"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletNormal"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 12.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 3.0,
+      "NDLHJKADBGC": 540.0,
+      "EILJBCHMAIH": -6.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.20000000298023224,
+      "NIMNPPDBKIH": 2.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Raptor_01_ShootAttackBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_ShootAttack_Bullet_01"
+      }
+    }
+  },
+  "Fungus_Raptor_01_ShootAttackBullet02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_ShootAttack_Bullet_02"
+      }
+    }
+  },
+  "Fungus_Raptor_01_ShootAttackBullet03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_ShootAttack_Bullet_03"
+      }
+    }
+  },
+  "Fungus_Raptor_01_ShootAttackBullet01_Boost": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_ShootAttack_Boost_Bullet_01"
+      }
+    }
+  },
+  "Fungus_Raptor_01_ShootAttackBullet02_Boost": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_ShootAttack_Boost_Bullet_02"
+      }
+    }
+  },
+  "Fungus_Raptor_01_ShootAttackBullet03_Boost": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_ShootAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_ShootAttack_Boost_Bullet_03"
+      }
+    }
+  },
+  "Fungus_Raptor_01_PowerAttackBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_PowerAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD"
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_PowerAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_PowerAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Raptor_PowerAttack_Bullet"
+      }
+    }
+  },
+  "Fungus_Raptor_01_SummonAttackBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_SummonAttackBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 8.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 60.0,
+      "EPLFGAAFNIM": 24.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.5,
+        "minSpeed": 8.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_SummonAttackBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Fungus_Raptor_01_SummonAttackBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Raptor_01_SummonAttackBullet_OnGround": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Fungus_Raptor_01_SummonAttackBullet_OnGround",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  }
+}

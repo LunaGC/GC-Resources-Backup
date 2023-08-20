@@ -1,0 +1,885 @@
+{
+  "Chrysopelea_Attack01_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Attack01_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 6.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 20.0,
+      "minSpeed": 10.0,
+      "NDLHJKADBGC": 200.0,
+      "EILJBCHMAIH": 1.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "OMOOMFFGALI": false,
+      "NIMNPPDBKIH": 0.20000000298023224
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Attack01_Bullet"
+        }
+      ]
+    }
+  },
+  "Chrysopelea_Sacred_Attack01_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_AnimalAttack01_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 8.0,
+      "maxSpeed": 16.0,
+      "minSpeed": 5.0,
+      "NDLHJKADBGC": 0.0,
+      "EILJBCHMAIH": 1.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 99.0,
+      "OMOOMFFGALI": false,
+      "NIMNPPDBKIH": 0.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_AnimalAttack01_Bullet"
+        }
+      ]
+    }
+  },
+  "Chrysopelea_Sacred_Attack01_WindZone": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "WindArea",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack01_WindZone",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "HCBLOAEFFEC": true
+  },
+  "Chrysopelea_Sacred_Attack02_WindBlade": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "JLOMBNMJCLL": {
+        "radius": 0.30000001192092896
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 6.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Chrysopelea_Sacred_SacredAttack02_WindBlade"
+      }
+    },
+    "CMHHEBDAAND": true
+  },
+  "Chrysopelea_Sacred_Attack02_WindBlade02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "JLOMBNMJCLL": {
+        "radius": 0.30000001192092896
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 6.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Chrysopelea_Sacred_SacredAttack02_WindBlade02"
+      }
+    }
+  },
+  "Chrysopelea_Sacred_Attack02_WindBlade03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "JLOMBNMJCLL": {
+        "radius": 0.30000001192092896
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 6.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack02_WindBlade"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Chrysopelea_Sacred_SacredAttack02_WindBlade03"
+      }
+    }
+  },
+  "Chrysopelea_Sacred_Attack04_WindZone": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "WindArea",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack04_WindZone",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "HCBLOAEFFEC": true
+  },
+  "Chrysopelea_Sacred_Attack05_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack05_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 4.0,
+      "maxSpeed": 12.0,
+      "minSpeed": 4.0,
+      "NDLHJKADBGC": 240.0,
+      "EILJBCHMAIH": 3.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.20000000298023224,
+      "OMOOMFFGALI": false,
+      "NIMNPPDBKIH": 1.7999999523162842
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack05_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack05_Bullet"
+        }
+      ]
+    }
+  },
+  "Chrysopelea_Sacred_Attack05_WindBlade": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_Attack05_WindBlade",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 25.0,
+      "maxSpeed": 40.0,
+      "EILJBCHMAIH": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_Attack05_WindBlade"
+        }
+      ]
+    }
+  },
+  "Chrysopelea_Sacred_SacredEnergy_Detect": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Create",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_CreateO",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.10000000149011612
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 40.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Create"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_CreateO"
+        }
+      ]
+    }
+  },
+  "Chrysopelea_Sacred_SacredEnergy_Accum": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "JLOMBNMJCLL": {}
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Accum",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CBDOHADLMPD",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "CJFAOCEMMFK",
+      "collision": {
+        "ignoreScene": true
+      },
+      "GOMGCHKCHKI": true,
+      "DPNINCLDJBF": {
+        "$type": "ELMJDPBOJFP",
+        "healLimitedByCasterMaxHPRatio": "Eff_Monster_Chrysopelea_Sacred_SacredAttack05_SacredEnergy_Bullet"
+      }
+    }
+  },
+  "Chrysopelea_Sacred_SacredEnergy_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "specialPoint": {
+      "elementAbsorb": "RootNode",
+      "elementPendant": "",
+      "elementDrop": "RootNode",
+      "bulletAim": "BulletAimPoint",
+      "hitPoints": ["BulletAimPoint"],
+      "selectedPoints": ["BulletAimPoint"]
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Avatar&Monster_Lv4"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    },
+    "billboard": {
+      "$type": "HFEGKLAIGGI",
+      "IIKEHINGEME": "BillboardAttach",
+      "HECLHMINJII": 3.0,
+      "showDistance": 48.0,
+      "DMHOOGGGDKG": true,
+      "KAJOCAAOIFN": 48.0,
+      "size": "Grand",
+      "GFHHHAEBHHL": true
+    }
+  },
+  "Chrysopelea_Sacred_SacredEnergy_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 7.5
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 20.0,
+      "EILJBCHMAIH": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.6000000238418579,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerAlways",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Bullet"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType"]
+      },
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 20.0,
+      "EILJBCHMAIH": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.4000000059604645,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "AllExceptSelf",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  }
+}

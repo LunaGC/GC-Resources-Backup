@@ -1,0 +1,406 @@
+[
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_Wind_Bullet_Trigger",
+      "abilityMixins": [
+        {
+          "$type": "AttachToAnimatorStateIDMixin",
+          "stateIDs": ["WindBullet"],
+          "modifierName": "WindBullet_VFX_Display"
+        },
+        {
+          "$type": "SteerAttackMixin",
+          "steerStateIDs": ["NormalAttack"],
+          "angularSpeed": 180.0,
+          "attackTrigger": ""
+        }
+      ],
+      "modifiers": {
+        "WindBullet_VFX_Display": {
+          "modifierName": "",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Epsilon_Wind_SpinningFanNormal_Loop",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAbilityStart": [
+        {
+          "$type": "TriggerBullet",
+          "bulletID": 42609012,
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "attachPointName": "BulletSource",
+            "BKOJLOPLKJE": "Self"
+          }
+        },
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Epsilon_Wind_SpinningFanNormal_Attack",
+          "effectTempleteID": -1.0
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_Wind_Bullet",
+      "modifiers": {
+        "Fungus_Deux_BVB_Wind_Bullet_Display": {
+          "modifierName": "",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Epsilon_Wind_SpinningFan_BulletNormal",
+              "effectTempleteID": -1.0
+            },
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Epsilon_Wind_SpinningFan_BulletNormal_Trail",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "ApplyModifier",
+          "modifierName": "Fungus_Deux_BVB_Wind_Bullet_Display"
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Epsilon_Wind_SpinningFan_HitNormal",
+          "effectTempleteID": -1.0
+        },
+        {
+          "$type": "TriggerAttackEvent",
+          "attackEvent": {
+            "attackPattern": {
+              "$type": "ConfigAttackSphere",
+              "triggerType": "TriggerNoRepeat",
+              "born": {
+                "$type": "ConfigBornByCollisionPoint"
+              },
+              "radius": 1.0
+            },
+            "attackInfo": {
+              "attackTag": "",
+              "attenuationTag": "Wind_Bullet_2",
+              "attenuationGroup": "FungusFight_General",
+              "attackProperty": {
+                "damagePercentage": 1.2400000095367432,
+                "damagePercentageRatio": 0.0,
+                "elementType": "Wind",
+                "bonusCritical": 25.0,
+                "FKGFPFNOJMN": 0.0
+              },
+              "hitPattern": {
+                "onHitEffectName": "default",
+                "hitImpulseType": "LV2"
+              },
+              "canBeModifiedBy": "Owner"
+            }
+          },
+          "targetType": "Enemy"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_Wind_OverdoseBullet_Trigger",
+      "onAbilityStart": [
+        {
+          "$type": "TriggerBullet",
+          "bulletID": 42609025,
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "attachPointName": "FirePoint_01"
+          }
+        },
+        {
+          "$type": "TriggerBullet",
+          "bulletID": 42609025,
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "attachPointName": "FirePoint_02"
+          }
+        },
+        {
+          "$type": "TriggerBullet",
+          "bulletID": 42609025,
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "attachPointName": "FirePoint_03"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_Wind_OverdoseBullet",
+      "modifiers": {
+        "Fungus_Deux_BVB_OverdoseBullet_Display": {
+          "modifierName": "",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Wind_OverdoseBullet",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "ApplyModifier",
+          "modifierName": "Fungus_Deux_BVB_OverdoseBullet_Display"
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Epsilon_Wind_SpinningFan_HitNormal",
+          "effectTempleteID": -1.0
+        },
+        {
+          "$type": "TriggerAttackEvent",
+          "attackEvent": {
+            "attackPattern": {
+              "$type": "ConfigAttackSphere",
+              "triggerType": "TriggerNoRepeat",
+              "born": {
+                "$type": "ConfigBornByCollisionPoint"
+              },
+              "radius": 1.0
+            },
+            "attackInfo": {
+              "attackTag": "",
+              "attenuationTag": "OverdoseBullet",
+              "attenuationGroup": "FungusFightV2_Seq2",
+              "attackProperty": {
+                "damagePercentage": 0.5,
+                "damagePercentageRatio": 0.0,
+                "elementType": "Wind",
+                "bonusCritical": 25.0,
+                "enBreak": 15.0,
+                "attackType": "Range",
+                "FKGFPFNOJMN": 0.0
+              },
+              "hitPattern": {
+                "onHitEffectName": "default",
+                "hitImpulseType": "LV1"
+              },
+              "canBeModifiedBy": "Owner"
+            }
+          },
+          "targetType": "Enemy"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_HealingWaving",
+      "abilityMixins": [
+        {
+          "$type": "DoActionByStateIDMixin",
+          "stateIDs": ["UnionBurst"],
+          "exitActions": [
+            {
+              "$type": "ClearAIManualCommand"
+            }
+          ]
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "CreateGadget",
+          "otherTargets": {
+            "$type": "SelectTargetsByShape",
+            "topLimit": 1,
+            "sortType": "LowHpRatio",
+            "shapeName": "CircleR30H10",
+            "campTargetType": "SelfCamp",
+            "OBHNBNDMPFN": 1.0
+          },
+          "born": {
+            "$type": "ConfigBornByTarget",
+            "CJKCLAIPMHH": true
+          },
+          "BNCFPGNKKPA": true,
+          "gadgetID": 42609029
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_HealingWaving_Gadget",
+      "modifiers": {
+        "HealingWavingStates": {
+          "modifierName": "",
+          "duration": 3.0999999046325684,
+          "bonusCritical": 100.0,
+          "thinkInterval": 0.75,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Wind_HealingWaving_Loop",
+              "effectTempleteID": -1.0
+            }
+          ],
+          "onThinkInterval": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Wind_HealingWaving",
+              "effectTempleteID": -1.0
+            },
+            {
+              "$type": "ApplyModifier",
+              "otherTargets": {
+                "$type": "SelectTargetsByShape",
+                "shapeName": "CircleR5H4",
+                "campTargetType": "SelfCamp",
+                "OBHNBNDMPFN": 1.0
+              },
+              "predicates": [
+                {
+                  "$type": "ByEntityTypes",
+                  "entityTypes": ["Monster", "Partner"]
+                }
+              ],
+              "modifierName": "HealingWaving_HealEffect"
+            }
+          ]
+        },
+        "HealingWaving_HealEffect": {
+          "modifierName": "",
+          "duration": 0.20000000298023224,
+          "elementType": "Wind",
+          "bonusCritical": 50.0,
+          "onAdded": [
+            {
+              "$type": "HealHP",
+              "GGLMMJHNGMO": 0.125
+            },
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Wind_HealFx",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "ApplyModifier",
+          "modifierName": "HealingWavingStates"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_Passive_SpeedUp",
+      "modifiers": {
+        "Passive_SpeedUp_Handler": {
+          "modifierName": "",
+          "bonusCritical": 100.0,
+          "thinkInterval": 3.0,
+          "onThinkInterval": [
+            {
+              "$type": "ApplyModifier",
+              "otherTargets": {
+                "$type": "SelectTargetsByShape",
+                "shapeName": "CircleR20",
+                "campTargetType": "SelfCamp",
+                "OBHNBNDMPFN": 1.0
+              },
+              "predicates": [
+                {
+                  "$type": "ByEntityTypes",
+                  "entityTypes": ["Monster", "Partner"]
+                }
+              ],
+              "modifierName": "SpeedUp_Modifier"
+            }
+          ]
+        },
+        "SpeedUp_Modifier": {
+          "modifierName": "",
+          "duration": 3.5,
+          "bonusCritical": 100.0,
+          "properties": {
+            "Animator_MoveSpeedRatio": 0.15000000596046448,
+            "Actor_ElemMasteryDelta": 50.0
+          }
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "ApplyModifier",
+          "modifierName": "Passive_SpeedUp_Handler"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Deux_BVB_HealingWind",
+      "modifiers": {
+        "HealingWind_Modifier": {
+          "modifierName": "",
+          "duration": 0.20000000298023224,
+          "elementType": "Wind",
+          "bonusCritical": 50.0,
+          "onAdded": [
+            {
+              "$type": "HealHP",
+              "GMFELAKANEF": 1.0
+            },
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Wind_HealFx",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAbilityStart": [
+        {
+          "$type": "ApplyModifier",
+          "otherTargets": {
+            "$type": "SelectTargetsByShape",
+            "shapeName": "CircleR8H3",
+            "campTargetType": "SelfCamp",
+            "OBHNBNDMPFN": 1.0
+          },
+          "modifierName": "HealingWind_Modifier"
+        },
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Deux_Wind_HealingWind",
+          "effectTempleteID": -1.0
+        }
+      ]
+    }
+  }
+]

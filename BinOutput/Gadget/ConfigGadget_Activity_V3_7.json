@@ -1,0 +1,100 @@
+{
+  "SceneObj_Level_Common_Property_Ani_Prop_MuqadasPotionV2_01": {
+    "$type": "ConfigGadget",
+    "model": {
+      "bornEffect": "",
+      "attachEffect": "Eff_Gear_ElementDungeon_Operator"
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 200.0,
+        "weight": 50.0,
+        "isLockHP": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Level_Common_Property_Ani_Prop_MuqadasPotionV2_TeamChange_01",
+        "abilityName": "SceneObj_Level_Common_Property_Ani_Prop_MuqadasPotionV2_TeamChange_01",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SceneObj_Level_Common_Property_Ani_Prop_MuqadasPotionV2_01_Intee",
+        "abilityName": "SceneObj_Level_Common_Property_Ani_Prop_MuqadasPotionV2_01_Intee",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_ACTIVITY_MUQADAS_DUNGEON_START_PLAY_BUTTON",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": [
+        "SceneObj_Level_Common_Property_Ani_Prop_MuqadasPotionV2_01_Intee"
+      ],
+      "OAJHCMOLIDM": ["HOST"],
+      "icon": "UI_Icon_Intee_Mechanism",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false,
+      "DMHNDDKOKNF": [
+        {
+          "HMPMMCCGOLJ": "UI/open_MuqadasPotionV2_team_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_MUQADAS_DUNGEON_TEAM_CHANGE_BUTTON",
+          "OAJHCMOLIDM": ["HOST"],
+          "icon": "UI_Icon_Intee_Mechanism",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "JDMENBLJFGP": 2
+        }
+      ]
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "FHCNELPNCPL",
+          "intID": "gadgetState",
+          "EBNFFBOBCHB": true
+        },
+        {
+          "$type": "DLMIEELFJNB",
+          "parameter": "gadgetState",
+          "type": "Int",
+          "healLimitedByCasterMaxHPRatio": "Eff_Gear_ElementDungeon_Operator"
+        },
+        {
+          "$type": "DLMIEELFJNB",
+          "GEBLEANKIHJ": "GearStop",
+          "parameter": "gadgetState",
+          "type": "Int",
+          "value": 202,
+          "healLimitedByCasterMaxHPRatio": "Eff_Gear_ElementDungeon_Operator"
+        },
+        {
+          "$type": "COKKJJJPMOP",
+          "enable": true
+        },
+        {
+          "$type": "COKKJJJPMOP",
+          "GEBLEANKIHJ": "GearStop"
+        }
+      ]
+    }
+  }
+}

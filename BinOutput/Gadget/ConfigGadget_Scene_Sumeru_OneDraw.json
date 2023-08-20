@@ -1,0 +1,172 @@
+{
+  "SceneObj_Area_Xm_Property_Ani_Flower_PlantDrawStart_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Area_Xm_Property_Ani_Flower_PlantDrawStart_01_Ability",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Scene_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "CombatExcludeGWGO",
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "lifeInfinite": true,
+      "overwriteCampType": true,
+      "campType": "All",
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "FHCNELPNCPL",
+          "intID": "GadgetState",
+          "EBNFFBOBCHB": true
+        }
+      ]
+    }
+  },
+  "SceneObj_Area_Xm_Property_Ani_Flower_PlantDraw_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Area_Xm_Property_Ani_Flower_PlantDraw_01_Ability",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Scene_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "CombatExcludeGWGO",
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "lifeInfinite": true,
+      "overwriteCampType": true,
+      "campType": "All",
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "FHCNELPNCPL",
+          "intID": "GadgetState",
+          "EBNFFBOBCHB": true
+        }
+      ]
+    }
+  },
+  "SceneObj_Area_Xm_Property_Ani_Flower_PlantDrawTree_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Area_Xm_Property_Ani_Flower_PlantDrawTree_01_Ability",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Scene_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_VANASARA_GARDEN_BUTTON",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": [
+        "SceneObj_Area_Xm_Property_Ani_Flower_PlantDrawTree_01_Ability"
+      ],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "JEMDHNLFOGF": {}
+  },
+  "SceneObj_Area_Xm_Property_Unique_PlantDraw_02": {
+    "$type": "ConfigGadget",
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Area_Xm_Property_Unique_PlantDraw_02_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "FHCNELPNCPL",
+          "intID": "gadgetState",
+          "EBNFFBOBCHB": true
+        }
+      ]
+    }
+  },
+  "SceneObj_Area_Xm_Property_Ani_Prop_Whiteballet_01_Special": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Area_Xm_Property_Ani_Prop_Whiteballet_01_Special_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "DDOEFBHBEPJ": {
+      "PKABANPMJCL": {
+        "EHGGNLFEJLK": "Select",
+        "DALPHLBLMHD": true,
+        "bornEffect": "",
+        "HBAJPKPHOMN": "",
+        "DKDLKFDICEM": ""
+      },
+      "HGJJHLBEICG": ""
+    },
+    "KOBGNKGMHNB": true
+  },
+  "SceneObj_Area_Xm_Property_Ani_Prop_XmFarm_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Area_Xm_Property_Ani_Prop_XmFarm_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "icon": "UI_Icon_Intee_PickUp",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    }
+  }
+}

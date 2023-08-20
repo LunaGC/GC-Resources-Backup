@@ -1,0 +1,172 @@
+{
+  "Zhongli_Attack05": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Humanoid",
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SkillObj_Zhongli_Attack05",
+        "abilityName": "SkillObj_Zhongli_Attack05",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 10.0,
+      "EILJBCHMAIH": -20.0,
+      "CAMKOAKMJHD": 0.20000000298023224
+    }
+  },
+  "Zhongli_PrimoPillar": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "NLACBIBNJHF": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Humanoid",
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "die": {
+        "dieDisappearEffect": "Eff_Avatar_Male_Pole_Zhongli_RockStand_Die"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SkillObj_Zhongli_PrimoPillar",
+        "abilityName": "SkillObj_Zhongli_PrimoPillar",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "RockGadget_Summon_Detect",
+        "abilityName": "Avatar_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "WeightRatio",
+        "abilityName": "RocketGadget_WeightRatio",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Avatar_RockGadget_KillByBlunt",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 31.0
+    }
+  },
+  "Zhongli_ExtraAttack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Humanoid",
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SkillObj_Zhongli_ExtraAttack",
+        "abilityName": "SkillObj_Zhongli_ExtraAttack",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.6499999761581421
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "IIKEHINGEME": "",
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "SkillObj_Zhongli_ExtraAttack"
+        }
+      ]
+    }
+  }
+}

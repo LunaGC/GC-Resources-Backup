@@ -1,0 +1,228 @@
+{
+  "SceneObj_Area_Common_Property_Ani_Prop_ActivityTCG_MarkStand_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 5000.0,
+        "attack": 200.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Area_Common_Property_Ani_Prop_ActivityTCG_MarkStand_01",
+        "abilityName": "SceneObj_Area_Common_Property_Ani_Prop_ActivityTCG_MarkStand_01",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Scene_RockGadget_Summon_Detect",
+        "abilityName": "Scene_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "DMHNDDKOKNF": [
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_JourneyMarkStand",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYSEAL_GETSEAL",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"]
+        }
+      ]
+    },
+    "DDOEFBHBEPJ": {
+      "HGJJHLBEICG": "",
+      "FFOEBPMCBBD": true,
+      "DBICELFDFNF": true
+    },
+    "KOBGNKGMHNB": true,
+    "billboard": {
+      "$type": "IGPCHEKDONM",
+      "IIKEHINGEME": "BillboardAttach",
+      "offset": {
+        "y": 1.649999976158142
+      },
+      "BOPCCJGKOLO": true
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Area_Common_Property_Ani_Prop_Billboard_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 5000.0,
+        "attack": 200.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Area_Common_Property_Ani_Prop_Billboard_01",
+        "abilityName": "SceneObj_Area_Common_Property_Ani_Prop_Billboard_01",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Scene_RockGadget_Summon_Detect",
+        "abilityName": "Scene_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "DMHNDDKOKNF": [
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT1",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"]
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT2",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 2
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT3",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 3
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT4",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 4
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT5",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 5
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT6",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 6
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT7",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 7
+        },
+        {
+          "HMPMMCCGOLJ": "UI/open_activity_journey_gear_game_page",
+          "LKBDFMKIHMA": "UI_ACTIVITY_JOURNEYGEAR_INTERACT8",
+          "FAHMLAAOOGH": "LOGIC_AND",
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "COGMLCDBEJL": ["HOST"],
+          "JDMENBLJFGP": 8
+        }
+      ]
+    },
+    "DDOEFBHBEPJ": {
+      "HGJJHLBEICG": "",
+      "FFOEBPMCBBD": true,
+      "DBICELFDFNF": true
+    },
+    "billboard": {
+      "$type": "IGPCHEKDONM",
+      "IIKEHINGEME": "BillboardAttach",
+      "offset": {
+        "y": 2.25
+      },
+      "BOPCCJGKOLO": true
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 2.0
+    }
+  }
+}

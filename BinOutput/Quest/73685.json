@@ -1,0 +1,31 @@
+{
+  "id": 73685,
+  "type": "WQ",
+  "titleTextMapHash": 2959886015,
+  "descTextMapHash": 464290622,
+  "luaPath": "",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 7368501,
+      "mainId": 73685,
+      "order": 1,
+      "descTextMapHash": 101402924,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ]
+}

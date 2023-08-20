@@ -1,0 +1,172 @@
+{
+  "id": 23029,
+  "type": "IQ",
+  "titleTextMapHash": 332443887,
+  "descTextMapHash": 15264758,
+  "luaPath": "Actor/Quest/IQ23029",
+  "subQuests": [
+    {
+      "subId": 2302901,
+      "mainId": 23029,
+      "order": 1,
+      "descTextMapHash": 2044661492,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 2302902,
+      "mainId": 23029,
+      "order": 2,
+      "descTextMapHash": 3482239500,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 2302903,
+      "mainId": 23029,
+      "order": 3,
+      "descTextMapHash": 3192965116,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 2302904,
+      "mainId": 23029,
+      "order": 4,
+      "descTextMapHash": 1031568724,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 2302901,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2302901", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230290101,
+      "npcId": [4178],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23029,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 2302902,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCondComb": "LOGIC_OR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2302902", "2"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2302903", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230290201,
+      "npcId": [4178],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23029,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 2302903,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2302903", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "npcId": [12690],
+      "performCfg": "QuestDialogue/IQ/Sumeru_23029/Q2302903",
+      "questId": 23029,
+      "prePerformCfg": "",
+      "enableCameraDisplacement": true
+    },
+    {
+      "id": 2302904,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2302904", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230290401,
+      "npcId": [4178],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23029,
+      "prePerformCfg": ""
+    }
+  ]
+}

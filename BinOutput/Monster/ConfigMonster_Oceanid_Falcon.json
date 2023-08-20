@@ -1,0 +1,338 @@
+{
+  "common": {
+    "effectAttachShape": {
+      "$type": "ConfigEffectAttachSkinnedMesh",
+      "mesh": "EffectMesh"
+    },
+    "mass": 999999.0,
+    "scale": 1.75
+  },
+  "model": {
+    "bornEffect": "Eff_Monster_Oceanid_AnimalBorn_Small",
+    "attachEffect": "",
+    "canBakeMesh": false
+  },
+  "dither": {
+    "showDitherDuration": 3.0
+  },
+  "globalValue": {
+    "serverGlobalValues": [
+      "SGV_MONSTERAFFIX_OCEANID_02_ANIMALHEAL_UP",
+      "SGV_MONSTERAFFIX_OCEANID_02_ANIMAL_DEATHEXPLODE"
+    ]
+  },
+  "combat": {
+    "property": {
+      "endureType": "Monster_Boss_Other",
+      "weight": 150.0
+    },
+    "beHit": {
+      "hitBloodEffect": ""
+    },
+    "combatLock": {
+      "lockShape": "CircleLockEnemy",
+      "lockType": "Avatar&Monster_Lv4"
+    },
+    "die": {
+      "hasAnimatorDie": true,
+      "dieEndTime": 2.0,
+      "dieForceDisappearTime": 5.0,
+      "dieDisappearEffect": "",
+      "PPBCINBCJBA": true,
+      "IBLGJHDEEMI": true,
+      "MPPPPECBCJL": true,
+      "JFGNMBLBJEO": true,
+      "NMDIGLHJOIH": true,
+      "HOFJPBPLDIJ": true
+    },
+    "animEvents": {
+      "DiveAtk": {
+        "attackPattern": {
+          "$type": "GGBJACPDDCM",
+          "triggerType": "TriggerNoRepeat",
+          "GJKNLOPNAMC": true,
+          "born": {
+            "$type": "ConfigBornBySelf",
+            "offset": {
+              "x": 0.0,
+              "y": 1.5,
+              "z": 0.0
+            }
+          },
+          "size": {
+            "x": 2.0,
+            "y": 3.0,
+            "z": 8.0
+          }
+        },
+        "attackInfo": {
+          "attackTag": "",
+          "attenuationTag": "",
+          "attenuationGroup": "default",
+          "attackProperty": {
+            "damagePercentage": 1.0,
+            "MKLAMNDEDGB": 0.0,
+            "elementType": "Water",
+            "bonusCritical": 50.0,
+            "strikeType": "Slash",
+            "enBreak": 200.0,
+            "attackType": "Melee",
+            "FKGFPFNOJMN": 0.0
+          },
+          "hitPattern": {
+            "onHitEffectName": "default",
+            "hitImpulseType": "LV5",
+            "retreatType": "ByHitDirection",
+            "canBeDefenceHalt": true
+          }
+        }
+      }
+    }
+  },
+  "abilities": [
+    {
+      "abilityID": "Monster_Oceanid_Falcon_ElementState",
+      "abilityName": "Monster_Oceanid_Falcon_ElementState",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Falcon_Dive",
+      "abilityName": "Monster_Oceanid_Falcon_Dive",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Common_WaterMuteHurt",
+      "abilityName": "Monster_Common_WaterMuteHurt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Animal_BeingHit",
+      "abilityName": "Monster_Oceanid_Animal_BeingHit",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Falcon_Die",
+      "abilityName": "Monster_Oceanid_Falcon_Die",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Falcon_Steer",
+      "abilityName": "Monster_Oceanid_Falcon_Steer",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "",
+      "abilityName": "Monster_Oceanid_Falcon_HealHp_Challenge",
+      "abilityOverride": ""
+    }
+  ],
+  "stateLayers": {
+    "defaultLayer": {
+      "$type": "ConfigNormalStateLayer",
+      "FNPGDAEJAPJ": "",
+      "stateIDs": {
+        "Born": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Born": []
+          },
+          "canDoSkill": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"],
+          "BKLKHCBEHNL": true
+        },
+        "NormalIdle": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Standby": ["Monster_Oceanid_Falcon_Standby"]
+          },
+          "canDoSkill": true,
+          "canSyncMove": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"],
+          "BHEPAJIOBDN": true,
+          "BKLKHCBEHNL": true
+        },
+        "NormalMove": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Walk": ["Monster_Oceanid_Falcon_Standby"]
+          },
+          "canDoSkill": true,
+          "canSyncMove": true,
+          "EBKFBAFIBPF": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"],
+          "BHEPAJIOBDN": true
+        },
+        "Die": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Die": ["Monster_Oceanid_Falcon_Die"]
+          }
+        },
+        "Dive": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Dive": [
+              "Monster_Oceanid_Falcon_Dive",
+              "Audio_Monster_Oceanid_Falcon_Dive"
+            ]
+          },
+          "canSyncMove": true,
+          "EBKFBAFIBPF": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "Alert": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Alert": []
+          },
+          "canDoSkill": true,
+          "resetAnimatorTriggerOnExit": ["BeHit", "DoSkill"]
+        }
+      }
+    }
+  },
+  "billboard": {
+    "$type": "NCBABGPMMPL",
+    "EBBHBMFMOGD": "BillboardAttach",
+    "BFOMIIKCOGI": "Character",
+    "ILBGGMJLJNG": 0.25,
+    "ANGKJBLILKJ": true,
+    "KAJOCAAOIFN": 50.0
+  },
+  "initialPoses": {
+    "Default": {}
+  },
+  "aibeta": {
+    "enable": true,
+    "moveSetting": {
+      "moveCategory": "Amphibious",
+      "useNavMesh": false,
+      "navMeshAgentName": "Undead01"
+    },
+    "sensing": {
+      "settings": {
+        "DefaultSetting": {
+          "feelRange": 50.0
+        },
+        "SpecialLowAlert": {
+          "feelRange": 8.0
+        },
+        "OnlyHitAlert": {
+          "viewRange": 0.0,
+          "hearAttractionRange": 0.0,
+          "feelRange": 0.0,
+          "sourcelessHitAttractionRange": 30.0
+        }
+      },
+      "templates": {
+        "DefaultTemplate": {
+          "DefaultPoses": "DefaultSetting"
+        },
+        "LowAlertTemplate": {
+          "DefaultPoses": "SpecialLowAlert"
+        },
+        "OnlyHitTemplate": {
+          "DefaultPoses": "OnlyHitAlert"
+        }
+      }
+    },
+    "threat": {
+      "threatDecreaseSpeed": 100.0,
+      "viewAttenuation": [
+        {
+          "x": 10.0,
+          "y": 2.0
+        },
+        {
+          "x": 15.0,
+          "y": 1.25
+        },
+        {
+          "x": 20.0,
+          "y": 0.5
+        }
+      ]
+    },
+    "defendArea": {
+      "defendRange": 50.0
+    },
+    "skills": {
+      "1": {
+        "name": "OnAlert",
+        "skillType": "OnAlert",
+        "publicCDGroup": "",
+        "ignoreGCD": true,
+        "triggerGCD": false,
+        "CLEPNIDJOLN": "",
+        "stateIDs": ["Alert"],
+        "flagTargetReachable": "10",
+        "flagSelfOnTemplateCollider": "01",
+        "flagSelfInZone": "10",
+        "flagTargetInZone": "11"
+      },
+      "201": {
+        "name": "Dive",
+        "castCondition": {
+          "pose": [101],
+          "pickRangeMax": 10.0
+        },
+        "cd": 6.5,
+        "cdUpperRange": 3.0,
+        "initialCD": 3.0,
+        "initialCDUpperRange": 5.0,
+        "publicCDGroup": "Oceanid_meleeAttack",
+        "CLEPNIDJOLN": "",
+        "stateIDs": ["Dive"],
+        "flagTargetReachable": "10",
+        "flagSelfOnTemplateCollider": "01",
+        "flagSelfInZone": "10",
+        "flagTargetInZone": "11"
+      }
+    },
+    "skillGCD": 3.0,
+    "combatFixedMoveTactic": [
+      {
+        "$type": "HLPBLIEBJLM",
+        "enable": true,
+        "condition": {
+          "pose": [101]
+        },
+        "defaultSetting": {
+          "speedLevel": 1,
+          "turnSpeedOverride": 1.5,
+          "GPKNKJPPCOM": 10.0,
+          "NDCHJGOOLCF": 99.0,
+          "FDNLEPNLLBP": 6.5,
+          "DANCMNIMNAM": 6.5,
+          "KLOEABKCIIP": 0,
+          "FCFLCFFJKLO": ""
+        }
+      },
+      {
+        "$type": "GJGILIGEJMO",
+        "enable": true,
+        "defaultSetting": {
+          "speedLevel": 1,
+          "FCFLCFFJKLO": "",
+          "BKCOJDIDEGN": ""
+        }
+      }
+    ]
+  },
+  "inputKeys": [
+    {
+      "keyID": 201,
+      "inputKeyCode": 257,
+      "abilityName": ""
+    }
+  ],
+  "move": {
+    "$type": "PLMNMICDOHN",
+    "EINCMKOBBEG": {
+      "muteAll": true
+    },
+    "NPDGPNFCOPI": false,
+    "COJFNGPJCCL": true,
+    "LPAKBBIADNC": "RootNode"
+  }
+}

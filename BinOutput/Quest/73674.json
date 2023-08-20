@@ -1,0 +1,166 @@
+{
+  "id": 73674,
+  "type": "WQ",
+  "titleTextMapHash": 542885727,
+  "descTextMapHash": 4050113054,
+  "luaPath": "Actor/Quest/WQ73674",
+  "rewardIdList": [173674],
+  "subQuests": [
+    {
+      "subId": 7367401,
+      "mainId": 73674,
+      "order": 2,
+      "descTextMapHash": 76408060,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7367402,
+      "mainId": 73674,
+      "order": 1,
+      "descTextMapHash": 4172068388,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7367403,
+      "mainId": 73674,
+      "order": 3,
+      "descTextMapHash": 872830820,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7367404,
+      "mainId": 73674,
+      "order": 4,
+      "descTextMapHash": 2634266356,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 7367401,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_A_AND_ETCOR",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367401", "2"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367402"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367402", "1"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367402", "2"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367402", "4"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 736740101,
+      "npcId": [30038],
+      "performCfg": "QuestDialogue/WQ/TreasureHunt_73674/Q7367401",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 73674,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 7367403,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_SINGLE",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367401", "2"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7367402", "3"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 736740301,
+      "npcId": [30038],
+      "performCfg": "QuestDialogue/WQ/TreasureHunt_73674/Q7367403",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 73674,
+      "prePerformCfg": ""
+    }
+  ]
+}

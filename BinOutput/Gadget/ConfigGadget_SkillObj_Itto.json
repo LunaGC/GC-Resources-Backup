@@ -1,0 +1,243 @@
+{
+  "Itto_ExtraAttack_Mask": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieEndTime": 0.5,
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Itto_ExtraAttack_Mask",
+        "abilityName": "Avatar_Itto_ExtraAttack_Mask",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "IIKEHINGEME": "CameraLook",
+      "ABIHJGPBBFD": true,
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "EMDHMEDHGPE": true,
+      "KEDHAOHPJKL": true,
+      "IHAJOCLBEOK": ""
+    },
+    "OIHHMAJFPGC": true
+  },
+  "Itto_ElementalArt_OniBull_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Itto_Gadget_OniBull_Bullet",
+        "abilityName": "Avatar_Itto_Gadget_OniBull_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 3.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Itto_Gadget_OniBull_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Itto_Gadget_OniBull_Bullet"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Itto_ElementalArt_OniBull": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "enableCrashDamage": false
+    },
+    "model": {
+      "bornEffect": "",
+      "attachEffect": "",
+      "hasCharacterRenderering": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Humanoid",
+        "useCreatorProperty": true,
+        "weight": 200.0
+      },
+      "beHit": {
+        "hitBloodEffect": ""
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Itto_Gadget_OniBull",
+        "abilityName": "Avatar_Itto_Gadget_OniBull",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "RockGadget_Summon_Detect",
+        "abilityName": "Avatar_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "WeightRatio",
+        "abilityName": "RocketGadget_WeightRatio",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Avatar_RockGadget_KillByBlunt",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "DCIFKLAJKKO",
+      "BGKIHCPJBMO": {
+        "includeForces": ["RetreatType", "RetreatAirType", "WindZoneType"]
+      },
+      "AMFFBBNONMK": true,
+      "CFHDGHAIHGP": true
+    },
+    "characterRendering": {
+      "ACMMGJPFNGP": 1
+    },
+    "HCBLOAEFFEC": true
+  },
+  "Itto_Symbol_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 20.0,
+      "maxSpeed": 40.0,
+      "minSpeed": 20.0,
+      "NDLHJKADBGC": 90.0,
+      "EILJBCHMAIH": 10.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "SelfCamp",
+        "ignoreScene": true,
+        "ignoreWater": true
+      }
+    }
+  }
+}

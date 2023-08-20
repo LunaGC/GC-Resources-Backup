@@ -1,0 +1,262 @@
+{
+  "common": {
+    "effectAttachShape": {
+      "$type": "ConfigEffectAttachSkinnedMesh",
+      "mesh": "EffectMesh"
+    },
+    "mass": 999999.0,
+    "viewSize": 1.5,
+    "scale": 15.0
+  },
+  "model": {
+    "bornEffect": "Eff_Monster_Oceanid_AnimalBorn",
+    "attachEffect": "",
+    "canBakeMesh": false
+  },
+  "dither": {
+    "showDitherDuration": 3.0
+  },
+  "combat": {
+    "property": {
+      "endureType": "Monster_Boss_Other",
+      "weight": 150.0
+    },
+    "beHit": {
+      "hitBloodEffect": ""
+    },
+    "combatLock": {
+      "lockShape": "CircleLockEnemy",
+      "lockType": "Avatar&Monster_Lv4"
+    },
+    "die": {
+      "hasAnimatorDie": true,
+      "dieEndTime": 2.0,
+      "dieForceDisappearTime": 5.0,
+      "dieDisappearEffect": "",
+      "PPBCINBCJBA": true,
+      "IBLGJHDEEMI": true,
+      "MPPPPECBCJL": true,
+      "JFGNMBLBJEO": true,
+      "NMDIGLHJOIH": true,
+      "HOFJPBPLDIJ": true
+    }
+  },
+  "abilities": [
+    {
+      "abilityID": "Monster_Oceanid_Crab_WaterBubble",
+      "abilityName": "Monster_Oceanid_Crab_WaterBubble",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Crab_ElementState",
+      "abilityName": "Monster_Oceanid_Crab_ElementState",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Common_WaterMuteHurt",
+      "abilityName": "Monster_Common_WaterMuteHurt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Crab_BeingHit",
+      "abilityName": "Monster_Oceanid_Crab_BeingHit",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Monster_Oceanid_Animal_Die",
+      "abilityName": "Monster_Oceanid_Animal_Die",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "",
+      "abilityName": "Monster_Oceanid_Affix_DeathExplode",
+      "abilityOverride": ""
+    }
+  ],
+  "stateLayers": {
+    "defaultLayer": {
+      "$type": "ConfigNormalStateLayer",
+      "FNPGDAEJAPJ": "",
+      "stateIDs": {
+        "Born": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Born": []
+          },
+          "canDoSkill": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "NormalIdle": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Standby": []
+          },
+          "canDoSkill": true,
+          "canSyncMove": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "NormalMove": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Walk": [],
+            "Walk_Mirror": []
+          },
+          "canDoSkill": true,
+          "canSyncMove": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"],
+          "BHEPAJIOBDN": true
+        },
+        "Die": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Die": ["Monster_Oceanid_Crab_Die"]
+          }
+        },
+        "Alert": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Alert": []
+          },
+          "canDoSkill": true,
+          "resetAnimatorTriggerOnExit": ["BeHit", "DoSkill"]
+        }
+      }
+    }
+  },
+  "billboard": {
+    "$type": "NCBABGPMMPL",
+    "EBBHBMFMOGD": "BillboardAttach",
+    "BFOMIIKCOGI": "Character",
+    "ILBGGMJLJNG": 0.25,
+    "ANGKJBLILKJ": true,
+    "KAJOCAAOIFN": 50.0,
+    "size": "Big"
+  },
+  "initialPoses": {
+    "Default": {},
+    "Free": {
+      "initialPoseID": 2,
+      "initialPoseParams": {
+        "boolParams": {
+          "Free": "true"
+        }
+      }
+    }
+  },
+  "aibeta": {
+    "enable": true,
+    "moveSetting": {
+      "moveCategory": "Amphibious",
+      "useNavMesh": false,
+      "navMeshAgentName": "Undead01"
+    },
+    "sensing": {
+      "settings": {
+        "DefaultSetting": {
+          "feelRange": 50.0
+        },
+        "LowAlert": {
+          "enableVision": false
+        },
+        "SpecialLowAlert": {
+          "feelRange": 8.0
+        },
+        "OnlyHitAlert": {
+          "viewRange": 0.0,
+          "hearAttractionRange": 0.0,
+          "feelRange": 0.0,
+          "sourcelessHitAttractionRange": 30.0
+        }
+      },
+      "templates": {
+        "DefaultTemplate": {
+          "DefaultPoses": "DefaultSetting",
+          "2": "LowAlert"
+        },
+        "LowAlertTemplate": {
+          "DefaultPoses": "SpecialLowAlert",
+          "2": "LowAlert"
+        },
+        "OnlyHitTemplate": {
+          "DefaultPoses": "OnlyHitAlert"
+        }
+      }
+    },
+    "threat": {
+      "feelThreatGrow": 100.0,
+      "threatDecreaseSpeed": 100.0,
+      "viewAttenuation": [
+        {
+          "x": 10.0,
+          "y": 2.0
+        },
+        {
+          "x": 15.0,
+          "y": 1.25
+        },
+        {
+          "x": 20.0,
+          "y": 0.5
+        }
+      ]
+    },
+    "defendArea": {
+      "defendRange": 50.0
+    },
+    "skillGCD": 3.0,
+    "combatFixedMoveTactic": [
+      {
+        "$type": "EEFPDALPGIL",
+        "enable": true,
+        "condition": {
+          "pose": [101]
+        },
+        "defaultSetting": {
+          "turnSpeedOverride": 2.5,
+          "NIJGPNINKNM": 3.0,
+          "LHCACPPFOLN": 7.5,
+          "IDOEJLAMAJO": 2.5,
+          "LJNLIKEPEOL": 5.0,
+          "restTimeMin": 1.5,
+          "restTimeMax": 2.5,
+          "OJKLLHFOCFN": 2.0
+        }
+      },
+      {
+        "$type": "GJGILIGEJMO",
+        "enable": true,
+        "defaultSetting": {
+          "speedLevel": 0,
+          "fadeoutBeginTime": 1.0,
+          "fadeoutEndTime": 3.0,
+          "FCFLCFFJKLO": "",
+          "BKCOJDIDEGN": ""
+        }
+      },
+      {
+        "$type": "IKIHDEMELGB",
+        "enable": true,
+        "condition": {
+          "pose": [2]
+        },
+        "defaultSetting": {
+          "HOKGJAONGHG": 3.0,
+          "GJOBDMEBGLM": 1.0,
+          "KDLAOJIPGHP": 10.0,
+          "OEFFOIEOJNC": 1.5,
+          "HAHMEDHEBKE": 3.0,
+          "FCFLCFFJKLO": ""
+        }
+      }
+    ]
+  },
+  "move": {
+    "$type": "PLMNMICDOHN",
+    "EINCMKOBBEG": {
+      "muteAll": true
+    },
+    "NPDGPNFCOPI": false,
+    "COJFNGPJCCL": true,
+    "LPAKBBIADNC": "RootNode"
+  }
+}

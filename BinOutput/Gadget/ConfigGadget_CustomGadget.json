@@ -1,0 +1,170 @@
+{
+  "SceneObj_Area_Common_Property_Prop_EmptyFloraShelve_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_BUTTON",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 1.7000000476837158
+        },
+        "slotMap": {
+          "FlowerShelf": {
+            "ENIEDKDAEGN": "FlowerShelf",
+            "KNLJNBLMLEP": 1000
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Area_Common_Property_Prop_SnowmanBody_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_SNOWMANBUTTON",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 1.7000000476837158
+        },
+        "slotMap": {
+          "Head": {
+            "ENIEDKDAEGN": "Head",
+            "KNLJNBLMLEP": 11
+          },
+          "Hand": {
+            "ENIEDKDAEGN": "Hand",
+            "KNLJNBLMLEP": 12
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Area_Dq_Property_Prop_Irodori_Miniascape_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_MINIASCAPE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 0.800000011920929
+        },
+        "slotMap": {
+          "FrontScene": {
+            "ENIEDKDAEGN": "FrontScene",
+            "KNLJNBLMLEP": 21
+          },
+          "BehindScene": {
+            "ENIEDKDAEGN": "BehindScene",
+            "KNLJNBLMLEP": 22
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.2000000476837158,
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01",
+        "abilityName": "SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "",
+      "OAJHCMOLIDM": ["HOST"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {},
+        "slotMap": {
+          "Body": {
+            "ENIEDKDAEGN": "Body",
+            "KNLJNBLMLEP": 1001
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5,
+      "OHLENMNOCCK": 3.0
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 73152,
+  "type": "WQ",
+  "titleTextMapHash": 1900446271,
+  "descTextMapHash": 1961131886,
+  "luaPath": "Actor/Quest/WQ73152",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 7315201,
+      "mainId": 73152,
+      "order": 1,
+      "descTextMapHash": 2013820236,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7315202,
+      "mainId": 73152,
+      "order": 2,
+      "descTextMapHash": 73502732,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ]
+}

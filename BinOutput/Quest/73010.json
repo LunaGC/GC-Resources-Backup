@@ -1,0 +1,100 @@
+{
+  "id": 73010,
+  "type": "WQ",
+  "titleTextMapHash": 709293199,
+  "descTextMapHash": 1357668382,
+  "luaPath": "Actor/Quest/WQ73010",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 7301001,
+      "mainId": 73010,
+      "order": 1,
+      "descTextMapHash": 3702764580,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7301002,
+      "mainId": 73010,
+      "order": 2,
+      "descTextMapHash": 1854954868,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7301003,
+      "mainId": 73010,
+      "order": 3,
+      "descTextMapHash": 1973378148,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 7301001,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7301002", "3"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7301003", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 730100101,
+      "npcId": [20903, 20904, 20905, 20906, 20907],
+      "performCfg": "QuestDialogue/WQ/Sumeru_73010/Q7301001",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 73010,
+      "prePerformCfg": ""
+    }
+  ]
+}

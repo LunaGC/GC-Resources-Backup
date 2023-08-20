@@ -1,0 +1,94 @@
+{
+  "id": 73172,
+  "type": "WQ",
+  "titleTextMapHash": 1658227959,
+  "descTextMapHash": 3411339262,
+  "luaPath": "Actor/Quest/WQ73172",
+  "showType": "QUEST_HIDDEN",
+  "rewardIdList": [210009],
+  "subQuests": [
+    {
+      "subId": 7317201,
+      "mainId": 73172,
+      "order": 1,
+      "descTextMapHash": 500044668,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7317202,
+      "mainId": 73172,
+      "order": 2,
+      "descTextMapHash": 2070864740,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7317203,
+      "mainId": 73172,
+      "order": 3,
+      "descTextMapHash": 2535150604,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 7317201,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7317202", "3"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 731720101,
+      "npcId": [20799],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 73172,
+      "prePerformCfg": ""
+    }
+  ]
+}

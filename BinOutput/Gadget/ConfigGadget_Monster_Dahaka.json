@@ -1,0 +1,1988 @@
+{
+  "Dahaka_Sting_Rock": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Rock_Hit",
+        "abilityName": "Dahaka_Sting_Rock_Hit",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Sting_Rock_Effect",
+        "abilityName": "Dahaka_Sting_Rock_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0,
+      "EILJBCHMAIH": 10.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Sting_Rock_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_Sting_Ice": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Ice_Hit",
+        "abilityName": "Dahaka_Sting_Ice_Hit",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Sting_Ice_Effect",
+        "abilityName": "Dahaka_Sting_Ice_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0,
+      "EILJBCHMAIH": 10.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Sting_Ice_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_Sting_Electric": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Electric_Hit",
+        "abilityName": "Dahaka_Sting_Electric_Hit",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Sting_Electric_Effect",
+        "abilityName": "Dahaka_Sting_Electric_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0,
+      "EILJBCHMAIH": 10.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Sting_Electric_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_Sting_Rock_Effect": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Rock_Effect",
+        "abilityName": "Dahaka_Sting_Rock_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 35.0
+    }
+  },
+  "Dahaka_Sting_Ice_Effect": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Ice_Effect",
+        "abilityName": "Dahaka_Sting_Ice_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 35.0
+    }
+  },
+  "Dahaka_Sting_Electric_Effect": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Electric_Effect",
+        "abilityName": "Dahaka_Sting_Electric_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 25.0
+    }
+  },
+  "Dahaka_Sting_Rock_Explode": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Rock_Explode",
+        "abilityName": "Dahaka_Sting_Rock_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "Dahaka_Sting_Ice_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Ice_Pos",
+        "abilityName": "Dahaka_Sting_Ice_Pos",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Sting_Ice_Explode",
+        "abilityName": "Dahaka_Sting_Ice_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Sting_Rock_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Rock_Pos",
+        "abilityName": "Dahaka_Sting_Rock_Pos",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Sting_Rock_Pos_CreateExplodeSting",
+        "abilityName": "Dahaka_Sting_Rock_Pos_CreateExplodeSting",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Sting_Electric_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sting_Electric_Pos",
+        "abilityName": "Dahaka_Sting_Electric_Pos",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Sting_Electirc_Explode",
+        "abilityName": "Dahaka_Sting_Electirc_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "Dahaka_SlamGround_Rock": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_SlamGround_Rock_Hit",
+        "abilityName": "Dahaka_SlamGround_Rock_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.550000011920929
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 40.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_SlamGround_Rock_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_SlamGround_Water_Fountain": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_SlamGround_Water_Fountain",
+        "abilityName": "Dahaka_SlamGround_Water_Fountain",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_SlamGround_Fire": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_SlamGround_Fire_Hit",
+        "abilityName": "Dahaka_SlamGround_Fire_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.550000011920929
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 40.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_SlamGround_Fire_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_Swim_Sting_Rock": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Roar_Meteor_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Roar_Meteor_Pos",
+        "abilityName": "Dahaka_Roar_Meteor_Pos",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_Meteor_Pos_CreateLava",
+        "abilityName": "Dahaka_Meteor_Pos_CreateLava",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Roar_Meteor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Meteor_Hit",
+        "abilityName": "Dahaka_Meteor_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Meteor_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_Roar_WaterBall_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Roar_WaterBall_Pos_CreateWaterBall",
+        "abilityName": "Dahaka_Roar_WaterBall_Pos_CreateWaterBall",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 40.0
+    }
+  },
+  "Dahaka_Roar_WaterBall": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_WaterBall_Hit",
+        "abilityName": "Dahaka_WaterBall_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 27.5
+    },
+    "move": {
+      "$type": "CPPNDCFKMLL",
+      "NOFDPFHMFNM": 5.0,
+      "NDLHJKADBGC": 360.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 2.0,
+      "radius": 17.5,
+      "LOFPGDFOCLJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_WaterBall_Hit"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Dahaka_Roar_WaterBall_Middle": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_WaterBall_Hit",
+        "abilityName": "Dahaka_WaterBall_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 27.5
+    },
+    "move": {
+      "$type": "CPPNDCFKMLL",
+      "NOFDPFHMFNM": 9.0,
+      "NDLHJKADBGC": 360.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 2.0,
+      "radius": 30.0,
+      "LOFPGDFOCLJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_WaterBall_Hit"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Dahaka_Roar_WaterBall_Far": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_WaterBall_Hit",
+        "abilityName": "Dahaka_WaterBall_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 27.5
+    },
+    "move": {
+      "$type": "CPPNDCFKMLL",
+      "NOFDPFHMFNM": 12.5,
+      "NDLHJKADBGC": 360.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 2.0,
+      "radius": 42.5,
+      "LOFPGDFOCLJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_WaterBall_Hit"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Dahaka_Lava": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Lava_Explode",
+        "abilityName": "Dahaka_Lava_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 7.5,
+      "IFJAOJKFNIK": 3.0,
+      "EPLFGAAFNIM": 15.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Lava_Explode"
+        }
+      ]
+    }
+  },
+  "Dahaka_FireArea": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_FireArea",
+        "abilityName": "Dahaka_FireArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 35.0
+    }
+  },
+  "Dahaka_WaterWave": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_WaterWave",
+        "abilityName": "Dahaka_WaterWave",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0,
+      "MLLDAINGCPD": {
+        "LDGCOFBNILL": 2.0,
+        "IDPIALMIAEG": 45.0,
+        "JPJMEPGMIBM": 0.5,
+        "EBNKPFBIDBP": 0.20000000298023224,
+        "FHFBJGOKDBP": "Keep",
+        "OMEEHJNLOMB": "Keep"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_WaterWave"
+        }
+      ]
+    }
+  },
+  "Dahaka_TrackWaterWave": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 3.5
+    }
+  },
+  "Dahaka_Icecone_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_CreateIceball",
+        "abilityName": "Dahaka_CreateIceball",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    }
+  },
+  "Dahaka_Icecone": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Icecone_Hit",
+        "abilityName": "Dahaka_Icecone_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 40.0,
+      "minSpeed": 10.0,
+      "NDLHJKADBGC": 720.0,
+      "EILJBCHMAIH": 15.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "ELPLIOJMJND": 240.0,
+      "NNDCMFPMIFK": 0.699999988079071,
+      "NIMNPPDBKIH": 0.6000000238418579
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Icecone_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_IceBall_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_CreateIcecone",
+        "abilityName": "Dahaka_CreateIcecone",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    },
+    "move": {
+      "$type": "DDKFBOMNHAJ",
+      "NOFDPFHMFNM": 4.0,
+      "NDLHJKADBGC": 720.0,
+      "CAMKOAKMJHD": 2.5,
+      "radius": 10.0,
+      "MPIHEFDEJPH": 45.0,
+      "FHNHGAMGOKE": 0.20000000298023224,
+      "HGJFIENGDNH": 0.5
+    }
+  },
+  "Dahaka_ElectricBall_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricBall_Pos",
+        "abilityName": "Dahaka_ElectricBall_Pos",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    }
+  },
+  "Dahaka_ElectricBall": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricBall_Hit",
+        "abilityName": "Dahaka_ElectricBall_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 60.0,
+      "EILJBCHMAIH": 20.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_ElectricBall_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_IceBlock_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_IceBlock_Pos",
+        "abilityName": "Dahaka_IceBlock_Pos",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Dahaka_IceBlock_Explode",
+        "abilityName": "Dahaka_IceBlock_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_IceBlock": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_IceBlock_Hit",
+        "abilityName": "Dahaka_IceBlock_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 40.0,
+      "EILJBCHMAIH": 10.0,
+      "CAMKOAKMJHD": 0.4000000059604645
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_IceBlock_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_ElectricNet_Pos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet_Pos",
+        "abilityName": "Dahaka_ElectricNet_Pos",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    }
+  },
+  "Dahaka_ElectricNet_Wave1": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet_Wave1",
+        "abilityName": "Dahaka_ElectricNet_Wave1",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_ElectricNet_Wave2": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet_Wave2",
+        "abilityName": "Dahaka_ElectricNet_Wave2",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_ElectricNet_Wave3": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet_Wave3",
+        "abilityName": "Dahaka_ElectricNet_Wave3",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_ElectricNet_Wave4": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet_Wave4",
+        "abilityName": "Dahaka_ElectricNet_Wave4",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_ElectricNet": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet",
+        "abilityName": "Dahaka_ElectricNet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_ElectricNet_Thunder": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ElectricNet",
+        "abilityName": "Dahaka_ElectricNet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "Dahaka_Sealed_Circle": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sealed_CircleEffect",
+        "abilityName": "Dahaka_Sealed_CircleEffect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 60.0
+    }
+  },
+  "Dahaka_Sealed_Circle_Quest": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Sealed_CircleEffect",
+        "abilityName": "Dahaka_Sealed_CircleEffect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 6.0
+    }
+  },
+  "Dahaka_BornAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Swim_RockArea": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Swim_RockArea",
+        "abilityName": "Dahaka_Swim_RockArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "Dahaka_Swim_RockFall": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Swim_RockFallHit",
+        "abilityName": "Dahaka_Swim_RockFallHit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0,
+      "EILJBCHMAIH": 10.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Swim_RockFallHit"
+        }
+      ]
+    }
+  },
+  "Dahaka_Crystal": {
+    "$type": "ConfigGadget",
+    "common": {
+      "disableTickDistance": 100000.0
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Crystal_ElementType",
+        "abilityName": "Dahaka_Crystal_ElementType",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true,
+      "lifeTime": 5.0
+    }
+  },
+  "Dahaka_Grub_Bullet": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "canTriggerBullet": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Boss_Lv5"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Grub_Hit",
+        "abilityName": "Dahaka_Grub_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "target": "TargetEntity",
+      "IIKEHINGEME": "RootNode",
+      "ABIHJGPBBFD": true,
+      "offset": {
+        "z": 5.0
+      },
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Grub_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_LockDummy": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "canTriggerBullet": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Boss_Lv5"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_LockDummy",
+        "abilityName": "Dahaka_LockDummy",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "target": "TargetEntity",
+      "IIKEHINGEME": "LockDummyAttachPoint",
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Dahaka_Swap_Bomb": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_IceBomb",
+        "abilityName": "Dahaka_IceBomb",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Swap_ChargePos": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_ChargePos",
+        "abilityName": "Dahaka_ChargePos",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Swap_Charge": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Charge_Hit",
+        "abilityName": "Dahaka_Charge_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "DDKFBOMNHAJ",
+      "BGKIHCPJBMO": {
+        "excludeForces": [
+          "WindZoneType",
+          "AirflowType",
+          "RiseType",
+          "SpeedupType",
+          "AirflowAccType"
+        ]
+      },
+      "NOFDPFHMFNM": 4.5,
+      "CAMKOAKMJHD": 0.25,
+      "radius": 12.5,
+      "LOFPGDFOCLJ": true,
+      "MPIHEFDEJPH": 45.0,
+      "FHNHGAMGOKE": 0.20000000298023224,
+      "HGJFIENGDNH": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerAlways",
+        "triggerCD": 0.75,
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Dahaka_Charge_Hit"
+        }
+      ]
+    }
+  },
+  "Dahaka_AirWall": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_AirWall_Effect",
+        "abilityName": "Dahaka_AirWall_Effect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true,
+      "lifeTime": 10.0
+    }
+  },
+  "Dahaka_Strike_ForwardCompare": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Strike_ForwardCompare",
+        "abilityName": "Dahaka_Strike_ForwardCompare",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    }
+  },
+  "Dahaka_Swap_ForwardCompare": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dahaka_Swap_ForwardCompare",
+        "abilityName": "Dahaka_Swap_ForwardCompare",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "JumpDrug_Whitbox_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 30.0,
+        "defense": 999999.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Jumping_Drug_Explode",
+        "abilityName": "Jumping_Drug_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 8.0,
+      "CAMKOAKMJHD": 0.029999999329447746,
+      "HBECHHMLGEP": 40.0,
+      "EPLFGAAFNIM": 30.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.5,
+        "DNOPAINEKPG": 5.0,
+        "minSpeed": 8.0,
+        "maxSpeed": 9.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Jumping_Drug_Explode"
+        }
+      ]
+    }
+  },
+  "JumpDrug_Whitbox_02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 30.0,
+        "defense": 999999.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Jumping_Drug_Explode",
+        "abilityName": "Jumping_Drug_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 8.0,
+      "CAMKOAKMJHD": 0.029999999329447746,
+      "HBECHHMLGEP": 40.0,
+      "EPLFGAAFNIM": 30.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.5,
+        "DNOPAINEKPG": 5.0,
+        "minSpeed": 8.0,
+        "maxSpeed": 9.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Jumping_Drug_Explode"
+        }
+      ]
+    }
+  },
+  "JumpDrug_Whitbox_03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 30.0,
+        "defense": 999999.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Jumping_Drug_Explode",
+        "abilityName": "Jumping_Drug_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 8.0,
+      "CAMKOAKMJHD": 0.029999999329447746,
+      "HBECHHMLGEP": 40.0,
+      "EPLFGAAFNIM": 30.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.5,
+        "DNOPAINEKPG": 5.0,
+        "minSpeed": 8.0,
+        "maxSpeed": 9.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Jumping_Drug_Explode"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1897 @@
+{
+  "Mimik_Ice_ForwardBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Loop",
+        "abilityName": "Mimik_Ice_ForwardBullet_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Explode",
+        "abilityName": "Mimik_Ice_ForwardBullet_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 30.0,
+      "EPLFGAAFNIM": 2.0,
+      "ECPHNBHDJEJ": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Ice_ForwardBullet_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Ice_ForwardCannon": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 60.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "Mimik_Ice_UpperMissile": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "scale": 1.5
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 17.5,
+      "NDLHJKADBGC": 1080.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "ELPLIOJMJND": 60.0,
+      "NNDCMFPMIFK": 0.20000000298023224,
+      "JKPFKNHDNKE": 1080.0,
+      "NIMNPPDBKIH": 0.800000011920929
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "Mimik_Ice_UpperBomb": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.800000190734863,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "All",
+        "ignoreScene": true
+      },
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Attack01_Bullet01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "FruitMoveEffect",
+        "abilityName": "Mimik_AbsorbFruit_FruitMoveEffect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 17.5,
+      "maxSpeed": 15.0,
+      "minSpeed": 10.0,
+      "NDLHJKADBGC": 480.0,
+      "ELPLIOJMJND": 180.0,
+      "NNDCMFPMIFK": 0.11999999731779099,
+      "JKPFKNHDNKE": 720.0
+    }
+  },
+  "Mimik_Ice_ForwardShootTarget": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "FruitMoveTarget",
+        "abilityName": "Mimik_AbsorbFruit_FruitMoveTarget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "target": "TargetEntity",
+      "IIKEHINGEME": "Fruit",
+      "offset": {
+        "y": 5.0
+      },
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Mimik_Fire_WilloWisp": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Loop",
+        "abilityName": "Mimik_Fire_WilloWisp_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Explode",
+        "abilityName": "Mimik_Fire_WilloWisp_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 60.0,
+      "minSpeed": 6.5,
+      "NDLHJKADBGC": 165.0,
+      "EILJBCHMAIH": -10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.10000000149011612,
+      "JKPFKNHDNKE": 165.0,
+      "NIMNPPDBKIH": 2.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fire_WilloWisp_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fire_WilloWisp_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Fire_Bomb": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Loop",
+        "abilityName": "Monster_Mimik_Fire_Bomb_Loop",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Explode",
+        "abilityName": "Monster_Mimik_Fire_Bomb_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 30.0,
+      "EPLFGAAFNIM": 15.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 1.5,
+        "DNOPAINEKPG": 15.0,
+        "minSpeed": 4.0,
+        "maxSpeed": 24.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Mimik_Fire_Bomb_Explode"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Monster_Mimik_Fire_Bomb_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Electric_AreaBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Hit",
+        "abilityName": "Mimik_Electric_AreaBullet_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 8.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 45.0,
+      "EPLFGAAFNIM": 15.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 5.0,
+        "DNOPAINEKPG": 5.0,
+        "minSpeed": 8.0,
+        "maxSpeed": 8.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Electric_AreaBullet_Hit"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Electric_AreaBullet_Hit"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Electric_AreaBullet_Deployed": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Loop",
+        "abilityName": "Mimik_Electric_AreaBullet_Deployed",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerAlways",
+        "triggerCD": 0.20000000298023224,
+        "targetType": "Enemy",
+        "ignoreScene": true,
+        "ignoreWater": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Electric_AreaBullet_Deployed"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Electric_Bomb": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Hit",
+        "abilityName": "Mimik_Electric_Bomb_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 80.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 80.0,
+      "EPLFGAAFNIM": 2.0,
+      "ECPHNBHDJEJ": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Electric_Bomb_Hit"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Mimik_Electric_AimTarget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 1.2000000476837158,
+        "IMLIDOCMEII": 1.2000000476837158,
+        "OBEFFBEFICB": 1.2000000476837158
+      },
+      "scale": 1.2000000476837158
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isInvincible": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Electric_AimTarget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "target": "TargetEntity",
+      "IIKEHINGEME": "",
+      "offset": {
+        "y": -1.2999999523162842
+      },
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Mimik_Electric_Bomb_ShockWave": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Wave",
+        "abilityName": "Monster_Mimik_Electric_Bomb_ShockWave",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 20.0,
+      "MLLDAINGCPD": {
+        "LDGCOFBNILL": 4.0,
+        "IDPIALMIAEG": 75.0,
+        "EBNKPFBIDBP": 0.10000000149011612,
+        "FHFBJGOKDBP": "Keep",
+        "OMEEHJNLOMB": "Keep"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      }
+    }
+  },
+  "Mimik_Fel_Fruit_FallingAttack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Avatar&Monster_Lv4"
+      },
+      "die": {
+        "hasAnimatorDie": true,
+        "dieDisappearEffect": ""
+      },
+      "animEvents": {
+        "ATK01": {
+          "attackPattern": {
+            "$type": "HBFCINNBDFD",
+            "triggerType": "TriggerNoRepeat",
+            "born": {
+              "$type": "KDEPFKAAHCG",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": 0.0
+              }
+            },
+            "height": 3.0,
+            "DFMMIGEMOHH": 3.0
+          },
+          "attackInfo": {
+            "attackTag": "Mimik_Fel_FallingAttack",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 1.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Ice",
+              "bonusCritical": 50.0,
+              "strikeType": "Blunt",
+              "enBreak": 200.0,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV5",
+              "hitHaltTimeScale": 0.009999999776482582
+            },
+            "forceCameraShake": true,
+            "cameraShake": {
+              "shakeType": "CustomVector",
+              "shakeRange": 0.11999999731779099,
+              "shakeTime": 0.15000000596046448,
+              "shakeDistance": 25.0,
+              "shakeDir": {
+                "y": -1.0
+              }
+            }
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Mimik_Fel_Fruit_Common",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_FindBlinkPoint",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Blink",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Show",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Hide",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_FallingAttack",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_FallingAttack_AlertEffect",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_FallingAttack_GroundEffect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    },
+    "move": {
+      "$type": "DCIFKLAJKKO",
+      "KAGAPJBBKJM": true
+    },
+    "DDOEFBHBEPJ": {
+      "HGJJHLBEICG": "",
+      "FFOEBPMCBBD": true,
+      "KOLBCPIEJIE": true,
+      "JCBHMPCFFDI": 1.149999976158142,
+      "CIIEGKEPMBE": {
+        "uiIndicator": {
+          "templateName": "GadgetCreate_Icon_Follow"
+        }
+      }
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "Appear": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Appear_Air": ["Monster_Mimik_Fel_Fruit_Start"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "FallingAttack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "FallingAttack_01": ["Monster_Mimik_Fel_Fruit_FallingAttack"],
+              "FallingAttack_02": ["Monster_Mimik_Fel_Fruit_FallingAttack"],
+              "FallingAttack_03": ["Monster_Mimik_Fel_Fruit_FallingAttack"],
+              "FallingAttack_03_Hold": [],
+              "FallingAttack_03_End": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Return": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Return_Air": ["Monster_Mimik_Fel_Fruit_End"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "Break": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Break": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    },
+    "billboard": {
+      "$type": "HFEGKLAIGGI",
+      "IIKEHINGEME": "BillboardAttach",
+      "HECLHMINJII": 0.5,
+      "showDistance": 48.0,
+      "DMHOOGGGDKG": true,
+      "KAJOCAAOIFN": 48.0,
+      "size": "Big",
+      "GFHHHAEBHHL": true
+    }
+  },
+  "Mimik_Fel_Fruit_SummonAttack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Avatar&Monster_Lv4"
+      },
+      "die": {
+        "hasAnimatorDie": true,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Mimik_Fel_Fruit_Common",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Mimik_Fel_Fruit_TriggerSummon",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Show",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Hide",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    },
+    "move": {
+      "$type": "JKDLANFKJIL",
+      "FMOHEOLGBMD": "None",
+      "BEICMHKFBPB": true,
+      "LPAKBBIADNC": "RootNode"
+    },
+    "DDOEFBHBEPJ": {
+      "HGJJHLBEICG": "",
+      "JCBHMPCFFDI": 1.149999976158142
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "Appear": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Appear_Ground": ["Monster_Mimik_Fel_Fruit_Start"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "SummonAttack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Summon01": ["Monster_Mimik_Fel_Fruit_SummonAttack"],
+              "Hold01": [],
+              "Summon02": ["Monster_Mimik_Fel_Fruit_SummonAttack"],
+              "Hold02": [],
+              "Summon03": ["Monster_Mimik_Fel_Fruit_SummonAttack"],
+              "Hold03": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Return": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Return_Ground": ["Monster_Mimik_Fel_Fruit_End"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "Break": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Break": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    },
+    "billboard": {
+      "$type": "HFEGKLAIGGI",
+      "IIKEHINGEME": "BillboardAttach",
+      "HECLHMINJII": 0.5,
+      "showDistance": 48.0,
+      "DMHOOGGGDKG": true,
+      "KAJOCAAOIFN": 48.0,
+      "size": "Big",
+      "GFHHHAEBHHL": true
+    }
+  },
+  "Mimik_Fel_Fruit_ShootingAttack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Avatar&Monster_Lv4"
+      },
+      "die": {
+        "hasAnimatorDie": true,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Mimik_Fel_Fruit_Weak",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Mimik_Fel_Fruit_Shoot",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Show",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Monster_Mimik_Fel_Fruit_Hide",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    },
+    "move": {
+      "$type": "JKDLANFKJIL",
+      "FMOHEOLGBMD": "None",
+      "BEICMHKFBPB": true,
+      "LPAKBBIADNC": "RootNode"
+    },
+    "DDOEFBHBEPJ": {
+      "HGJJHLBEICG": "",
+      "JCBHMPCFFDI": 1.149999976158142
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "Appear": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Appear_Air": ["Monster_Mimik_Fel_Fruit_Start"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "ShootingAttack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Shoot01": ["Monster_Mimik_Fel_Fruit_ShootingAttack"],
+              "Hold01": [],
+              "Shoot02": ["Monster_Mimik_Fel_Fruit_ShootingAttack"],
+              "Hold02": [],
+              "Shoot03": ["Monster_Mimik_Fel_Fruit_ShootingAttack"],
+              "Hold03": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Return": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Return_Air": ["Monster_Mimik_Fel_Fruit_Shoot_End"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "Break": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Break": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    },
+    "partControl": {
+      "parts": [
+        {
+          "$type": "PMGKKACOLIC",
+          "angularSpeed": 999999.0,
+          "BGKPNLALNPD": "LaunchDirection",
+          "AJBEMCBABJF": "",
+          "GPAPEPNEEMC": 180.0,
+          "OGNBJMIOCPO": 0.0
+        }
+      ]
+    },
+    "billboard": {
+      "$type": "HFEGKLAIGGI",
+      "IIKEHINGEME": "BillboardAttach",
+      "HECLHMINJII": 0.5,
+      "showDistance": 48.0,
+      "DMHOOGGGDKG": true,
+      "KAJOCAAOIFN": 48.0,
+      "size": "Big",
+      "GFHHHAEBHHL": true
+    }
+  },
+  "Mimik_Fel_Fruit_Broken": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "weight": 150.0,
+        "isLockHP": true,
+        "canTriggerBullet": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Gear_Lv3"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Mimik_Fel_Fruit_Broken",
+        "abilityName": "Mimik_Fel_Fruit_Broken",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 7.5
+    },
+    "move": {
+      "$type": "DCIFKLAJKKO",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NKFGFJEOHCM": false
+    }
+  },
+  "Mimik_Fel_Fruit_Broken_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Mimik_Fel_Fruit_Broken_Bullet",
+        "abilityName": "Mimik_Fel_Fruit_Broken_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 5.0,
+      "maxSpeed": 30.0,
+      "minSpeed": 0.20000000298023224,
+      "NDLHJKADBGC": 360.0,
+      "EILJBCHMAIH": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.625,
+      "JKPFKNHDNKE": 180.0,
+      "NIMNPPDBKIH": 99.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "AllExceptSelf"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fel_Fruit_Broken_Bullet"
+        }
+      ]
+    }
+  },
+  "Mimik_Fel_EnergyChit_FlyOut": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Gear_Lv3"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Mimik_Fel_EnergyChit_FlyOut",
+        "abilityName": "Mimik_Fel_EnergyChit_FlyOut",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 7.5
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 18.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 75.0,
+      "EPLFGAAFNIM": 15.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 5.0,
+        "DNOPAINEKPG": 5.0,
+        "minSpeed": 18.0,
+        "maxSpeed": 18.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fel_EnergyChit_FlyOut"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fel_EnergyChit_FlyOut"
+        }
+      ]
+    }
+  },
+  "Mimik_Fel_EnergyChit": {
+    "$type": "ConfigGadget",
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Mimik_Fel_EnergyChit",
+        "abilityName": "Mimik_Fel_EnergyChit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": ["Mimik_Fel_EnergyChit"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "Mimik_Fel_EnergyChit_FlyBack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Mimik_Fel_EnergyChit_FlyBack",
+        "abilityName": "Mimik_Fel_EnergyChit_FlyBack",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 7.5
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 0.5,
+      "maxSpeed": 15.0,
+      "minSpeed": 0.5,
+      "NDLHJKADBGC": 360.0,
+      "EILJBCHMAIH": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.30000001192092896,
+      "OMOOMFFGALI": false,
+      "JKPFKNHDNKE": 360.0,
+      "NIMNPPDBKIH": 10.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Alliance",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fel_EnergyChit_FlyBack"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Mimik_Fel_EnergyChit_FlyBack"
+        }
+      ]
+    }
+  },
+  "Bullet_Mimik_Fel_SnowBall_Falling": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Bullet_Mimik_Fel_SnowBall_Falling",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": -30.0,
+      "EPLFGAAFNIM": 30.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 1.5,
+        "minSpeed": 8.0,
+        "maxSpeed": 8.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_SnowBall_Falling"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_SnowBall_Falling"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Bullet_Mimik_Fel_SnowBall_Rolling": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Bullet_Mimik_Fel_SnowBall_Rolling",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 15.0,
+      "MLLDAINGCPD": {
+        "LDGCOFBNILL": 4.0,
+        "IDPIALMIAEG": 30.0,
+        "JPJMEPGMIBM": 1.0,
+        "EBNKPFBIDBP": 0.10000000149011612,
+        "FHFBJGOKDBP": "Keep",
+        "OMEEHJNLOMB": "Keep"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_SnowBall_Rolling"
+        }
+      ]
+    }
+  },
+  "Bullet_Mimik_Fel_UpperBullet_Attack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Bullet_Mimik_Fel_UpperBullet_Attack",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 25.0,
+      "EILJBCHMAIH": 10.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.5
+    }
+  },
+  "Bullet_Mimik_Fel_ForwardBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Bullet_Mimik_Fel_ForwardBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 30.0,
+      "EPLFGAAFNIM": 2.0,
+      "ECPHNBHDJEJ": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_ForwardBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Bullet_Mimik_Fel_UpperBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isLockHP": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Bullet_Mimik_Fel_UpperBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 30.0,
+      "EPLFGAAFNIM": 15.0,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 1.5,
+        "DNOPAINEKPG": 15.0,
+        "minSpeed": 4.0,
+        "maxSpeed": 24.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_UpperBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_UpperBullet"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Bullet_Mimik_Fel_Fruit_Shoot_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Bullet_Mimik_Fel_Fruit_Shoot_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 1.5,
+      "maxSpeed": 24.0,
+      "minSpeed": 1.5,
+      "NDLHJKADBGC": 150.0,
+      "EILJBCHMAIH": 32.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.5,
+      "NNDCMFPMIFK": 0.20000000298023224,
+      "OMOOMFFGALI": false,
+      "JKPFKNHDNKE": 150.0,
+      "NIMNPPDBKIH": 1.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Mimik_Fel_Fruit_Shoot_Bullet"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Fatuus_Mage_Ice_Elite_IceSpike": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 15.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fatuus_Mage_Ice_Elite_IceSpike",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 8.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": 23006,
+  "type": "IQ",
+  "titleTextMapHash": 2865484959,
+  "descTextMapHash": 2729328086,
+  "luaPath": "Actor/Quest/IQ23006",
+  "subQuests": [
+    {
+      "subId": 2300601,
+      "mainId": 23006,
+      "order": 1,
+      "descTextMapHash": 219212076,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 2300602,
+      "mainId": 23006,
+      "order": 2,
+      "subIdSet": 1,
+      "descTextMapHash": 1508642068,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 2300603,
+      "mainId": 23006,
+      "order": 3,
+      "descTextMapHash": 4060451340,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 2300601,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2300601", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230060101,
+      "npcId": [4072],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23006,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 2300603,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2300602", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230060301,
+      "npcId": [4072],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23006,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 2300604,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2300603", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230060401,
+      "npcId": [4072],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23006,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 2300605,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2300603", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230060501,
+      "npcId": [4072],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23006,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 2300606,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["2300603", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 230060601,
+      "npcId": [4072],
+      "performCfg": "",
+      "heroTalk": "TALK_HERO_MAIN",
+      "questId": 23006,
+      "prePerformCfg": ""
+    }
+  ]
+}

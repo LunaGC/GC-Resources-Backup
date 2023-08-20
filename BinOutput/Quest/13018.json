@@ -1,0 +1,33 @@
+{
+  "id": 13018,
+  "type": "LQ",
+  "series": 2033,
+  "titleTextMapHash": 999475511,
+  "descTextMapHash": 3554965774,
+  "luaPath": "Actor/Quest/LQ13018",
+  "showType": "QUEST_HIDDEN",
+  "rewardIdList": [113018],
+  "subQuests": [
+    {
+      "subId": 1301801,
+      "mainId": 13018,
+      "order": 1,
+      "descTextMapHash": 858365204,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ]
+}

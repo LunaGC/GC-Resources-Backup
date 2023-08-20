@@ -1,0 +1,171 @@
+{
+  "Rosaria_ExtraAttack_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Rosaria_ExtraAttack_Bullet",
+        "abilityName": "Avatar_Rosaria_ExtraAttack_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.5
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "IIKEHINGEME": "",
+      "ABIHJGPBBFD": true,
+      "offset": {
+        "y": 0.8999999761581421
+      },
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Rosaria_ExtraAttack_Bullet"
+        }
+      ]
+    }
+  },
+  "Rosaria_ElementalBurst_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "mass": 5.0,
+      "affectedByWorld": true,
+      "checkInSurface": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "canTriggerBullet": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Rosaria_ElementalBurst_Bullet_Material",
+        "abilityName": "Avatar_Rosaria_ElementalBurst_Bullet_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 25.0,
+      "CAMKOAKMJHD": 0.699999988079071,
+      "FLBOCGHONPG": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        }
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Rosaria_ElementalBurst_Bullet_Material"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Rosaria_ElementalBurst_Bullet_Material"
+        }
+      ],
+      "GOMGCHKCHKI": true,
+      "DKKLBGFLJBK": 0.699999988079071
+    }
+  },
+  "Rosaria_ElementalBurst_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Rosaria_ElementalBurst_Gadget_Material",
+        "abilityName": "Avatar_Rosaria_ElementalBurst_Gadget_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 16.0
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 40088,
+  "type": "EQ",
+  "titleTextMapHash": 2601977055,
+  "descTextMapHash": 1563226630,
+  "luaPath": "Actor/Quest/EQ40088",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 4008801,
+      "mainId": 40088,
+      "order": 1,
+      "descTextMapHash": 1510477380,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ]
+}

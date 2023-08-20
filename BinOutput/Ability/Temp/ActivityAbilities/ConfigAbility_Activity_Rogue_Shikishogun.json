@@ -1,0 +1,38 @@
+[
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "ActivityAbility_Rogue_Shikishogun",
+      "abilityMixins": [
+        {
+          "$type": "FollowAttachPointEffectMixin",
+          "modifierName": "UNIQUE_Ability_Rogue_Shikishogun_EffectHandler",
+          "APNJDGMDPIF": "ActivityEvent"
+        }
+      ],
+      "modifiers": {
+        "UNIQUE_Ability_Rogue_Shikishogun_EffectHandler": {
+          "modifierName": "",
+          "isUnique": true,
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Activity_Shikishogun",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAbilityStart": [
+        {
+          "$type": "SendEffectTrigger",
+          "parameter": "Skill01",
+          "IIKEHINGEME": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_Activity_Shikishogun"
+        }
+      ],
+      "isDynamicAbility": true
+    }
+  }
+]

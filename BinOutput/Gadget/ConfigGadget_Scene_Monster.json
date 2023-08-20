@@ -1,0 +1,722 @@
+{
+  "SceneObj_Monster_Eldritch_Tentacle_Message": {
+    "$type": "ConfigGadget",
+    "attackAttenuation": ""
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_Control": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Tentacle_Control_Ability",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_Control_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_SkillControl": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 100.0,
+        "attack": 10.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_SkillControl_Ability",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_SkillControl_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_WaterBulletTargeting": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_WaterBulletTargeting_Ability",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_WaterBulletTargeting_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 7.0
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_WaterBullet": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_WaterBullet_Explode",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_WaterBullet_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 20.0,
+      "EILJBCHMAIH": 5.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "SelfCamp",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "SceneObj_Monster_Eldritch_Tentacle_WaterBullet_Explode"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst_Ability",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst_Damage": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 10.0,
+        "defense": 999999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst_Damage_Ability",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst_Damage_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 20.0,
+      "EILJBCHMAIH": 5.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "SelfCamp",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "SceneObj_Monster_Eldritch_Tentacle_ElementalBurst_Damage_Ability"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_PA": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 100000000.0,
+      "scale": 4.0,
+      "disableTickDistance": 10000.0,
+      "muteElementStickUI": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityOverride": ""
+      }
+    ],
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Standby": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BeHit": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BeHit": ["Audio_Eldritch_Tentacle_Behit"]
+            },
+            "BGJDNIJICNM": true
+          },
+          "Attack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Attack": [
+                "Gadget_Scene_Monster_Eldritch_Tentacle_Attack",
+                "Audio_Eldritch_Tentacle_Attack"
+              ]
+            },
+            "BGJDNIJICNM": true
+          },
+          "BattleIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BattleIdle": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_PB": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 100000000.0,
+      "scale": 4.0,
+      "disableTickDistance": 10000.0,
+      "muteElementStickUI": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityOverride": ""
+      }
+    ],
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Standby": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BeHit": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BeHit": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Attack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Attack": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BattleIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BattleIdle": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_PC": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 100000000.0,
+      "scale": 4.0,
+      "disableTickDistance": 10000.0,
+      "muteElementStickUI": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityOverride": ""
+      }
+    ],
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Standby": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BeHit": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BeHit": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Attack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Attack": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BattleIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BattleIdle": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_PD": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 100000000.0,
+      "scale": 4.0,
+      "disableTickDistance": 10000.0,
+      "muteElementStickUI": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityOverride": ""
+      }
+    ],
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Standby": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BeHit": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BeHit": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Attack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Attack": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BattleIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BattleIdle": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    }
+  },
+  "SceneObj_Monster_Eldritch_Tentacle_PE": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 100000000.0,
+      "scale": 4.0,
+      "disableTickDistance": 10000.0,
+      "muteElementStickUI": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityName": "SceneObj_Monster_Eldritch_Tentacle_BattleIdle",
+        "abilityOverride": ""
+      }
+    ],
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Standby": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BeHit": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BeHit": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "Attack": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Attack": []
+            },
+            "BGJDNIJICNM": true
+          },
+          "BattleIdle": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "BattleIdle": []
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    }
+  },
+  "SceneObj_Level_Common_Property_Ani_Prop_AdeptusBallista_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 500000.0,
+        "attack": 200.0,
+        "weight": 50.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Property_Prop_AdeptusBallista_Ability",
+        "abilityName": "SceneObj_Property_Prop_AdeptusBallista_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "billboard": {
+      "$type": "HFEGKLAIGGI",
+      "IIKEHINGEME": "HpBarNode",
+      "HECLHMINJII": 1.5,
+      "showDistance": 48.0,
+      "DMHOOGGGDKG": true,
+      "size": "Grand"
+    }
+  },
+  "SceneObj_Level_Common_Property_Prop_DeerFairy_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Level_Common_Property_Prop_DeerFairy_01_Ability",
+        "abilityName": "SceneObj_Level_Common_Property_Prop_DeerFairy_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Level_Common_Property_Prop_DeerFairy_02": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Level_Common_Property_Prop_DeerFairy_02_Ability",
+        "abilityName": "SceneObj_Level_Common_Property_Prop_DeerFairy_02_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Monster_Hound_CleanUpCorruption": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Monster_Hound_CleanUpCorruption",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Monster_Sylph_AttackEnhance": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "endureType": "Monster_Boss_Other",
+        "HP": 99999.0,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "SceneObj_Monster_Sylph_AttackEnhance",
+        "abilityOverride": ""
+      }
+    ]
+  }
+}

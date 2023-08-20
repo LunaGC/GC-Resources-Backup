@@ -1,0 +1,96 @@
+{
+  "id": 73223,
+  "type": "WQ",
+  "series": 73223,
+  "titleTextMapHash": 3861047239,
+  "descTextMapHash": 2149805846,
+  "luaPath": "Actor/Quest/WQ73223",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 7322301,
+      "mainId": 73223,
+      "order": 1,
+      "descTextMapHash": 1073369844,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "showGuide": "QUEST_GUIDE_ITEM_DISABLE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    },
+    {
+      "subId": 7322302,
+      "mainId": 73223,
+      "order": 2,
+      "descTextMapHash": 1601683372,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "failParentShow": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 7322303,
+      "beginWay": "TALK_BEGIN_AUTO",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7322303", "2"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 732230301,
+      "performCfg": "",
+      "questId": 73223,
+      "prePerformCfg": ""
+    },
+    {
+      "id": 7322304,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "beginCondComb": "LOGIC_AND",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7322301", "2"],
+          "param_str": ""
+        },
+        {
+          "type": "QUEST_COND_ITEM_GIVING_ACTIVED",
+          "param": ["7322301"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 732230401,
+      "npcId": [20643],
+      "performCfg": "",
+      "questId": 73223,
+      "prePerformCfg": ""
+    }
+  ]
+}

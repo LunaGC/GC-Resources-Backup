@@ -1,0 +1,973 @@
+{
+  "Fungus_Trois_Ice_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Damage",
+        "abilityName": "Fungus_Trois_BVB_Ice_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.7999999523162842
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "excludeForces": ["WindZoneType", "AirflowType"]
+      },
+      "NOFDPFHMFNM": 25.0,
+      "maxSpeed": 50.0,
+      "EILJBCHMAIH": 20.0,
+      "NDGGLIBNDHP": 0.20000000298023224,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "AFPNIHEBHED",
+          "attackInfo": {
+            "attackTag": "",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 11.539999961853027,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Ice",
+              "bonusCritical": 100.0,
+              "enBreak": 200.0,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV4"
+            },
+            "canBeModifiedBy": "Owner"
+          }
+        }
+      ]
+    }
+  },
+  "Fungus_Trois_Ice_BlizzardPoint": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Trois_BVB_Ice_Blizzard_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    }
+  },
+  "Fungus_Deux_Wind_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_Wind_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "NDLHJKADBGC": 240.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_BVB_Wind_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_BVB_Wind_Bullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Deux_Wind_OverdoseBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_Wind_OverdoseBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 6.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 15.0,
+      "minSpeed": 5.0,
+      "NDLHJKADBGC": 360.0,
+      "EILJBCHMAIH": -30.0,
+      "NDGGLIBNDHP": 0.699999988079071,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "NNDCMFPMIFK": 0.3499999940395355,
+      "JKPFKNHDNKE": 360.0,
+      "NIMNPPDBKIH": 6.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_BVB_Wind_OverdoseBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_BVB_Wind_OverdoseBullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Deux_Wind_HealingWavePoint": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_HealingWaving_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 7.0
+    }
+  },
+  "Fungus_Un_Wind_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Wind_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 7.5,
+      "NDLHJKADBGC": 210.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Wind_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Wind_Bullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Un_WindImpact_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Wind_WindImpact_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.5
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.599999904632568,
+      "NDLHJKADBGC": 280.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Wind_WindImpact_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Wind_WindImpact_Bullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Un_WindImpact_Point": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Wind_WindImpact_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.699999988079071
+    }
+  },
+  "Fungus_Un_WindZone_Point": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Wind_WindZone_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.5
+    }
+  },
+  "Fungus_Deux_Fire_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_Fire_FlameFountain_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.199999809265137
+    }
+  },
+  "Fungus_Deux_Fire_UBPoint": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_Fire_FireBomb_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "Fungus_Un_Water_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Water_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 9.0,
+      "NDLHJKADBGC": 270.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_Bullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Un_Water_Bubble": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Water_Bubble_Surrounding",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Water_Bubble",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.0,
+      "NDLHJKADBGC": 120.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_Bubble"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_Bubble_Surrounding"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_Bubble"
+        }
+      ]
+    }
+  },
+  "Fungus_Un_Water_UBPoint": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Water_SprayBlooming_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    }
+  },
+  "Fungus_Un_Water_SuperWaterBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Water_SuperWaterBullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 9.0,
+      "NDLHJKADBGC": 270.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_SuperWaterBullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Water_SuperWaterBullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Deux_Electro_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_Electro_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.599999904632568,
+      "maxSpeed": 10.0,
+      "NDLHJKADBGC": 240.0,
+      "EILJBCHMAIH": 1.0,
+      "NDGGLIBNDHP": 4.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_BVB_Electro_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Deux_BVB_Electro_Bullet"
+        }
+      ]
+    }
+  },
+  "Fungus_Deux_Electro_ThunderPoint": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Deux_BVB_Electro_ThunderStrike_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    }
+  },
+  "Fungus_Un_Dendro_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Dendro_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 13.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 12.0,
+      "EPLFGAAFNIM": 16.5,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.20000000298023224,
+        "DNOPAINEKPG": 15.0,
+        "minSpeed": 2.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Dendro_Bullet"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Dendro_Bullet"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Dendro_Bullet_UB": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "OBEFFBEFICB": 0.4000000059604645
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "",
+        "abilityName": "Fungus_Un_BVB_Dendro_Bullet_UB",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 13.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HBECHHMLGEP": 12.0,
+      "EPLFGAAFNIM": 16.5,
+      "HDBDFEKENOD": {
+        "$type": "CDOBEEBHCCO",
+        "GACCDPNMLNP": 0.20000000298023224,
+        "DNOPAINEKPG": 15.0,
+        "minSpeed": 2.0
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Dendro_Bullet_UB"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Fungus_Un_BVB_Dendro_Bullet_UB"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "Fungus_Un_Dendro_Plant": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 9.0
+    }
+  }
+}

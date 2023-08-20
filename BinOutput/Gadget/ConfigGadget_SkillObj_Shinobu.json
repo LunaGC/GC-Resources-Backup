@@ -1,0 +1,197 @@
+{
+  "Shinobu_ElementalArt_RotateBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "mass": 50.0
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SkillObj_Shinobu_ElementalArt_TickLogic",
+        "abilityName": "SkillObj_Shinobu_ElementalArt_TickLogic",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SkillObj_Shinobu_ElementalArt_LifetimeHandler",
+        "abilityName": "SkillObj_Shinobu_ElementalArt_LifetimeHandler",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SkillObj_Shinobu_ElementalArt_FireTickEffect",
+        "abilityName": "SkillObj_Shinobu_ElementalArt_FireTickEffect",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 18.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "IIKEHINGEME": "RootNode",
+      "IHAJOCLBEOK": ""
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "SkillObj_Shinobu_ElementalArt": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "SkillObj_Shinobu_ElementalArt": ["SkillObj_Shinobu_ElementalArt"]
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    }
+  },
+  "Shinobu_ElementalBurst_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "NLACBIBNJHF": true,
+    "GODAIPGMCEL": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Shinobu_ElementalBurst_Gadget",
+        "abilityName": "Shinobu_ElementalBurst_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "HCBLOAEFFEC": true
+  },
+  "Shinobu_ElementalBurst_AttackBullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Shinobu_ElementalBurst_Bullet",
+        "abilityName": "Shinobu_ElementalBurst_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.4000000953674316
+    }
+  },
+  "SkillObj_Shinobu_Constellation_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 0.009999999776482582,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "HFFPPCEMOGJ": true
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "Shenhe_ExtraAttack_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Shenhe_ExtraAttack_Bullet",
+        "abilityName": "Avatar_Shenhe_ExtraAttack_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "IIKEHINGEME": "",
+      "ABIHJGPBBFD": true,
+      "offset": {
+        "y": 0.8999999761581421
+      },
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Shenhe_ExtraAttack_Bullet"
+        }
+      ]
+    }
+  },
+  "Shenhe_ElementalArt_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Shenhe_ElementalArt_Bullet",
+        "abilityName": "Avatar_Shenhe_ElementalArt_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "IIKEHINGEME": "",
+      "ABIHJGPBBFD": true,
+      "offset": {
+        "y": 0.8999999761581421
+      },
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Shenhe_ElementalArt_Bullet"
+        }
+      ]
+    }
+  },
+  "Shenhe_Shadow": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false,
+        "ignoreDamageToSelf": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SkillObj_Shenhe_Shadow",
+        "abilityName": "SkillObj_Shenhe_Shadow",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SkillObj_Shenhe_Shadow_Attack",
+        "abilityName": "SkillObj_Shenhe_Shadow_Attack",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 30.0
+    }
+  }
+}

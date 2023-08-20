@@ -1,0 +1,1021 @@
+{
+  "LupiBoreas_BattleArea": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "die": {
+        "dieEndTime": 5.0,
+        "dieForceDisappearTime": 5.0,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_BattleArea",
+        "abilityName": "LupiBoreas_BattleArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 40.0
+    }
+  },
+  "LupiBoreas_BornAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_BornAnchor",
+        "abilityName": "LupiBoreas_BornAnchor",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "LupiBoreas_DieAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_DieAnchor",
+        "abilityName": "LupiBoreas_DieAnchor",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    }
+  },
+  "LupiBoreas_TotemAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_TotemAnchor",
+        "abilityName": "LupiBoreas_TotemAnchor",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "LupiBoreas_CenterAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": ""
+  },
+  "LupiBoreas_BornCameraAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_BornCameraAnchor",
+        "abilityName": "LupiBoreas_BornCameraAnchor",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    }
+  },
+  "LupiBoreas_TransformCameraAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    }
+  },
+  "LupiBoreas_ReturnToBorn_Bullet": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_ReturnToBorn_Bullet",
+        "abilityName": "LupiBoreas_ReturnToBorn_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.0
+    },
+    "move": {
+      "$type": "MNCDFIAEMIA",
+      "NOFDPFHMFNM": 5.0,
+      "maxSpeed": 40.0,
+      "minSpeed": 5.0,
+      "EILJBCHMAIH": 3.0,
+      "ELPLIOJMJND": 120.0,
+      "NNDCMFPMIFK": 5.0,
+      "JKPFKNHDNKE": 120.0,
+      "NIMNPPDBKIH": 10.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Alliance",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_ReturnToBorn_Bullet"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "LupiBoreas_WolfSoul_Bullet": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_WolfSoul_Bullet",
+        "abilityName": "LupiBoreas_WolfSoul_Bullet",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_WolfSoul_Bullet_Trigger",
+        "abilityName": "LupiBoreas_WolfSoul_Bullet_Trigger",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.4500000476837158
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 12.0,
+      "EILJBCHMAIH": 20.0,
+      "CAMKOAKMJHD": 0.8999999761581421
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true,
+        "bornWithTriggerEnabled": false
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_WolfSoul_Bullet_Trigger"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_WolfSoul_Bullet"
+        }
+      ]
+    }
+  },
+  "LupiBoreas_SprintAtk": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SprintAtk",
+        "abilityName": "LupiBoreas_SprintAtk",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 40.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "target": "TargetEntity",
+      "IIKEHINGEME": "",
+      "ABIHJGPBBFD": true,
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_SprintAtk"
+        }
+      ]
+    }
+  },
+  "LupiBoreas_SprintAtk_Scene": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SprintAtk_Scene",
+        "abilityName": "LupiBoreas_SprintAtk_Scene",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 40.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "target": "TargetEntity",
+      "IIKEHINGEME": "",
+      "ABIHJGPBBFD": true,
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_SprintAtk_Scene"
+        }
+      ]
+    }
+  },
+  "LupiBoreas_DriftAtk": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "DriftAtk",
+        "abilityName": "LupiBoreas_DriftAtk_Damage",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    }
+  },
+  "LupiBoreas_JumpAtk": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "JumpAtk",
+        "abilityName": "LupiBoreas_JumpAtk_Damage",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    }
+  },
+  "LupiBoreas_ShakeAnchor": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceGadgetArea_01": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea_01",
+        "abilityName": "LupiBoreas_IceGadgetArea_01",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea",
+        "abilityName": "LupiBoreas_IceGadgetArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceGadgetArea_02": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea_02",
+        "abilityName": "LupiBoreas_IceGadgetArea_02",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea",
+        "abilityName": "LupiBoreas_IceGadgetArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceGadgetArea_03": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea_03",
+        "abilityName": "LupiBoreas_IceGadgetArea_03",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea",
+        "abilityName": "LupiBoreas_IceGadgetArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceGadgetArea_04": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea_04",
+        "abilityName": "LupiBoreas_IceGadgetArea_04",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea",
+        "abilityName": "LupiBoreas_IceGadgetArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceGadgetArea_05": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea_05",
+        "abilityName": "LupiBoreas_IceGadgetArea_05",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea",
+        "abilityName": "LupiBoreas_IceGadgetArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceGadgetArea_06": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea_06",
+        "abilityName": "LupiBoreas_IceGadgetArea_06",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "LupiBoreas_IceGadgetArea",
+        "abilityName": "LupiBoreas_IceGadgetArea",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_IceConeMissile": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999.0,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceConeMissile",
+        "abilityName": "LupiBoreas_IceConeMissile",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "LupiBoreas_IceGadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "DNEEEIMONPN",
+        "EJAEFCDBDFB": "EffectMesh"
+      },
+      "affectedByWorld": true
+    },
+    "specialPoint": {
+      "elementAbsorb": "RootNode",
+      "elementPendant": "",
+      "elementDrop": "RootNode",
+      "bulletAim": "AimPoint"
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "weight": 20000.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Avatar&Monster_Lv4"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "LupiBoreas_IceGadget",
+        "abilityName": "LupiBoreas_IceGadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    }
+  },
+  "LupiBoreas_StampAtk_Ice": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "StampAtk_Ice_Decelerate",
+        "abilityName": "LupiBoreas_StampAtk_Ice_Decelerate",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "StampAtk_Ice",
+        "abilityName": "LupiBoreas_StampAtk_Ice",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_StampAtk_Ice_Decelerate"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_StampAtk_Ice"
+        }
+      ]
+    }
+  },
+  "LupiBoreas_StampAtk_Frozen": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "StampAtk_Frozen_Damage",
+        "abilityName": "LupiBoreas_StampAtk_Frozen_Damage",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "StampAtk_Frozen",
+        "abilityName": "LupiBoreas_StampAtk_Frozen",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_StampAtk_Frozen_Damage"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_StampAtk_Frozen"
+        }
+      ]
+    }
+  },
+  "LupiBoreas_StampAtk_Wind": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "StampAtk_Wind_Damage",
+        "abilityName": "LupiBoreas_StampAtk_Wind_Damage",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 25.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "All",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_StampAtk_Wind_Damage"
+        }
+      ]
+    }
+  },
+  "LupiBoreas_FlapAtk_Ice": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "FlapAtk_Ice",
+        "abilityName": "LupiBoreas_FlapAtk_Ice",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 20.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "LupiBoreas_FlapAtk_Ice"
+        }
+      ],
+      "GOMGCHKCHKI": true
+    }
+  },
+  "LupiBoreas_FlapAtk_IceStay": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "FlapAtk_IceStay",
+        "abilityName": "LupiBoreas_FlapAtk_IceStay",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.5
+    }
+  }
+}

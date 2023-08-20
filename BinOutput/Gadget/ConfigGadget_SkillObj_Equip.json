@@ -1,0 +1,1522 @@
+{
+  "Weapon_Test_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 1.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "Weapon_Common_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 1.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "Weapon_Test_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 1.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "Weapon_Arcane_Arrow": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_Arcane_Arrow",
+        "abilityName": "Weapon_Catalyst_Arcane_Arrow",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 1.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_Arcane_Arrow"
+        }
+      ]
+    }
+  },
+  "Weapon_AttackWave": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trigger",
+        "abilityName": "Weapon_AttackWave_Bullet",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Material",
+        "abilityName": "Weapon_AttackWave_Bullet_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 15.0,
+      "NDGGLIBNDHP": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_AttackWave_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_WindBall": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieDisappearEffect": "Eff_Weapon_WindBall_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_Legend_Dvalin_WindBall",
+        "abilityName": "Weapon_Catalyst_Legend_Dvalin_WindBall",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 15.5
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "IIKEHINGEME": "",
+      "ABIHJGPBBFD": true,
+      "offset": {
+        "x": 0.6000000238418579,
+        "y": 1.2999999523162842,
+        "z": 0.05000000074505806
+      },
+      "EMDHMEDHGPE": true,
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Weapon_Arcane_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_Arcane_Bullet",
+        "abilityName": "Weapon_Catalyst_Arcane_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 1.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_Arcane_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_BouncingBall": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityName": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.0,
+      "EILJBCHMAIH": 6.0,
+      "NDGGLIBNDHP": 1.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_BouncingBall_Bullet"
+        }
+      ],
+      "DKKLBGFLJBK": 0.30000001192092896
+    }
+  },
+  "Weapon_PiercingLight": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityName": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.0,
+      "EILJBCHMAIH": 6.0,
+      "NDGGLIBNDHP": 1.0,
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_BouncingBall_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_SkySword": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityName": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.0,
+      "EILJBCHMAIH": 6.0,
+      "NDGGLIBNDHP": 1.0,
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_BouncingBall_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_Bullet_Yang": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityName": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.0,
+      "EILJBCHMAIH": 6.0,
+      "NDGGLIBNDHP": 1.0,
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_BouncingBall_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_Bullet_Yin": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityName": "Weapon_Catalyst_BouncingBall_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.0,
+      "EILJBCHMAIH": 6.0,
+      "NDGGLIBNDHP": 1.0,
+      "CAMKOAKMJHD": 0.10000000149011612,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_BouncingBall_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_Lanternrite_Bright": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_Lanternrite_Bright",
+        "abilityName": "Weapon_Catalyst_Lanternrite_Bright",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 6.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 2.0,
+      "CAMKOAKMJHD": 0.15000000596046448,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_Lanternrite_Bright"
+        }
+      ]
+    }
+  },
+  "Weapon_Lanternrite_Dark": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Weapon_Arcane_Arrow_Dissipate"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_Lanternrite_Dark",
+        "abilityName": "Weapon_Catalyst_Lanternrite_Dark",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 4.0,
+      "EILJBCHMAIH": 10.0,
+      "NDGGLIBNDHP": 2.0,
+      "CAMKOAKMJHD": 0.15000000596046448,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Catalyst_Lanternrite_Dark"
+        }
+      ]
+    }
+  },
+  "Weapon_Dvalin_Wave": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Dvalin_Wave_Bullet",
+        "abilityName": "Weapon_Dvalin_Wave_Bullet",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.3199999928474426
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 8.0,
+      "EILJBCHMAIH": 1.0,
+      "NDGGLIBNDHP": 0.10000000149011612
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Dvalin_Wave_Bullet"
+        }
+      ]
+    }
+  },
+  "Weapon_Claymore_Dragonfell_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeInfinite": true,
+      "lifeTime": 5.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF"
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC"
+    }
+  },
+  "Weapon_Pole_Dragonfell_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 8.0,
+      "maxSpeed": 30.0,
+      "EILJBCHMAIH": 50.0,
+      "CAMKOAKMJHD": 0.30000001192092896
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {}
+    }
+  },
+  "Weapon_Catalyst_Dragonfell_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 8.0,
+      "maxSpeed": 30.0,
+      "EILJBCHMAIH": 50.0,
+      "CAMKOAKMJHD": 0.30000001192092896
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {}
+    }
+  },
+  "Weapon_Sword_Youtou_Bullet1": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Sword_Youtou_Bullet_Material",
+        "abilityName": "Weapon_Sword_Youtou_Bullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Weapon_Sword_Youtou_Bullet_FX1",
+        "abilityName": "Weapon_Sword_Youtou_Bullet_FX1",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 15.0,
+      "NDGGLIBNDHP": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Sword_Youtou_Bullet_Material"
+        }
+      ]
+    }
+  },
+  "Weapon_Sword_Youtou_Bullet2": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Sword_Youtou_Bullet_Material",
+        "abilityName": "Weapon_Sword_Youtou_Bullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Weapon_Sword_Youtou_Bullet_FX1",
+        "abilityName": "Weapon_Sword_Youtou_Bullet_FX1",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 15.0,
+      "NDGGLIBNDHP": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Sword_Youtou_Bullet_Material"
+        }
+      ]
+    }
+  },
+  "Weapon_Sword_Youtou_Bullet3": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Sword_Youtou_Bullet_Material",
+        "abilityName": "Weapon_Sword_Youtou_Bullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Weapon_Sword_Youtou_Bullet_FX1",
+        "abilityName": "Weapon_Sword_Youtou_Bullet_FX1",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.5
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 15.0,
+      "NDGGLIBNDHP": 0.5
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "triggerType": "TriggerNoRepeat",
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Weapon_Sword_Youtou_Bullet_Material"
+        }
+      ]
+    }
+  },
+  "Weapon_Sword_Youtou_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 999999.0,
+        "attack": 30.0,
+        "defense": 999999.0,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "TriggerDamage",
+        "abilityName": "Avatar_Ayaka_ExtraAttack_Damage_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    }
+  },
+  "Weapon_AttractField": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_AttractField",
+        "abilityName": "Weapon_AttractField",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "lifeTime": 4.199999809265137,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Weapon_Claymore_Dragonfell_Gadget": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Claymore_Dragonfell_Gadget",
+        "abilityName": "Weapon_Claymore_Dragonfell_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "lifeTime": 3.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Weapon_Pole_Dragonfell_Gadget": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Pole_Dragonfell_Gadget",
+        "abilityName": "Weapon_Pole_Dragonfell_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "lifeTime": 3.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Weapon_Catalyst_Dragonfell_Gadget": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Weapon_Catalyst_Dragonfell_Gadget",
+        "abilityName": "Weapon_Catalyst_Dragonfell_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "lifeTime": 3.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Weapon_Sword_Arakalari_Trigger": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "useCreatorBuffedProperty": false,
+        "HP": 99999.0,
+        "isLockHP": true,
+        "canTriggerBullet": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_Weapon_Sword_Arakalari_Trigger",
+        "abilityName": "Ability_Weapon_Sword_Arakalari_Trigger",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "AllAvatars",
+      "shape": "CircleR1",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "startCheckTime": 0.800000011920929,
+      "checkInterval": 0.10000000149011612,
+      "lifeTime": 30.0,
+      "overwriteCampType": true,
+      "campType": "All",
+      "useCollider": false,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Weapon_Claymore_Arakalari_Trigger": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "useCreatorBuffedProperty": false,
+        "HP": 99999.0,
+        "isLockHP": true,
+        "canTriggerBullet": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_Weapon_Claymore_Arakalari_Trigger",
+        "abilityName": "Ability_Weapon_Claymore_Arakalari_Trigger",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "AllAvatars",
+      "shape": "CircleR1",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "startCheckTime": 0.800000011920929,
+      "checkInterval": 0.10000000149011612,
+      "lifeTime": 30.0,
+      "overwriteCampType": true,
+      "campType": "All",
+      "useCollider": false,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Weapon_Pole_Arakalari_Trigger": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "useCreatorBuffedProperty": false,
+        "HP": 99999.0,
+        "isLockHP": true,
+        "canTriggerBullet": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_Weapon_Pole_Arakalari_Trigger",
+        "abilityName": "Ability_Weapon_Pole_Arakalari_Trigger",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "AllAvatars",
+      "shape": "CircleR1",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "startCheckTime": 0.800000011920929,
+      "checkInterval": 0.10000000149011612,
+      "lifeTime": 30.0,
+      "overwriteCampType": true,
+      "campType": "All",
+      "useCollider": false,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  }
+}

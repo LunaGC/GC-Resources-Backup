@@ -1,0 +1,515 @@
+{
+  "Feiyan_Attack01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "TriggerDamage",
+        "abilityName": "Avatar_FeiyanGadgetSkill_NormalAttackDamage01",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "triggerLifeOverActions",
+        "abilityName": "Avatar_FeiyanGadgetSkill_Effect_Normal",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.2000000476837158
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 20.0,
+      "maxSpeed": 25.0,
+      "minSpeed": 10.0,
+      "NDLHJKADBGC": 200.0,
+      "EILJBCHMAIH": 5.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_FeiyanGadgetSkill_NormalAttackDamage01"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_FeiyanGadgetSkill_Effect_Normal"
+        }
+      ]
+    }
+  },
+  "Feiyan_Attack02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "TriggerDamage",
+        "abilityName": "Avatar_FeiyanGadgetSkill_NormalAttackDamage02",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "triggerLifeOverActions",
+        "abilityName": "Avatar_FeiyanGadgetSkill_Effect_Normal",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.2000000476837158
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 20.0,
+      "maxSpeed": 25.0,
+      "minSpeed": 10.0,
+      "NDLHJKADBGC": 200.0,
+      "EILJBCHMAIH": 5.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_FeiyanGadgetSkill_NormalAttackDamage02"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_FeiyanGadgetSkill_Effect_Normal"
+        }
+      ]
+    }
+  },
+  "Feiyan_Attack03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "TriggerDamage",
+        "abilityName": "Avatar_FeiyanGadgetSkill_NormalAttackDamage03",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "triggerLifeOverActions",
+        "abilityName": "Avatar_FeiyanGadgetSkill_Effect_Last",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.2000000476837158
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 28.0,
+      "maxSpeed": 33.0,
+      "minSpeed": 20.0,
+      "NDLHJKADBGC": 200.0,
+      "EILJBCHMAIH": 5.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_FeiyanGadgetSkill_NormalAttackDamage03"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_FeiyanGadgetSkill_Effect_Last"
+        }
+      ]
+    }
+  },
+  "Feiyan_ExtraAttack": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.0,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_FeiyanGadgetSkill_ExtraAttack_Damage",
+        "abilityName": "Avatar_FeiyanGadgetSkill_ExtraAttack_Damage",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 5.0
+    }
+  },
+  "Feiyan_ElementalArt": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 15.0,
+      "NDLHJKADBGC": 0.0,
+      "MLLDAINGCPD": {
+        "LDGCOFBNILL": 3.0,
+        "IDPIALMIAEG": 45.0,
+        "JPJMEPGMIBM": 0.44999998807907104,
+        "EBNKPFBIDBP": 1.600000023841858,
+        "MJHMIDBFLLM": true,
+        "FHFBJGOKDBP": "Keep",
+        "OMEEHJNLOMB": "Keep"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "SkillObj_Feiyan_ExtraAttack_Weight_Trigger": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trigger",
+        "abilityName": "Avatar_FeiyanGadgetSkill_Weight_Count",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeInfinite": true
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "IIKEHINGEME": "CameraLook",
+      "ABIHJGPBBFD": true,
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "EMDHMEDHGPE": true,
+      "KEDHAOHPJKL": true,
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Feiyan_Other_03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "weight": 0.0,
+        "ignorePurgeRate": false
+      },
+      "die": {
+        "dieForceDisappearTime": 0.0,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 60.0
+    }
+  },
+  "Feiyan_Other_04": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "weight": 0.0,
+        "ignorePurgeRate": false
+      },
+      "die": {
+        "dieForceDisappearTime": 0.0,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 60.0
+    }
+  },
+  "Feiyan_Other_05": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "weight": 0.0,
+        "ignorePurgeRate": false
+      },
+      "die": {
+        "dieForceDisappearTime": 0.0,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 60.0
+    }
+  },
+  "Feiyan_Attack04": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 1.2000000476837158
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 15.0,
+      "maxSpeed": 15.0,
+      "minSpeed": 10.0,
+      "NDLHJKADBGC": 200.0,
+      "EILJBCHMAIH": 20.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  },
+  "Feiyan_ElementalArt_Aim": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 1.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "NOFDPFHMFNM": 15.0,
+      "NDLHJKADBGC": 0.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      }
+    }
+  }
+}

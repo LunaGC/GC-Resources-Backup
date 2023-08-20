@@ -1,0 +1,242 @@
+{
+  "Layla_ElementalArt_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Layla_ElementalArt_Gadget",
+        "abilityName": "Avatar_Layla_ElementalArt_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "IIKEHINGEME": "RootNode",
+      "EMDHMEDHGPE": true,
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Layla_ElementalArt_Bullet1": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Layla_ElementalArt_Bullet_Material",
+        "abilityName": "Avatar_Layla_ElementalArt_Bullet_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.5
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 8.0,
+      "maxSpeed": 15.0,
+      "NDLHJKADBGC": 180.0,
+      "EILJBCHMAIH": 5.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ",
+        "LMMIHLFCHOD": 3600.0
+      },
+      "HFFPPCEMOGJ": true,
+      "EAPEEDPIPNH": {
+        "$type": "PPALHGJEOAB",
+        "KMAGMJCIKBA": {
+          "$type": "EHEKCPFGKCM",
+          "offset": {
+            "HMHIOILIGBF": 0.0,
+            "DPPJGBOHAAL": 0.0,
+            "DDOAGBLBCEF": 10.0
+          },
+          "CJKCLAIPMHH": true
+        },
+        "radius": 0.10000000149011612
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Layla_ElementalArt_Bullet_Material"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Layla_ElementalArt_Bullet_Material"
+        }
+      ]
+    }
+  },
+  "Layla_ElementalBurst_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Layla_ElementalBurst_Gadget",
+        "abilityName": "Avatar_Layla_ElementalBurst_Gadget",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 18.0
+    }
+  },
+  "Layla_ElementalBurst_Bullet1": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Layla_ElementalBurst_Bullet1_Material",
+        "abilityName": "Avatar_Layla_ElementalBurst_Bullet1_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 8.0,
+      "maxSpeed": 20.0,
+      "NDLHJKADBGC": 240.0,
+      "EILJBCHMAIH": 5.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ",
+        "LMMIHLFCHOD": 3600.0
+      },
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Layla_ElementalBurst_Bullet1_Material"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Layla_ElementalBurst_Bullet1_Material"
+        }
+      ]
+    }
+  }
+}

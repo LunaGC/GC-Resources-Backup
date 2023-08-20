@@ -1,0 +1,627 @@
+[
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_Bullet_Trigger",
+      "abilityMixins": [
+        {
+          "$type": "AttachToAnimatorStateIDMixin",
+          "stateIDs": ["Shoot_BS", "Shoot_Loop"],
+          "modifierName": "WaterBullet_VFX_Display"
+        },
+        {
+          "$type": "SteerAttackMixin",
+          "steerStateIDs": ["NormalAttack"],
+          "angularSpeed": 180.0,
+          "attackTrigger": ""
+        }
+      ],
+      "modifiers": {
+        "WaterBullet_VFX_Display": {
+          "modifierName": "",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_ShootNormal_Loop",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "SetGlobalValue",
+          "ratio": 1.0,
+          "key": "_NORMAL_ATTACK_COUNT_",
+          "maxValue": 0.0,
+          "minValue": 0.0
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "Predicated",
+          "targetPredicates": [
+            {
+              "$type": "ByTargetGlobalValue",
+              "target": "Self",
+              "key": "_NORMAL_ATTACK_COUNT_",
+              "ratio": 3.0,
+              "compareType": "MoreThanAndEqual"
+            }
+          ],
+          "successActions": [
+            {
+              "$type": "TriggerBullet",
+              "bulletID": 42609027,
+              "born": {
+                "$type": "ConfigBornByAttachPoint",
+                "direction": {
+                  "$type": "MDFHAFBFOAD",
+                  "NNGJPPABGNH": ""
+                },
+                "FIOMHONCCNM": true,
+                "attachPointName": "BulletSource",
+                "BKOJLOPLKJE": "Self"
+              }
+            },
+            {
+              "$type": "SetGlobalValue",
+              "ratio": 1.0,
+              "key": "_NORMAL_ATTACK_COUNT_",
+              "maxValue": 0.0,
+              "minValue": 0.0
+            }
+          ],
+          "failActions": [
+            {
+              "$type": "TriggerBullet",
+              "bulletID": 42609017,
+              "born": {
+                "$type": "ConfigBornByAttachPoint",
+                "direction": {
+                  "$type": "MDFHAFBFOAD",
+                  "NNGJPPABGNH": ""
+                },
+                "FIOMHONCCNM": true,
+                "attachPointName": "BulletSource",
+                "BKOJLOPLKJE": "Self"
+              }
+            },
+            {
+              "$type": "AddGlobalValue",
+              "ratio": 1.0,
+              "key": "_NORMAL_ATTACK_COUNT_",
+              "maxValue": 0.0,
+              "minValue": 0.0
+            }
+          ]
+        },
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_ShootNormal",
+          "effectTempleteID": -1.0
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_Bullet",
+      "modifiers": {
+        "WaterBullet_Display": {
+          "modifierName": "",
+          "elementType": "Water",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_BulletOverdose",
+              "effectTempleteID": -1.0
+            },
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_BulletOverdose_Trail",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "WaterBullet_Display"
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_HitOverdose",
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "FIOMHONCCNM": true,
+            "attachPointName": "RootNode"
+          },
+          "effectTempleteID": -1.0
+        },
+        {
+          "$type": "TriggerAttackEvent",
+          "attackEvent": {
+            "attackPattern": {
+              "$type": "ConfigAttackSphere",
+              "triggerType": "TriggerNoRepeat",
+              "born": {
+                "$type": "ConfigBornByCollisionPoint"
+              },
+              "radius": 0.800000011920929
+            },
+            "attackInfo": {
+              "attackTag": "",
+              "attenuationTag": "WaterBullet",
+              "attenuationGroup": "FungusFightV2_Seq1",
+              "attackProperty": {
+                "damagePercentage": 3.0,
+                "damagePercentageRatio": 0.0,
+                "elementType": "Water",
+                "bonusCritical": 25.0,
+                "attackType": "Range",
+                "FKGFPFNOJMN": 0.0
+              },
+              "hitPattern": {
+                "onHitEffectName": "default",
+                "hitImpulseType": "LV1"
+              },
+              "canBeModifiedBy": "Owner"
+            }
+          },
+          "targetType": "Enemy"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_SuperWaterBullet",
+      "modifiers": {
+        "WaterBullet_Display": {
+          "modifierName": "",
+          "elementType": "Water",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Water_SuperWaterBullet",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "WaterBullet_Display"
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Water_SuperWaterBullet_Blast",
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "FIOMHONCCNM": true,
+            "attachPointName": "RootNode"
+          },
+          "effectTempleteID": -1.0
+        },
+        {
+          "$type": "TriggerAttackEvent",
+          "attackEvent": {
+            "attackPattern": {
+              "$type": "ConfigAttackSphere",
+              "triggerType": "TriggerNoRepeat",
+              "born": {
+                "$type": "ConfigBornByCollisionPoint"
+              },
+              "radius": 4.0
+            },
+            "attackInfo": {
+              "attackTag": "",
+              "attenuationTag": "WaterBullet",
+              "attenuationGroup": "FungusFightV2_Seq1",
+              "attackProperty": {
+                "damagePercentage": 5.0,
+                "damagePercentageRatio": 0.0,
+                "elementType": "Water",
+                "bonusCritical": 25.0,
+                "attackType": "Range",
+                "FKGFPFNOJMN": 0.0
+              },
+              "hitPattern": {
+                "onHitEffectName": "default",
+                "hitImpulseType": "LV1"
+              },
+              "canBeModifiedBy": "Owner"
+            }
+          },
+          "targetType": "Enemy"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_SprayBlooming",
+      "onAbilityStart": [
+        {
+          "$type": "CreateGadget",
+          "born": {
+            "$type": "ConfigBornBySelf",
+            "offset": {
+              "z": 3.200000047683716
+            },
+            "CJKCLAIPMHH": true,
+            "FIOMHONCCNM": true
+          },
+          "BNCFPGNKKPA": true,
+          "gadgetID": 42609018
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_SprayBlooming_Gadget",
+      "modifiers": {
+        "SprayBloomingGadget": {
+          "modifierName": "",
+          "duration": 0.75,
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Water_SprayBlooming_Gadget",
+              "effectTempleteID": -1.0
+            }
+          ],
+          "onRemoved": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Water_SprayBlooming_Blast",
+              "effectTempleteID": -1.0
+            },
+            {
+              "$type": "ApplyModifier",
+              "otherTargets": {
+                "$type": "SelectTargetsByShape",
+                "shapeName": "CircleR30H10",
+                "campTargetType": "SelfCamp",
+                "OBHNBNDMPFN": 1.0
+              },
+              "predicates": [
+                {
+                  "$type": "ByEntityTypes",
+                  "entityTypes": ["Monster", "Partner"]
+                }
+              ],
+              "modifierName": "SprayBlooming_HealEffect"
+            },
+            {
+              "$type": "ApplyModifier",
+              "otherTargets": {
+                "$type": "SelectTargetsByShape",
+                "shapeName": "CircleR6H5",
+                "campTargetType": "Enemy",
+                "OBHNBNDMPFN": 1.0
+              },
+              "predicates": [
+                {
+                  "$type": "ByEntityTypes",
+                  "entityTypes": ["Monster", "Partner"]
+                }
+              ],
+              "modifierName": "SprayBlooming_DebuffDamage"
+            },
+            {
+              "$type": "KillSelf"
+            }
+          ]
+        },
+        "SprayBlooming_HealEffect": {
+          "modifierName": "",
+          "duration": 0.20000000298023224,
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "HealHP",
+              "GGLMMJHNGMO": 0.4000000059604645
+            },
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Water_HealFx",
+              "effectTempleteID": -1.0
+            }
+          ]
+        },
+        "SprayBlooming_DebuffDamage": {
+          "modifierName": "",
+          "duration": 0.20000000298023224,
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "DamageByAttackValue",
+              "attackInfo": {
+                "attackTag": "",
+                "attenuationTag": "",
+                "attenuationGroup": "default",
+                "attackProperty": {
+                  "damagePercentage": 4.5,
+                  "damagePercentageRatio": 0.0,
+                  "elementType": "Water",
+                  "bonusCritical": 50.0,
+                  "enBreak": 100.0,
+                  "attackType": "Range",
+                  "FKGFPFNOJMN": 0.0
+                },
+                "hitPattern": {
+                  "onHitEffectName": "default",
+                  "hitImpulseType": "LV3"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "ApplyModifier",
+          "modifierName": "SprayBloomingGadget"
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_Bubble_Trigger",
+      "abilityMixins": [
+        {
+          "$type": "AttachToAnimatorStateIDMixin",
+          "stateIDs": ["Bubble_Loop"],
+          "modifierName": "BubbleBullet_VFX_Display"
+        },
+        {
+          "$type": "SteerAttackMixin",
+          "steerStateIDs": ["ElementalAttack"],
+          "angularSpeed": 180.0,
+          "attackTrigger": ""
+        }
+      ],
+      "modifiers": {
+        "BubbleBullet_VFX_Display": {
+          "modifierName": "",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_ShootDecay_Loop",
+              "effectTempleteID": -1.0
+            }
+          ]
+        }
+      },
+      "onAbilityStart": [
+        {
+          "$type": "TriggerBullet",
+          "bulletID": 42609024,
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "FIOMHONCCNM": true,
+            "attachPointName": "BulletSource",
+            "BKOJLOPLKJE": "Self"
+          }
+        },
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_ShootDecay_Attack",
+          "effectTempleteID": -1.0
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_Bubble",
+      "modifiers": {
+        "WaterBubble_Display": {
+          "modifierName": "",
+          "elementType": "Water",
+          "bonusCritical": 100.0,
+          "onAdded": [
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_BulletNormal",
+              "effectTempleteID": -1.0
+            },
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_BulletNormal_Trail",
+              "effectTempleteID": -1.0
+            },
+            {
+              "$type": "AttachAbilityStateResistance",
+              "resistanceBuffDebuffs": ["ElementFreeze", "ElementFrozen"]
+            }
+          ]
+        }
+      },
+      "onAdded": [
+        {
+          "$type": "AttachModifier",
+          "modifierName": "WaterBubble_Display"
+        }
+      ],
+      "onAbilityStart": [
+        {
+          "$type": "FireEffect",
+          "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_HitNormal",
+          "born": {
+            "$type": "ConfigBornByAttachPoint",
+            "FIOMHONCCNM": true,
+            "attachPointName": "RootNode"
+          },
+          "effectTempleteID": -1.0
+        }
+      ]
+    }
+  },
+  {
+    "Default": {
+      "$type": "ConfigAbility",
+      "abilityName": "Fungus_Un_BVB_Water_Bubble_Surrounding",
+      "modifiers": {
+        "BulletNormal_AntiGravity": {
+          "modifierName": "",
+          "duration": 0.30000001192092896,
+          "bonusCritical": 100.0,
+          "properties": {
+            "Actor_AddGravityScale": -7.5
+          }
+        },
+        "BulletNormal_Surround": {
+          "modifierName": "",
+          "duration": 4.0,
+          "elementType": "Water",
+          "bonusCritical": 100.0,
+          "properties": {
+            "Actor_AddGravityScale": -2.0
+          },
+          "state": "Struggle",
+          "onAdded": [
+            {
+              "$type": "DamageByAttackValue",
+              "attackInfo": {
+                "attackTag": "",
+                "attenuationTag": "",
+                "attenuationGroup": "default",
+                "attackProperty": {
+                  "damagePercentage": 0.6000000238418579,
+                  "damagePercentageRatio": 0.0,
+                  "elementType": "Water",
+                  "bonusCritical": 25.0,
+                  "enBreak": 0.0,
+                  "attackType": "Range",
+                  "FKGFPFNOJMN": 0.0
+                },
+                "hitPattern": {
+                  "onHitEffectName": "default",
+                  "hitImpulseType": "LV0"
+                },
+                "canBeModifiedBy": "OriginOwner"
+              }
+            },
+            {
+              "$type": "AttachModifier",
+              "modifierName": "BulletNormal_AntiGravity"
+            },
+            {
+              "$type": "AttachEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_SurroundNormal",
+              "effectTempleteID": -1.0
+            }
+          ],
+          "onRemoved": [
+            {
+              "$type": "FireEffect",
+              "healLimitedByCasterMaxHPRatio": "Eff_Monster_Fungus_Un_Gamma_Water_Shoot_ASNormal",
+              "born": {
+                "$type": "ConfigBornByAttachPoint",
+                "FIOMHONCCNM": true,
+                "attachPointName": "RootNode"
+              },
+              "effectTempleteID": -1.0
+            }
+          ],
+          "onKill": [
+            {
+              "$type": "RemoveModifier",
+              "modifierName": "BulletNormal_Surround"
+            }
+          ]
+        }
+      },
+      "onAbilityStart": [
+        {
+          "$type": "Predicated",
+          "target": "Target",
+          "targetPredicates": [
+            {
+              "$type": "ByEntityTypes",
+              "entityTypes": ["Partner", "Monster"]
+            },
+            {
+              "$type": "ByTargetWeight",
+              "logic": "Lesser",
+              "weight": 100.0
+            },
+            {
+              "$type": "ByNot",
+              "predicates": [
+                {
+                  "$type": "PPIDPJIMFMI",
+                  "modifierName": "Bubble_Reject_Mark"
+                }
+              ]
+            }
+          ],
+          "successActions": [
+            {
+              "$type": "ApplyModifier",
+              "target": "Target",
+              "modifierName": "BulletNormal_Surround"
+            }
+          ],
+          "failActions": [
+            {
+              "$type": "TriggerAttackEvent",
+              "attackEvent": {
+                "attackPattern": {
+                  "$type": "ConfigAttackSphere",
+                  "triggerType": "TriggerNoRepeat",
+                  "born": {
+                    "$type": "ConfigBornBySelf",
+                    "FIOMHONCCNM": true
+                  },
+                  "radius": 1.5
+                },
+                "attackInfo": {
+                  "attackTag": "",
+                  "attenuationTag": "",
+                  "attenuationGroup": "default",
+                  "attackProperty": {
+                    "damagePercentage": 1.8300000429153442,
+                    "damagePercentageRatio": 0.0,
+                    "elementType": "Water",
+                    "bonusCritical": 50.0,
+                    "attackType": "Range",
+                    "FKGFPFNOJMN": 0.0
+                  },
+                  "hitPattern": {
+                    "onHitEffectName": "default",
+                    "hitImpulseType": "LV1"
+                  },
+                  "canBeModifiedBy": "OriginOwner"
+                }
+              },
+              "targetType": "Enemy"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

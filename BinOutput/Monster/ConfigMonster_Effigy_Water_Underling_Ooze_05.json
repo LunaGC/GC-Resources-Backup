@@ -1,0 +1,213 @@
+{
+  "common": {
+    "effectAttachShape": {
+      "$type": "ConfigEffectAttachSkinnedMesh",
+      "mesh": "EffectMesh"
+    },
+    "mass": 80.0,
+    "height": 0.800000011920929,
+    "modelHeight": 0.4000000059604645,
+    "affectedByWorld": true,
+    "checkInSurface": true,
+    "scale": 4.0,
+    "useGrassDisplacement": true
+  },
+  "model": {
+    "bornEffect": "Eff_Monster_Effigy_Water_OozeBorn",
+    "attachEffect": "",
+    "canBakeMesh": false
+  },
+  "combat": {
+    "property": {
+      "endureType": "Monster_Slime",
+      "weight": 60.0
+    },
+    "beHit": {
+      "hitBloodEffect": ""
+    },
+    "combatLock": {
+      "lockShape": "CircleLockEnemy",
+      "lockType": "Avatar&Monster_Lv4"
+    },
+    "die": {
+      "dieEndTime": 4.0,
+      "dieForceDisappearTime": 8.0,
+      "dieDisappearEffect": "",
+      "PPBCINBCJBA": true,
+      "IBLGJHDEEMI": true,
+      "MPPPPECBCJL": true,
+      "JFGNMBLBJEO": true,
+      "NMDIGLHJOIH": true,
+      "HOFJPBPLDIJ": true
+    }
+  },
+  "abilities": [
+    {
+      "abilityID": "",
+      "abilityName": "Monster_Effigy_Ooze_TypeAttack_State_Elite",
+      "abilityOverride": ""
+    }
+  ],
+  "stateLayers": {
+    "defaultLayer": {
+      "$type": "ConfigNormalStateLayer",
+      "FNPGDAEJAPJ": "",
+      "stateIDs": {
+        "Born": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Born": ["Audio_Slime_02_Born_N"]
+          },
+          "canSyncMove": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "NormalIdle": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Standby": []
+          },
+          "canDoSkill": true,
+          "canSyncMove": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "NormalMove": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Run": ["Audio_Slime_02_Walk_N"]
+          },
+          "canDoSkill": true,
+          "canSyncMove": true,
+          "resetAnimatorTriggerOnExit": ["DoSkill"],
+          "BHEPAJIOBDN": true
+        },
+        "BeHit": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Hit_L": ["Audio_Slime_02_Hit_L"],
+            "Hit_H": ["Audio_Slime_02_Hit_H"]
+          },
+          "resetAnimatorTriggerOnEnter": ["BeHit"],
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "BeHitThrow": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "HitThrow": ["Audio_Slime_02_HitThrow_N"],
+            "HitThrowDrop": [],
+            "HitThrowToGround": ["Audio_Slime_02_HitThrowToGround_N"]
+          },
+          "resetAnimatorTriggerOnEnter": ["BeHit", "HitAir2HitDrop"],
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "Struggle": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Struggle": []
+          },
+          "resetAnimatorTriggerOnEnter": ["BeHit", "HitAir2HitDrop"],
+          "resetAnimatorTriggerOnExit": ["DoSkill"]
+        },
+        "Die": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "Die": ["Monster_Effigy_Water_Ooze03_Die"]
+          }
+        },
+        "NormalAttack": {
+          "$type": "ConfigMonsterStateIDInfo",
+          "animatorStates": {
+            "NormalAttack": []
+          },
+          "resetAnimatorTriggerOnExit": ["BeHit", "DoSkill"]
+        }
+      }
+    }
+  },
+  "billboard": {
+    "$type": "NCBABGPMMPL",
+    "EBBHBMFMOGD": "BillboardAttach",
+    "offset": {
+      "y": 0.30000001192092896
+    },
+    "BFOMIIKCOGI": "Character",
+    "ANGKJBLILKJ": true,
+    "size": "Big"
+  },
+  "aibeta": {
+    "enable": true,
+    "sensing": {
+      "settings": {
+        "DefaultSetting": {
+          "viewRange": 15.0,
+          "feelRange": 45.0
+        }
+      }
+    },
+    "threat": {
+      "clearThreatTargetDistance": 30.0,
+      "clearThreatEdgeDistance": 3.0,
+      "clearThreatTimerByDistance": 2.0,
+      "viewAttenuation": [
+        {
+          "x": 10.0,
+          "y": 1.0
+        },
+        {
+          "x": 15.0,
+          "y": 0.5
+        }
+      ]
+    },
+    "defendArea": {
+      "defendRange": 50.0
+    },
+    "skills": {
+      "101": {
+        "name": "NormalAttack",
+        "priority": 1,
+        "castCondition": {
+          "pose": [101],
+          "pickRangeMax": 4.0
+        },
+        "cd": 2.0,
+        "initialCD": 2.0,
+        "publicCDGroup": "",
+        "CLEPNIDJOLN": "",
+        "stateIDs": ["NormalAttack"],
+        "flagTargetReachable": "10",
+        "flagSelfOnTemplateCollider": "01",
+        "flagSelfInZone": "10",
+        "flagTargetInZone": "11"
+      }
+    },
+    "skillGCD": 2.0,
+    "combatFixedMoveTactic": [
+      {
+        "$type": "HLPBLIEBJLM",
+        "enable": true,
+        "condition": {
+          "pose": [101]
+        },
+        "defaultSetting": {
+          "turnSpeedOverride": 1.0,
+          "GPKNKJPPCOM": 5.0,
+          "NDCHJGOOLCF": 99.0,
+          "FDNLEPNLLBP": 3.0,
+          "DANCMNIMNAM": 3.0,
+          "FCFLCFFJKLO": ""
+        }
+      },
+      {
+        "$type": "GJGILIGEJMO",
+        "enable": true
+      }
+    ]
+  },
+  "move": {
+    "$type": "PLMNMICDOHN",
+    "COJFNGPJCCL": true,
+    "MFCPGGKALCM": 0.10000000149011612,
+    "LDHGAEIKIEE": "SlimeType",
+    "LPAKBBIADNC": "RootNode"
+  }
+}

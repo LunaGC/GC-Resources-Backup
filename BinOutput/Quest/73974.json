@@ -1,0 +1,32 @@
+{
+  "id": 73974,
+  "type": "WQ",
+  "titleTextMapHash": 1909489711,
+  "descTextMapHash": 349260702,
+  "luaPath": "",
+  "showType": "QUEST_HIDDEN",
+  "rewardIdList": [554071],
+  "subQuests": [
+    {
+      "subId": 7397401,
+      "mainId": 73974,
+      "order": 1,
+      "descTextMapHash": 182477556,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ]
+}

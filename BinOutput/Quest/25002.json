@@ -1,0 +1,106 @@
+{
+  "id": 25002,
+  "type": "WQ",
+  "titleTextMapHash": 4247383593,
+  "descTextMapHash": 1324512951,
+  "luaPath": "",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 2500201,
+      "mainId": 25002,
+      "order": 1,
+      "descTextMapHash": 1740256319,
+      "showType": "QUEST_HIDDEN",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": [99902, 3, 0],
+          "param_str": ""
+        },
+        {
+          "param": [0, 0, 0],
+          "param_str": ""
+        },
+        {
+          "param": [0, 0, 0],
+          "param_str": ""
+        }
+      ],
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_PLAYER_LEVEL_UP",
+          "param": [0, 0],
+          "param_str": "",
+          "count": 30
+        },
+        {
+          "param": [0, 0],
+          "param_str": ""
+        },
+        {
+          "param": [0],
+          "param_str": ""
+        }
+      ],
+      "failCond": [
+        {
+          "param": [0],
+          "param_str": ""
+        },
+        {
+          "param": [0],
+          "param_str": ""
+        }
+      ],
+      "guide": {},
+      "finishParent": true,
+      "finishExec": [
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        }
+      ],
+      "failExec": [
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        }
+      ],
+      "beginExec": [
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        },
+        {
+          "param": [],
+          "param_str": ""
+        }
+      ]
+    }
+  ]
+}

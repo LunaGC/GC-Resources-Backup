@@ -1,0 +1,51 @@
+{
+  "id": 73277,
+  "type": "WQ",
+  "titleTextMapHash": 3994721311,
+  "descTextMapHash": 4023280822,
+  "luaPath": "Actor/Quest/WQ73277",
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 7327701,
+      "mainId": 73277,
+      "order": 1,
+      "descTextMapHash": 567901676,
+      "failCondComb": "QUEST_HIDDEN",
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ],
+  "talks": [
+    {
+      "id": 7327701,
+      "beginWay": "TALK_BEGIN_MANUAL",
+      "activeMode": "PLAY_MODE_HOST",
+      "beginCond": [
+        {
+          "type": "QUEST_COND_STATE_EQUAL",
+          "param": ["7303709", "3"],
+          "param_str": ""
+        }
+      ],
+      "priority": 5,
+      "initDialog": 732770101,
+      "npcId": [20791],
+      "performCfg": "",
+      "questId": 73277,
+      "prePerformCfg": ""
+    }
+  ]
+}

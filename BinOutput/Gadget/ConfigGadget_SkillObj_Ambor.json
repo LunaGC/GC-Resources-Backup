@@ -1,0 +1,1776 @@
+{
+  "ArrowRainField": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 100.0,
+        "attack": 10.0,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "ArrowRainField",
+        "abilityName": "Avatar_Ambor_ArrowRainField",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "CircleR3",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "checkInterval": 0.5,
+      "lifeTime": 5.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Dummy": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "IMLIDOCMEII": 1.2000000476837158
+      },
+      "affectedByWorld": true,
+      "checkInSurface": true
+    },
+    "specialPoint": {
+      "elementAbsorb": "RootNode",
+      "elementPendant": "",
+      "elementDrop": "RootNode",
+      "bulletAim": "RootNode"
+    },
+    "model": {
+      "bornEffect": "",
+      "attachEffect": "",
+      "hasCharacterRenderering": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "die": {
+        "dieDisappearEffect": "Eff_Ambor_Dummy_Explode"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Material",
+        "abilityName": "Avatar_Ambor_DummyMaterial",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Avatar_Ambor_BlowUpByTrigger",
+        "abilityName": "Avatar_Ambor_BlowUpByTrigger",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.199999809265137
+    },
+    "move": {
+      "$type": "DCIFKLAJKKO",
+      "BGKIHCPJBMO": {
+        "includeForces": ["RetreatType", "RetreatAirType", "WindZoneType"]
+      },
+      "NKFGFJEOHCM": false
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Born": [],
+              "Idle": ["Audio_Dummy_Taunt"]
+            }
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {
+        "onTransitionIn": [
+          {
+            "currentStateName": "Idle",
+            "audioEvent": {
+              "text": "Play_sfx_char_ambor_dummy_taunt"
+            }
+          }
+        ],
+        "onTransitionOut": [
+          {
+            "currentStateName": "Idle",
+            "audioEvent": {
+              "text": "Stop_sfx_char_ambor_dummy_taunt"
+            }
+          }
+        ]
+      },
+      "disableEvent": {
+        "text": "Stop_sfx_char_ambor_dummy_taunt_disableEvent"
+      },
+      "destroyEvent": {
+        "text": "Stop_sfx_char_ambor_dummy_taunt_disableEvent"
+      }
+    },
+    "characterRendering": {
+      "ACMMGJPFNGP": 1
+    }
+  },
+  "Ambor_Dummy_BlowUpTrigger": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "IMLIDOCMEII": 1.2000000476837158
+      },
+      "affectedByWorld": true,
+      "checkInSurface": true
+    },
+    "combat": {
+      "property": {
+        "HP": 999999.0,
+        "attack": 10.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Ambor_CreateBlowUpTrigger",
+        "abilityName": "Avatar_Ambor_CreateBlowUpTrigger",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Avatar_Ambor_BlowUpDummy",
+        "abilityName": "Avatar_Ambor_BlowUpDummy",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 99.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "target": "TargetEntity",
+      "IIKEHINGEME": "RootNode",
+      "IHAJOCLBEOK": ""
+    }
+  },
+  "Dummy_Throw": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 10.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 27.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_7M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 16.0,
+      "HBECHHMLGEP": 15.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    }
+  },
+  "Dummy_Throw_4M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 10.0,
+      "HBECHHMLGEP": 15.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    }
+  },
+  "Dummy_Throw_Short": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 3.5,
+      "HBECHHMLGEP": 60.0,
+      "EPLFGAAFNIM": 15.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    }
+  },
+  "Dummy_ElementBall": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 99999.0,
+        "attack": 1.0,
+        "defense": 99999.0,
+        "weight": 50.0,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Dummy_ElementBall",
+        "abilityName": "Avatar_Ambor_DummyDropBall",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.0
+    }
+  },
+  "Ambor_Arrow_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_01",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 12.899999618530273,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1",
+              "hitHaltTimeScale": 0.009999999776482582
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trail_Fx",
+        "abilityName": "Test_ShootArrow_Trail_Light_Fx",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Hit_Fx",
+        "abilityName": "Test_ShootArrow_Hit_Fx",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Test_ShootArrow_Hit_Fx"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Ambor_Arrow_02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_02",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 13.199999809265137,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1",
+              "hitHaltTimeScale": 0.009999999776482582
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trail_Fx",
+        "abilityName": "Test_ShootArrow_Trail_Light_Fx",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Hit_Fx",
+        "abilityName": "Test_ShootArrow_Hit_Fx",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Test_ShootArrow_Hit_Fx"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Ambor_Arrow_03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_03",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.0,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1",
+              "hitHaltTimeScale": 0.009999999776482582
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trail_Fx",
+        "abilityName": "Test_ShootArrow_Trail_Fx",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Hit_Fx",
+        "abilityName": "Test_ShootArrow_Hit_Fx",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Test_ShootArrow_Hit_Fx"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Ambor_Arrow_04": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_04",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 14.399999618530273,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1",
+              "hitHaltTimeScale": 0.009999999776482582
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trail_Fx",
+        "abilityName": "Test_ShootArrow_Trail_Light_Fx",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Hit_Fx",
+        "abilityName": "Test_ShootArrow_Hit_Fx",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Test_ShootArrow_Hit_Fx"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Ambor_Arrow_05": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_05",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 16.5,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1",
+              "hitHaltTimeScale": 0.009999999776482582
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Trail_Fx",
+        "abilityName": "Test_ShootArrow_Trail_Fx",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Hit_Fx",
+        "abilityName": "Test_ShootArrow_Hit_Fx",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 70.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 15.0,
+      "EPLFGAAFNIM": 30.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Test_ShootArrow_Hit_Fx"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "AimingArrow_WithoutFire": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Arrow_Material",
+        "abilityName": "Ambor_AimingArrow_WithoutFire_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 50.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 25.0,
+      "EPLFGAAFNIM": 5.5,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Ambor_AimingArrow_WithoutFire_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Double_ArrowAiming_WithoutFire": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "DoubleArrow_WithoutFire",
+        "abilityName": "Ambor_Talent212_DoubleArrow_WithoutFire_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 50.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.15000000596046448,
+      "IFJAOJKFNIK": 25.0,
+      "EPLFGAAFNIM": 5.5,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Ambor_Talent212_DoubleArrow_WithoutFire_Material"
+        }
+      ]
+    }
+  },
+  "Double_ArrowAiming": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "weight": 50.0,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Hit_Fx",
+        "abilityName": "Test_ShootAimingArrow_Hit_Fx",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "DoubleArrow",
+        "abilityName": "Ambor_Talent212_DoubleArrow",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 50.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.15000000596046448,
+      "IFJAOJKFNIK": 25.0,
+      "EPLFGAAFNIM": 5.5,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Ambor_Talent212_DoubleArrow"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Test_ShootAimingArrow_Hit_Fx"
+        }
+      ]
+    }
+  },
+  "Dummy_Throw_Temp_4M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 10.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 27.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_Temp_5M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 10.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 27.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_Temp_6M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 12.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 27.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_Temp_7M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 14.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 27.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_Temp_8M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 15.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 32.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_Temp_9M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 16.5,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 36.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  },
+  "Dummy_Throw_Temp_10M": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 2.4000000953674316,
+        "IMLIDOCMEII": 2.4000000953674316,
+        "OBEFFBEFICB": 2.4000000953674316
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "CreateDummy",
+        "abilityName": "Avatar_Ambor_CreateDummy",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "SpeedFix",
+        "abilityName": "Avatar_Ambor_Dummy_Speed_Fix",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 10.0
+    },
+    "move": {
+      "$type": "LIEFJMKKLOF",
+      "NOFDPFHMFNM": 18.0,
+      "FLBOCGHONPG": true,
+      "HBECHHMLGEP": 40.0,
+      "EPLFGAAFNIM": 30.0
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Ambor_CreateDummy"
+        }
+      ]
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "NormalMove": {
+            "$type": "ILLKEGMDAEF"
+          }
+        }
+      }
+    },
+    "audio": {
+      "$type": "IGNGMHPHOEP",
+      "LKJIHNLBIJL": "",
+      "animAudio": {}
+    }
+  }
+}

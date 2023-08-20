@@ -1,0 +1,2039 @@
+{
+  "SceneObj_Homeworld_Interior_Md_Decoration_Fireplace_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Md_Decoration_Fireplace_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Common_Decoration_Junk_06": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "DNEEEIMONPN",
+        "EJAEFCDBDFB": "EffectMesh"
+      },
+      "affectedByWorld": true
+    },
+    "specialPoint": {
+      "elementAbsorb": "RootNode",
+      "elementPendant": "",
+      "elementDrop": "RootNode",
+      "bulletAim": "bulletAim"
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 1000.0,
+        "attack": 300.0,
+        "defense": 1.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "Eff_Hit_QQObject_Immortal",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Decoration_Junk_06_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Common_Decoration_Stake_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "DNEEEIMONPN",
+        "EJAEFCDBDFB": "EffectMesh"
+      },
+      "affectedByWorld": true
+    },
+    "specialPoint": {
+      "elementAbsorb": "RootNode",
+      "elementPendant": "",
+      "elementDrop": "RootNode",
+      "bulletAim": "bulletAim"
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "HP": 1000.0,
+        "attack": 300.0,
+        "defense": 1.0,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Decoration_Stake_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Field_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_02",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Field_01_Mark",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Field_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_plant_dialog",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_FARMFIELD_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Field_02": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_02",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Field_02_Mark",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Field_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_plant_dialog",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_FARMFIELD_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Field_03": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_02",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Field_03_Mark",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Field_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_plant_dialog",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_FARMFIELD_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Teleporter_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Teleporter_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Fishpond_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_fishes_dialog",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_FISH_BUTTON",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 6.0,
+      "OHLENMNOCCK": 3.0,
+      "LLGLLNBBJBF": {
+        "x": 5.440000057220459,
+        "y": 2.299999952316284,
+        "z": 11.069999694824219
+      }
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Fishpond_02": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_fishes_dialog",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_FISH_BUTTON",
+      "FAHMLAAOOGH": "LOGIC_AND",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "COGMLCDBEJL": ["HOST"]
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 6.0,
+      "OHLENMNOCCK": 3.0,
+      "LLGLLNBBJBF": {
+        "x": -11.420000076293945,
+        "y": 1.149999976158142,
+        "z": 2.9700000286102295
+      }
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Decoration_Harp_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Decoration_Harp_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HARP_PLAY",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": [
+        "SceneObj_Homeworld_Exterior_Common_Decoration_Harp_01_Ability"
+      ],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_GuQin_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_GuQin_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HARP_PLAY",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": ["SceneObj_Homeworld_Exterior_GuQin_01"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Prop_Thing_FlowerPot_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_BUTTON",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 1.7000000476837158
+        },
+        "slotMap": {
+          "Flower1": {
+            "ENIEDKDAEGN": "Slot1",
+            "KNLJNBLMLEP": 1
+          },
+          "Flower2": {
+            "ENIEDKDAEGN": "Slot2",
+            "KNLJNBLMLEP": 2
+          },
+          "Flower3": {
+            "ENIEDKDAEGN": "Slot3",
+            "KNLJNBLMLEP": 3
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Homeworld_Ani_Interior_Xm_Decoration_Prop_Baozhu_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Ani_Interior_Xm_Decoration_Prop_Baozhu_01",
+        "abilityName": "SceneObj_Homeworld_Ani_Interior_Xm_Decoration_Prop_Baozhu_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_BAOZHU_TURN_ON_BUTTON",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": [
+        "SceneObj_Homeworld_Ani_Interior_Xm_Decoration_Prop_Baozhu_01"
+      ],
+      "icon": "UI_Icon_Intee_Mechanism",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.0
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Dq_Plant_Grass_07": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HYDRANGEA_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [3.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_Plant_Grass_07_Glow"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Plant_Tree_Slshu_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_SHALAN_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [3.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObject_Homeworld_Tree_Slshu_01"
+        },
+        {
+          "$type": "NFGJGNGIAND",
+          "triggerID": "Active"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Interior_Xm_Decoration_Prop_Shend_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_SHENDENG_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [3.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_Homeworld_Shend_01"
+        },
+        {
+          "$type": "NFGJGNGIAND",
+          "triggerID": "Active"
+        }
+      ]
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.0
+    }
+  },
+  "SceneObj_Homeworld_Interior_Common_Decoration_CommonTouch_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HYDRANGEA_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [4.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "All": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Roll": ["Audio_SceneObj_Gear_Decoration_Daruma_01"]
+            }
+          }
+        }
+      }
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "NFGJGNGIAND",
+          "triggerID": "Touch"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Build_Tiejiangpu_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Build_Tiejiangpu_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_forging_page",
+      "LKBDFMKIHMA": "UI_FORGE_PAGE_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 7.0
+    },
+    "LDKDJEDNDOM": true
+  },
+  "SceneObj_Homeworld_Interior_Dq_Decoration_ThunderArmor_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HYDRANGEA_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [3.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_Decoration_ThunderArmor_Active_Head"
+        },
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_Decoration_ThunderArmor_Active_Body"
+        },
+        {
+          "$type": "NFGJGNGIAND",
+          "triggerID": "Touch"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Interior_Common_Decoration_TestPainting_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_coop_frame_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_PICTURE_CHANGE_BUTTON",
+      "OAJHCMOLIDM": ["HOST"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "DMHNDDKOKNF": [
+        {
+          "HMPMMCCGOLJ": "UI/open_homeworld_coop_frame_check_dialog",
+          "LKBDFMKIHMA": "UI_HOMEWORLD_PICTURE_CHECK_BUTTON",
+          "OAJHCMOLIDM": ["CUSTOM_COOP_FRAME_CHECK"],
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "JDMENBLJFGP": 2
+        }
+      ]
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.0,
+      "OHLENMNOCCK": 4.0
+    },
+    "LDKDJEDNDOM": true
+  },
+  "SceneObj_Homeworld_Exterior_Common_Prop_Thing_SnowmanBody_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_SNOWMANBUTTON",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 1.7000000476837158
+        },
+        "slotMap": {
+          "Head": {
+            "ENIEDKDAEGN": "Head",
+            "KNLJNBLMLEP": 11
+          },
+          "Hand": {
+            "ENIEDKDAEGN": "Hand",
+            "KNLJNBLMLEP": 12
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Prop_Thing_SnowmanHead_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 1.7000000476837158
+        },
+        "slotMap": {
+          "Hat": {
+            "ENIEDKDAEGN": "Hat",
+            "KNLJNBLMLEP": 13
+          },
+          "Scarf": {
+            "ENIEDKDAEGN": "Scarf",
+            "KNLJNBLMLEP": 14
+          },
+          "Eye": {
+            "ENIEDKDAEGN": "Eye",
+            "KNLJNBLMLEP": 15
+          },
+          "Nose": {
+            "ENIEDKDAEGN": "Nose",
+            "KNLJNBLMLEP": 16
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    }
+  },
+  "SceneObj_Homeworld_General_Common_Thing_Prop_Irodori_Miniascape_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_MINIASCAPE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 0.800000011920929
+        },
+        "slotMap": {
+          "FrontScene": {
+            "ENIEDKDAEGN": "FrontScene",
+            "KNLJNBLMLEP": 21
+          },
+          "BehindScene": {
+            "ENIEDKDAEGN": "BehindScene",
+            "KNLJNBLMLEP": 22
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.2000000476837158,
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Homeworld_General_Common_Thing_Prop_Irodori_Viewforward_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {
+          "BEIJKOKIICG": 1.7000000476837158
+        },
+        "slotMap": {
+          "VitalFlower1": {
+            "ENIEDKDAEGN": "VitalFlower1",
+            "KNLJNBLMLEP": 23
+          },
+          "VitalFlower2": {
+            "ENIEDKDAEGN": "VitalFlower2",
+            "KNLJNBLMLEP": 24
+          },
+          "VitalFlower3": {
+            "ENIEDKDAEGN": "VitalFlower3",
+            "KNLJNBLMLEP": 25
+          },
+          "VitalFlower4": {
+            "ENIEDKDAEGN": "VitalFlower4",
+            "KNLJNBLMLEP": 26
+          },
+          "VitalFlower5": {
+            "ENIEDKDAEGN": "VitalFlower5",
+            "KNLJNBLMLEP": 27
+          },
+          "VitalFlower6": {
+            "ENIEDKDAEGN": "VitalFlower6",
+            "KNLJNBLMLEP": 28
+          }
+        }
+      },
+      "HGJJHLBEICG": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Flower_Decoration_Green_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HYDRANGEA_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [3.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_HomeworldFlower_Decoration_Green_01"
+        }
+      ]
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Dq_Build_Decoration_Sakura_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_HYDRANGEA_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [5.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_Homeworld_Buid_Decoration_Sakura_01"
+        },
+        {
+          "$type": "NFGJGNGIAND",
+          "triggerID": "Touch"
+        }
+      ]
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Ly_Lamp_Light_Skylantern_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_BIG_SKYLANTERN_BUTTON",
+      "JHAIJNHCFPC": "PostUIInteractGadgetAction",
+      "JMMCHLMLNCD": [3.0],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "KKPEBEJFPFM": [
+        {
+          "$type": "ENOEPLJNMEH",
+          "HPCABDIDIDF": "",
+          "healLimitedByCasterMaxHPRatio": "Eff_SceneObj_Light_Skylantern_01"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Ly_Build_Lift_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "disableTickDistance": 1500.0
+    },
+    "hasModel": true,
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Exterior_Ly_Build_Lift_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Ly_Build_Lift_01",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Ly_Build_Lift_02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "disableTickDistance": 1500.0
+    },
+    "hasModel": true,
+    "attackAttenuation": "default",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Exterior_Ly_Build_Lift_02",
+        "abilityName": "SceneObj_Homeworld_Exterior_Ly_Build_Lift_02",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "AllAvatars",
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "lifeInfinite": true,
+      "checkInterval": 0.5,
+      "overwriteCampType": true,
+      "campType": "All",
+      "INKADPFABPA": "Trigger",
+      "AAHHPDHLLLH": ""
+    },
+    "move": {
+      "$type": "AAECEBLKNON",
+      "IHHBMIGJBBL": "Once",
+      "PMBDCDOEGOM": [1.0, 1.0, 1.0, 1.0],
+      "KJFABNPOHGO": false,
+      "period": [5.0, 5.0, 5.0, 5.0],
+      "IICOLFOFGAH": [
+        {},
+        {
+          "y": 10.0
+        },
+        {
+          "y": 10.0
+        },
+        {}
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Prop_Bonfire_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Prop_Bonfire_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Md_Thing_Prop_KleeOven_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Md_Thing_Prop_KleeOven_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_cooking_page",
+      "LKBDFMKIHMA": "UI_COOKING_QTE_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "SceneObj_Homeworld_Interior_Md_Lamp_Light_MonaStar_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Md_Lamp_Light_MonaStar_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Interior_Xm_Thing_Prop_Kettle_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Xm_Thing_Prop_Kettle_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Build_Dreams_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Build_Dreams_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Brazier_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Brazier_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_02": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_02_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Interior_Xm_Thing_Prop_CafeStove_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Xm_Thing_Prop_CafeStove_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Blueball_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Blueball_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Interior_Xm_Thing_Build_Stove_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Xm_Thing_Build_Stove_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Swing_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Swing_01_Ability",
+        "abilityOverride": ""
+      }
+    ]
+  },
+  "SceneObj_Homeworld_Exterior_Ly_Thing_Prop_Soundflower_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Ly_Thing_Prop_Soundflower_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "DDOEFBHBEPJ": {
+      "CAPPPCGOCIH": {
+        "$type": "GIGBFELBDOC",
+        "alias": "",
+        "velocity": 4.0
+      },
+      "HGJJHLBEICG": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Shipsoul_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Shipsoul_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": [
+        "SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Shipsoul_01_Ability"
+      ],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Ly_Thing_Prop_Fireworks_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Exterior_Ly_Thing_Prop_Fireworks_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Ly_Thing_Prop_Fireworks_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": ["SceneObj_Homeworld_Exterior_Ly_Thing_Prop_Fireworks_01"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "COKKJJJPMOP",
+          "enable": true
+        },
+        {
+          "$type": "COKKJJJPMOP",
+          "GEBLEANKIHJ": "GearStart"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Prop_Thing_XmGrownBridge_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Exterior_Common_Prop_Thing_XmGrownBridge_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Prop_Thing_XmGrownBridge_01",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "AllAvatars",
+      "shape": "",
+      "DEOHMEELJDM": "",
+      "triggerInfinite": true,
+      "lifeInfinite": true,
+      "checkInterval": 0.5,
+      "overwriteCampType": true,
+      "campType": "All",
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Fireworks_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Fireworks_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Fireworks_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": ["SceneObj_Homeworld_Exterior_Dq_Thing_Prop_Fireworks_01"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "COKKJJJPMOP",
+          "enable": true
+        },
+        {
+          "$type": "COKKJJJPMOP",
+          "GEBLEANKIHJ": "GearStart"
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeland_AYuanDu_Jump_Mat": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 1000.0,
+        "attack": 100.0,
+        "weight": 50.0,
+        "isLockHP": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.10000000149011612,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "ability_01",
+        "abilityName": "SceneObj_Homeland_AYuanDu_Jump_Mat",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "ability_02",
+        "abilityName": "Scene_RockGadget_Summon_Detect",
+        "abilityOverride": ""
+      }
+    ],
+    "move": {
+      "$type": "NACDMPDJFHH",
+      "IIKEHINGEME": "MoguCollider"
+    },
+    "DDOEFBHBEPJ": {
+      "CAPPPCGOCIH": {
+        "$type": "EDOIDKEBHIM",
+        "alias": "",
+        "NOLPDOOBKHO": ["InteeTrigger"],
+        "LOMGLFJCBKE": 0.10000000149011612,
+        "LHOBFBJFMCE": 0.25
+      },
+      "HGJJHLBEICG": "",
+      "CJCFBGPDIAN": false
+    },
+    "stateLayers": {
+      "defaultLayer": {
+        "$type": "KFHJINNNDPN",
+        "BOPIBFKFKCA": "",
+        "stateIDs": {
+          "All": {
+            "$type": "ILLKEGMDAEF",
+            "HKPCLGHBKFD": {
+              "Jump": ["TrampolineJump_Homeworld"]
+            },
+            "BGJDNIJICNM": true
+          }
+        }
+      }
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "FHCNELPNCPL",
+          "intID": "State",
+          "EBNFFBOBCHB": true
+        }
+      ]
+    }
+  },
+  "SceneObj_Homeland_OwlGuard_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 200.0
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 80.0,
+        "defense": 999999.0,
+        "weight": 80.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieEndTime": 0.009999999776482582,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeland_OwlGuard_01",
+        "abilityName": "SceneObj_Homeland_OwlGuard_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_OWLGUARD_BUTTON",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": ["SceneObj_Homeland_OwlGuard_01"],
+      "icon": "UI_Icon_Intee_Mechanism",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "SceneObj_Homeland_BombPlay_Bomb": {
+    "$type": "ConfigGadget",
+    "common": {
+      "mass": 200.0,
+      "disableTickDistance": 100000.0
+    },
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 80.0,
+        "defense": 999999.0,
+        "weight": 80.0
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "lockType": "Gadget_Lv1"
+      },
+      "die": {
+        "dieEndTime": 0.009999999776482582,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeland_BombPlay_Bomb",
+        "abilityName": "SceneObj_Homeland_BombPlay_Bomb",
+        "abilityOverride": ""
+      }
+    ],
+    "DDOEFBHBEPJ": {
+      "HGJJHLBEICG": "",
+      "FFOEBPMCBBD": true,
+      "JCBHMPCFFDI": 1.4500000476837158,
+      "CIIEGKEPMBE": {
+        "uiIndicator": {
+          "templateName": "HM_Play_Shoot_Bomb_Icon"
+        },
+        "KDIPNCDPGMI": true
+      }
+    }
+  },
+  "SceneObj_Homeworld_BombPlay_Board": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_BombPlay_Board",
+        "abilityName": "SceneObj_Homeworld_BombPlay_Board",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_SEARCH_START_BUTTON",
+      "JHAIJNHCFPC": "GeneralUIInteract",
+      "DAHONBOOPGI": ["2"],
+      "icon": "UI_Icon_Intee_Mechanism",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "DMHNDDKOKNF": [
+        {
+          "HMPMMCCGOLJ": "UI/open_homeworld_balloon_check",
+          "LKBDFMKIHMA": "UI_HOMEWORLD_SEARCH_CHECK_BUTTON",
+          "icon": "UI_Icon_Intee_Mechanism",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "JDMENBLJFGP": 2
+        }
+      ]
+    },
+    "NEPNGCGEAOL": {
+      "MJDNEHMOFEA": [
+        {
+          "$type": "COKKJJJPMOP",
+          "GEBLEANKIHJ": "GearStart"
+        },
+        {
+          "$type": "COKKJJJPMOP",
+          "enable": true
+        }
+      ]
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 2.0,
+      "OHLENMNOCCK": 4.0
+    }
+  },
+  "SceneObj_Homeworld_Interior_Common_Thing_Prop_Fishbowl_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "SceneObj_Homeworld_Interior_Common_Thing_Prop_Fishbowl_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Common_Thing_Prop_Fishbowl_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_homeworld_fishes_dialog",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_FISHBOWL_PLACE_BUTTON",
+      "OAJHCMOLIDM": ["HOST"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "DMHNDDKOKNF": [
+        {
+          "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+          "LKBDFMKIHMA": "UI_HOMEWORLD_FISHBOWL_KNOCK_BUTTON",
+          "JHAIJNHCFPC": "WidgetMPSupport",
+          "DAHONBOOPGI": [
+            "SceneObj_Homeworld_Interior_Common_Thing_Prop_Fishbowl_01"
+          ],
+          "OAJHCMOLIDM": ["HOST"],
+          "icon": "",
+          "KKMMGKBKLNB": "",
+          "GEDPHHDMFAD": "",
+          "NIBCCLBLADB": "",
+          "JDMENBLJFGP": 2
+        }
+      ]
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 4.5,
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_cooking_page",
+      "LKBDFMKIHMA": "UI_COOKING_QTE_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    },
+    "LDKDJEDNDOM": true
+  },
+  "SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isInvincible": true,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_cooking_page",
+      "LKBDFMKIHMA": "UI_COOKING_QTE_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "IEKDGJJNMGH": false,
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 1.5
+    },
+    "LDKDJEDNDOM": true
+  },
+  "SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraBody": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_custom_gadget_page",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_CUSTOM_WOODCUT_BUTTON",
+      "OAJHCMOLIDM": ["HOST"],
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": "",
+      "BKPGKHOLAAD": false
+    },
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {},
+        "slotMap": {
+          "Head": {
+            "ENIEDKDAEGN": "Head",
+            "KNLJNBLMLEP": 31
+          }
+        }
+      },
+      "MHIKCMFDCOP": {
+        "GBOOAKGGENA": 0.30000001192092896
+      },
+      "IGFKMLMONFM": {},
+      "HGJJHLBEICG": ""
+    },
+    "JEMDHNLFOGF": {
+      "OHLENMNOCCK": 3.0
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraHead": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "DDOEFBHBEPJ": {
+      "FKPDDGJDMMH": {
+        "KMNCCPJOEPA": {},
+        "slotMap": {
+          "Hat": {
+            "ENIEDKDAEGN": "Hat",
+            "KNLJNBLMLEP": 32
+          },
+          "Cape": {
+            "ENIEDKDAEGN": "Cape",
+            "KNLJNBLMLEP": 33
+          },
+          "Eye": {
+            "ENIEDKDAEGN": "Eye",
+            "KNLJNBLMLEP": 34
+          }
+        }
+      },
+      "MHIKCMFDCOP": {
+        "GBOOAKGGENA": 0.30000001192092896
+      },
+      "IGFKMLMONFM": {},
+      "HGJJHLBEICG": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraPart": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "attackAttenuation": "",
+    "DDOEFBHBEPJ": {
+      "MHIKCMFDCOP": {
+        "GBOOAKGGENA": 0.30000001192092896
+      },
+      "IGFKMLMONFM": {},
+      "HGJJHLBEICG": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Common_Thing_Prop_AyuanBlow_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Exterior_Common_Thing_Prop_AyuanBlow_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "DDOEFBHBEPJ": {
+      "CAPPPCGOCIH": {
+        "$type": "GIGBFELBDOC",
+        "alias": "",
+        "velocity": 4.0
+      },
+      "HGJJHLBEICG": ""
+    }
+  },
+  "SceneObj_Homeworld_Ani_Exterior_Fd_Thing_Prop_MachFish_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "attack": 50.0,
+        "weight": 50.0,
+        "isInvincible": true,
+        "isLockHP": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "hitAutoRedirect": false,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Ability_01",
+        "abilityName": "SceneObj_Homeworld_Ani_Exterior_Fd_Thing_Prop_MachFish_01_Ability",
+        "abilityOverride": ""
+      }
+    ],
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "TEST/TEST_Chest_Btn",
+      "LKBDFMKIHMA": "UI_HOMEWORLD_MACHFISH_BUTTON",
+      "JHAIJNHCFPC": "WidgetMPSupport",
+      "DAHONBOOPGI": [
+        "SceneObj_Homeworld_Ani_Exterior_Fd_Thing_Prop_MachFish_01_Ability"
+      ],
+      "icon": "UI_Icon_Intee_Mechanism",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    }
+  },
+  "SceneObj_Homeworld_Exterior_Fd_Build_Tiejiangpu_01": {
+    "$type": "ConfigGadget",
+    "hasModel": true,
+    "combat": {
+      "property": {
+        "HP": 99999.0,
+        "isLockHP": true,
+        "ABKGDMJEMJJ": true
+      }
+    },
+    "attackAttenuation": "",
+    "HDMNJBJPNHP": {
+      "HMPMMCCGOLJ": "UI/open_forging_page",
+      "LKBDFMKIHMA": "UI_FORGE_PAGE_TITLE",
+      "icon": "",
+      "KKMMGKBKLNB": "",
+      "GEDPHHDMFAD": "",
+      "NIBCCLBLADB": ""
+    },
+    "JEMDHNLFOGF": {
+      "APGKCLJCPJN": 2.700000047683716,
+      "LLGLLNBBJBF": {
+        "x": 2.299999952316284,
+        "z": 5.599999904632568
+      }
+    },
+    "LDKDJEDNDOM": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "Diluc_FireCross": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Gadget_Lv1"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Diluc_FireCross_Material",
+        "abilityName": "Avatar_Diluc_FireCross_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Avatar_Diluc_FireCross_Explode",
+        "abilityName": "Avatar_Diluc_FireCross_Explode",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 1.7000000476837158
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 14.0,
+      "EILJBCHMAIH": -2.0,
+      "NDGGLIBNDHP": 1.0,
+      "MLLDAINGCPD": {
+        "LDGCOFBNILL": 3.0,
+        "IDPIALMIAEG": 30.0,
+        "JPJMEPGMIBM": 1.600000023841858,
+        "EBNKPFBIDBP": 1.2000000476837158,
+        "MJHMIDBFLLM": true,
+        "FHFBJGOKDBP": "Keep",
+        "OMEEHJNLOMB": "Keep"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerNoRepeat",
+        "triggerCD": 10.0,
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Avatar_Diluc_FireCross_Explode"
+        }
+      ]
+    }
+  }
+}

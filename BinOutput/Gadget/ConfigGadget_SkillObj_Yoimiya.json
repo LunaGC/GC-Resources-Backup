@@ -1,0 +1,2122 @@
+{
+  "Yoimiya_Arrow_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "Arrow_ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_01",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 8.158499717712402,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityName": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "Arrow_ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_Material_Small"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "Arrow_ATK02": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_02",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.651000022888184,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityName": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "Arrow_ATK02"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_Material_Small"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "Arrow_ATK03": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_03",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 19.979999542236328,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityName": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "Arrow_ATK03"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_Material_Small"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_04": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "Arrow_ATK04": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_04",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 10.656000137329102,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityName": "Bullet_Yoimiya_Arrow_Material_Small",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "Arrow_ATK04"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_Material_Small"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_05": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "Arrow_ATK05": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_05",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "bonusCritical": 100.0,
+              "strikeType": "Pierce",
+              "enBreak": 23.84280014038086,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "LV1"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_Material_Big",
+        "abilityName": "Bullet_Yoimiya_Arrow_Material_Big",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 70.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 15.0,
+      "EPLFGAAFNIM": 30.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "Arrow_ATK05"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_Material_Big"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_Art_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "FireArrow_ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_01",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 8.158499717712402,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityName": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "FireArrow_ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalArt_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_Art_02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "FireArrow_ATK02": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_02",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.651000022888184,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityName": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "FireArrow_ATK02"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalArt_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_Art_03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "FireArrow_ATK03": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_03",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 19.979999542236328,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityName": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "FireArrow_ATK03"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalArt_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_Art_04": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "FireArrow_ATK04": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_04",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 10.656000137329102,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityName": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 40.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "FireArrow_ATK04"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalArt_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_Arrow_Art_05": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "FireArrow_ATK05": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_05",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 23.84280014038086,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityName": "Bullet_Yoimiya_ElementalArt_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 70.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 15.0,
+      "EPLFGAAFNIM": 30.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "FireArrow_ATK05"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalArt_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_AimingArrow_NoFire": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_NoFire_Material",
+        "abilityName": "Bullet_Yoimiya_Arrow_NoFire_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 50.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 25.0,
+      "EPLFGAAFNIM": 5.5,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_NoFire_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_AimingArrow_WithFire": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_Arrow_WithFire_Material",
+        "abilityName": "Bullet_Yoimiya_Arrow_WithFire_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 20.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 50.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "IFJAOJKFNIK": 25.0,
+      "EPLFGAAFNIM": 5.5,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_Arrow_WithFire_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_FireRing": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_FireRing_Material",
+        "abilityName": "Bullet_Yoimiya_FireRing_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 12.0
+    },
+    "move": {
+      "$type": "BELFBLEANMG",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "IIKEHINGEME": "RootNode",
+      "KFIHIDEPLKH": {
+        "z": 1.0
+      },
+      "EMDHMEDHGPE": true,
+      "KEDHAOHPJKL": true,
+      "IHAJOCLBEOK": ""
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "GOMGCHKCHKI": true,
+      "CBHACCCJFPI": 0.6000000238418579
+    }
+  },
+  "Yoimiya_GoldFish": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_GoldFish_Material",
+        "abilityName": "Bullet_Yoimiya_GoldFish_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 2.5
+    },
+    "move": {
+      "$type": "EHIGOGOLKOO",
+      "NOFDPFHMFNM": 10.0,
+      "maxSpeed": 60.0,
+      "NDLHJKADBGC": 30.0,
+      "EILJBCHMAIH": 5.0,
+      "HFFPPCEMOGJ": true
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_GoldFish_Material"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_GoldFish_Material"
+        }
+      ]
+    }
+  },
+  "Yoimiya_ElementalBurst_Bullet": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ElementalBurst_Material",
+        "abilityName": "Bullet_Yoimiya_ElementalBurst_Material",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 3.0
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 100.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "ccd": {
+          "type": "Always"
+        },
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalBurst_Material"
+        }
+      ],
+      "MHOEMLCBJOO": [
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ElementalBurst_Material"
+        }
+      ]
+    }
+  },
+  "Yoimiya_ElementalBurst_Gadget": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "BDPGABAMMPP": {
+      "lifeTime": 4.0
+    }
+  },
+  "Yoimiya_TalentArrow_01": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "TalentArrow_ATK01": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_01",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.0,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityName": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "TalentArrow_ATK01"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ExtraBullet_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_TalentArrow_02": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "TalentArrow_ATK02": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_02",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.0,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityName": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "TalentArrow_ATK02"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ExtraBullet_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_TalentArrow_03": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "TalentArrow_ATK03": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_03",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.0,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityName": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "TalentArrow_ATK03"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ExtraBullet_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_TalentArrow_04": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "TalentArrow_ATK04": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_04",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.0,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityName": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "IFJAOJKFNIK": 7.0,
+      "EPLFGAAFNIM": 15.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "TalentArrow_ATK04"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ExtraBullet_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  },
+  "Yoimiya_TalentArrow_05": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC",
+        "AOOMOJMAGMJ": 0.5,
+        "IMLIDOCMEII": 0.5
+      },
+      "affectedByWorld": true
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "animEvents": {
+        "TalentArrow_ATK05": {
+          "attackPattern": {
+            "$type": "GGBJACPDDCM",
+            "triggerType": "TriggerNoRepeat",
+            "MMLJIFPBPOD": "Both",
+            "born": {
+              "$type": "GBFINJHCBPI",
+              "offset": {
+                "HMHIOILIGBF": 0.0,
+                "DPPJGBOHAAL": 0.0,
+                "DDOAGBLBCEF": -0.5
+              }
+            },
+            "size": {
+              "HMHIOILIGBF": 0.10000000149011612,
+              "DPPJGBOHAAL": 0.10000000149011612,
+              "DDOAGBLBCEF": 1.0
+            }
+          },
+          "attackInfo": {
+            "attackTag": "NormalAttack_05",
+            "attenuationTag": "NormalAttack",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Fire",
+              "bonusCritical": 25.0,
+              "strikeType": "Pierce",
+              "enBreak": 15.0,
+              "attackType": "Range",
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "Eff_Avatar_Girl_Bow_Yoimiya_ElementalArt_Bullet_HitEffect",
+              "hitImpulseType": "LV2"
+            },
+            "cameraShake": {
+              "shakeRange": 0.019999999552965164,
+              "shakeTime": 0.10000000149011612
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityName": "Bullet_Yoimiya_ExtraBullet_Material",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 8.0
+    },
+    "move": {
+      "$type": "FEJKPHBAIHP",
+      "NOFDPFHMFNM": 30.0,
+      "BLECDCEAOFM": {
+        "$type": "HMFDMPDLMCJ"
+      },
+      "CAMKOAKMJHD": 0.20000000298023224,
+      "IFJAOJKFNIK": 15.0,
+      "EPLFGAAFNIM": 30.0,
+      "ECPHNBHDJEJ": 0.009999999776482582
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "targetType": "Enemy"
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "OHBDCOAOENE",
+          "attackEvent": "TalentArrow_ATK05"
+        },
+        {
+          "$type": "HLFEAMOONEP",
+          "abilityName": "Bullet_Yoimiya_ExtraBullet_Material"
+        }
+      ],
+      "CHIILEPJCLG": true
+    }
+  }
+}

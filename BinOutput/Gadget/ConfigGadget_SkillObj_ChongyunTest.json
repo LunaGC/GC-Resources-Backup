@@ -1,0 +1,181 @@
+{
+  "ChongyunTest_TestConeDummy": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": ""
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Chongyun_IceCrystal_Dummy",
+        "abilityName": "Avatar_Chongyun_IceCrystal_Dummy",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "concernType": "AllAvatars",
+      "shape": "CircleR8",
+      "DEOHMEELJDM": "",
+      "lifeTime": 5.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "Chongyun_IceCrystal": {
+    "$type": "ConfigGadget",
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "canTriggerBullet": true,
+        "denyElementStick": true
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      },
+      "die": {
+        "dieForceDisappearTime": 0.5,
+        "dieDisappearEffect": "Eff_Chongyun_ElementalSkill_IceCrystal_Disappear"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "Avatar_Chongyun_IceCrystal",
+        "abilityName": "Avatar_Chongyun_IceCrystal",
+        "abilityOverride": ""
+      },
+      {
+        "abilityID": "Avatar_Chongyun_SoulUnleash_Single_Initiate",
+        "abilityName": "Avatar_Chongyun_SoulUnleash_Single_Initiate",
+        "abilityOverride": ""
+      }
+    ],
+    "field": {
+      "shape": "CircleR8",
+      "DEOHMEELJDM": "",
+      "lifeTime": 10.0,
+      "INKADPFABPA": "",
+      "AAHHPDHLLLH": ""
+    }
+  },
+  "ChongyunTest_TestBlade": {
+    "$type": "ConfigGadget",
+    "common": {
+      "effectAttachShape": {
+        "$type": "PBGINMMOLDC"
+      }
+    },
+    "combat": {
+      "property": {
+        "useCreatorProperty": true,
+        "isInvincible": true,
+        "ignorePurgeRate": false
+      },
+      "beHit": {
+        "hitBloodEffect": "",
+        "muteAllHit": true,
+        "muteAllHitEffect": true,
+        "muteAllHitText": true
+      },
+      "combatLock": {
+        "lockShape": "CircleLockEnemy",
+        "denyLockOn": true,
+        "lockType": "Default"
+      }
+    },
+    "attackAttenuation": "",
+    "abilities": [
+      {
+        "abilityID": "ChongyunTest_TestBlade_Hit",
+        "abilityName": "ChongyunTest_TestBlade_Hit",
+        "abilityOverride": ""
+      }
+    ],
+    "BDPGABAMMPP": {
+      "lifeTime": 0.6000000238418579
+    },
+    "move": {
+      "$type": "CJBKMBOOPHF",
+      "BGKIHCPJBMO": {
+        "muteAll": true
+      },
+      "NOFDPFHMFNM": 20.0,
+      "MLLDAINGCPD": {
+        "LDGCOFBNILL": 1.5,
+        "IDPIALMIAEG": 40.0,
+        "JPJMEPGMIBM": 0.800000011920929,
+        "EBNKPFBIDBP": 0.800000011920929,
+        "MJHMIDBFLLM": true,
+        "FHFBJGOKDBP": "Keep",
+        "OMEEHJNLOMB": "Keep"
+      }
+    },
+    "MNNPNOAELLI": {
+      "$type": "AFPECAAHDNC",
+      "collision": {
+        "triggerType": "TriggerAlways",
+        "triggerCD": 1.0,
+        "targetType": "Enemy",
+        "ignoreScene": true
+      },
+      "HDABNDJLLCO": [
+        {
+          "$type": "AFPNIHEBHED",
+          "attackInfo": {
+            "attackTag": "IceBlades",
+            "attenuationTag": "",
+            "attenuationGroup": "default",
+            "attackProperty": {
+              "PCFAAPMOCGJ": 0.0,
+              "LCCBNOKMNFG": 0.0,
+              "elementType": "Ice",
+              "bonusCritical": 25.0,
+              "strikeType": "Default",
+              "enBreak": 36.0,
+              "FKGFPFNOJMN": 0.0
+            },
+            "hitPattern": {
+              "onHitEffectName": "default",
+              "hitImpulseType": "",
+              "overrideHitImpulse": {
+                "hitLevel": "Heavy",
+                "BLHKKKALNDK": 200.0,
+                "hitImpulseY": 0.0
+              },
+              "hitHaltTimeScale": 0.05000000074505806
+            },
+            "canBeModifiedBy": "OriginOwner"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 73668,
+  "type": "WQ",
+  "titleTextMapHash": 2250356575,
+  "descTextMapHash": 3418201310,
+  "luaPath": "Actor/Quest/WQ73668",
+  "subQuests": [
+    {
+      "subId": 7366801,
+      "mainId": 73668,
+      "order": 1,
+      "descTextMapHash": 123501668,
+      "acceptCondComb": "LOGIC_NONE",
+      "finishCondComb": "LOGIC_NONE",
+      "acceptCond": [
+        {
+          "type": "QUEST_COND_UNKNOWN",
+          "param": [0, 0]
+        }
+      ],
+      "finishCond": [],
+      "failCond": [],
+      "beginExec": [],
+      "finishExec": [],
+      "failExec": [],
+      "guide": {}
+    }
+  ]
+}
