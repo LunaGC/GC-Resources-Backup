@@ -267,6 +267,68 @@
             }
         ]
     },
+    "Avatar_Player_AbilityGroup_Boy_Water": {
+        "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_AVATAR_SKILL_DEPOT",
+        "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+        "targetAbilities": [
+            {
+                "abilityID": "Avatar_PlayerBoy_ExtraAttack_Water",
+                "abilityName": "Avatar_PlayerBoy_ExtraAttack_Water",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_PlayerBoy_ElementalArt_Water",
+                "abilityName": "Avatar_PlayerBoy_ElementalArt_Water",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_Player_Water_ElementalBurst_CameraExit",
+                "abilityName": "Avatar_Player_Water_ElementalBurst_CameraExit",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_Player_Water_ElementalBurst_Initiate",
+                "abilityName": "Avatar_Player_Water_ElementalBurst_Initiate",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_Player_Water_ElementalBurst_WeaponDisplay",
+                "abilityName": "Avatar_Player_Water_ElementalBurst_WeaponDisplay",
+                "abilityOverride": ""
+            }
+        ]
+    },
+    "Avatar_Player_AbilityGroup_Girl_Water": {
+        "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_AVATAR_SKILL_DEPOT",
+        "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",
+        "targetAbilities": [
+            {
+                "abilityID": "Avatar_PlayerGirl_ExtraAttack_Water",
+                "abilityName": "Avatar_PlayerGirl_ExtraAttack_Water",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_PlayerBoy_ElementalArt_Water",
+                "abilityName": "Avatar_PlayerBoy_ElementalArt_Water",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_Player_Water_ElementalBurst_CameraExit",
+                "abilityName": "Avatar_Player_Water_ElementalBurst_CameraExit",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_Player_Water_ElementalBurst_Initiate",
+                "abilityName": "Avatar_Player_Water_ElementalBurst_Initiate",
+                "abilityOverride": ""
+            },
+            {
+                "abilityID": "Avatar_Player_Water_ElementalBurst_WeaponDisplay",
+                "abilityName": "Avatar_Player_Water_ElementalBurst_WeaponDisplay",
+                "abilityOverride": ""
+            }
+        ]
+    },
     "Avatar_Player_AbilityGroup_Boy_Grass": {
         "abilityGroupSourceType": "ABILITY_GROUP_SOURCE_AVATAR_SKILL_DEPOT",
         "abilityGroupTargetType": "ABILITY_GROUP_TARGET_AVATAR",

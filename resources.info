@@ -1,5 +1,5 @@
 repo:gitlab.com/YuukiPS/GC-Resources
-ver:3.7.0
+ver:4.0.0
 patches:Amber,Custom
 scripts:official
 hasserverres:true
